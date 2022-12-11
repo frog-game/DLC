@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2174075324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52306cdaba88e11017586442649908bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6479a93d54ecebc02cbb77961d894e7b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/AnimatorController.controller
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/Cast.anim
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/Run.anim
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/Dash.anim
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/Avatar.asset
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/Drink.anim
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/Attack.anim
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/Idle.anim
+Dependencies: []

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2455245866
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ca84cf391adea679722ece63d2cee39
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_6.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1a531562bd6a6ec5a2158f3a625eb1de
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/818513cd9000ff1117afea501dab3857

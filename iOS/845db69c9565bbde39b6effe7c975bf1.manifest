@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3740917071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4117aa48d60b87e9012f96fb29188df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c52de6560d3e450e26e9a03297d9f7c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ceaccea769246b47b5fd8713ee65960, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/packs/StylizedExplosionPack2/WebBuildStylizedExplosionPack2/prefabBombs/Classic/Classic_heavy_Bomb.prefab
+- Assets/ThirdParty/EffectCore/packs/StylizedExplosionPack2/WebBuildStylizedExplosionPack2/prefabBombs/Classic/Classic_small_Bomb.prefab
+- Assets/ThirdParty/EffectCore/packs/StylizedExplosionPack2/WebBuildStylizedExplosionPack2/prefabBombs/Classic/Classic_bomb.mat
+- Assets/ThirdParty/EffectCore/packs/StylizedExplosionPack2/WebBuildStylizedExplosionPack2/prefabBombs/Classic/Classic_medium_Bomb.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/8597263f343c383111bb77b15329406a

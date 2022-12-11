@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 614385679
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76f6be7667fa6232504534fe245b87ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad06958797749336e5782b9470fdf713
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Prefabs/Rocks/noLODs/Rock_10.prefab
+- Assets/StylizedNatureBundle/Prefabs/Rocks/noLODs/Rock_05.prefab
+- Assets/StylizedNatureBundle/Prefabs/Rocks/noLODs/Rock_02.prefab
+- Assets/StylizedNatureBundle/Prefabs/Rocks/noLODs/Rock_01.prefab
+- Assets/StylizedNatureBundle/Prefabs/Rocks/noLODs/Rock_07.prefab
+- Assets/StylizedNatureBundle/Prefabs/Rocks/noLODs/Rock_11.prefab
+- Assets/StylizedNatureBundle/Prefabs/Rocks/noLODs/Rock_08.prefab
+- Assets/StylizedNatureBundle/Prefabs/Rocks/noLODs/Rock_04.prefab
+- Assets/StylizedNatureBundle/Prefabs/Rocks/noLODs/Rock_06.prefab
+- Assets/StylizedNatureBundle/Prefabs/Rocks/noLODs/Rock_03.prefab
+- Assets/StylizedNatureBundle/Prefabs/Rocks/noLODs/Rock_12.prefab
+- Assets/StylizedNatureBundle/Prefabs/Rocks/noLODs/Rock_09.prefab
+- Assets/StylizedNatureBundle/Prefabs/Rocks/noLODs/Rock_13.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/84928ce021bb4a4d1e6c49c2f3854633
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/ca200d8dc3953c083314b71f59015110
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d3a72ecd26e743c00a5152651814b987

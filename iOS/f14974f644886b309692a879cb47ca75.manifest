@@ -1,0 +1,93 @@
+ManifestFileVersion: 0
+CRC: 3212550499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 543643659be297e5b5fe2796a25890cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 957c278ef058c26e1f0b9704549d891f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Plant_03.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_07_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_01_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_01_e.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Bush_01_f.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_02_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Plant_04_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_03_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Grass_03.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Grass_02.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Plant_02_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Bush_02_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Plant_01.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_06_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Bush_01_e.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_06_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_01_h.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Bush_01_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_05_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_14_LOD.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Bush_01_d.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_08_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_07_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Bush_02_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_09_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_08_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_02_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Grass_01.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_17_LOD.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Plant_04_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_04_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Bush_01_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_15_LOD.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Grass_04.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_01_d.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Bush_02_e.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_04_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_01_f.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Bush_02_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_01_g.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Bush_02_d.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Plant_02_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Plant_04_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_07_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Plant_02_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_01_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Plant_04_e.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_09_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Bush_01_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Plant_04_d.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_05_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_01_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_12_LOD.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_11_LOD.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_03_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Bush_02_f.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_09_d.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_09_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_10.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_13_LOD.prefab
+- Assets/StylizedNatureBundle/Prefabs/Vegetation/Flower_16_LOD.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/84928ce021bb4a4d1e6c49c2f3854633
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a55a78a05f9db8757810cf12c3246684

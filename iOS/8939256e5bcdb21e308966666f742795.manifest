@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2659183548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb852fc18951abfcb74325b9342cf763
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 597c47d9debdd2cd275dfa0cdb6505de
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Scenes/Display_Mesa.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0f2aa2cd56fbe3fbf7d78fd6d1401ba9
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/408070f0458e80159e6a2132b9299c40
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/cfdcb4dac2b7d2a2bf08274b07ab68f2
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/ece5aff583e3283e4fb95c9ba39c36a3

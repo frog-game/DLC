@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2439671134
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a71be67e1d3862f21edf80482eb48846
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Grounds/Ground_05_nmp.tif
+- Assets/MOBA and Tower Defense/Grounds/Ground_05.tif
+Dependencies: []

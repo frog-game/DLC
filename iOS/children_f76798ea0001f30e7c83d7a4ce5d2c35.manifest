@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2519689855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d158565ae4375c22937bb25433fb5bda
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Noise41.png
+Dependencies: []

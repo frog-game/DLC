@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1385358602
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1046ecc5becc9305f2683232fbf99e13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowpolySubstances/Demos/Standard Assets/Effects/ImageEffects/Textures/MotionBlurJitter.png
+- Assets/ThirdParty/LowpolySubstances/Demos/Standard Assets/Effects/ImageEffects/Textures/HexShape.psd
+- Assets/ThirdParty/LowpolySubstances/Demos/Standard Assets/Effects/ImageEffects/Textures/VignetteMask.png
+- Assets/ThirdParty/LowpolySubstances/Demos/Standard Assets/Effects/ImageEffects/Textures/Noise.png
+- Assets/ThirdParty/LowpolySubstances/Demos/Standard Assets/Effects/ImageEffects/Textures/ContrastEnhanced3D16.png
+- Assets/ThirdParty/LowpolySubstances/Demos/Standard Assets/Effects/ImageEffects/Textures/SphereShape.psd
+- Assets/ThirdParty/LowpolySubstances/Demos/Standard Assets/Effects/ImageEffects/Textures/NoiseAndGrain.png
+- Assets/ThirdParty/LowpolySubstances/Demos/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectGrain.png
+- Assets/ThirdParty/LowpolySubstances/Demos/Standard Assets/Effects/ImageEffects/Textures/grayscale
+  ramp.png
+- Assets/ThirdParty/LowpolySubstances/Demos/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectScratch.png
+- Assets/ThirdParty/LowpolySubstances/Demos/Standard Assets/Effects/ImageEffects/Textures/Neutral3D16.png
+- Assets/ThirdParty/LowpolySubstances/Demos/Standard Assets/Effects/ImageEffects/Textures/RandomVectors.png
+- Assets/ThirdParty/LowpolySubstances/Demos/Standard Assets/Effects/ImageEffects/Textures/color
+  correction ramp.png
+Dependencies: []

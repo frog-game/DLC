@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2169099707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3676f613ce54d25fda5cb820edd7fb0a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Nature Forest/Textures/Nature-Palette.png
+- Assets/Environment Pack/Nature Forest/Textures/Nature-Palette 1.png
+- Assets/Environment Pack/Nature Forest/Textures/true.png
+Dependencies: []

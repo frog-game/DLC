@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1734096032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1772baad997a8fe0bdc79de54454907
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae2cf77de671e115b4e55d2b65767202
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/shelter.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/tree.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/can.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/logs1.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/shelter_pegs.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/island.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/torch_hand.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/logs2.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/sword_handle.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/mountains.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/stones.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/tree_pine.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/candle_plate.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/candle.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/shelter_wire.fbx
+- Assets/ThirdParty/LowpolySubstances/Demos/Models/torch.fbx
+Dependencies: []

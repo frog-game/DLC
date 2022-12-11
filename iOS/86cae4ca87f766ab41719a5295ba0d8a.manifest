@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2648394117
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d8e1566047eda8f807269329c2f9e70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StompyRobot/SRF/README.md
+Dependencies: []

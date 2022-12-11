@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3261316688
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 435e0700232fa1ce20a38e710eb36af2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e7f45d50e41b5d491d6005044684030
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b4818703e8c1d545bfe896c8a77d66d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26da18a2488d6814487fc7adaf631f07, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 075404d575bd4d34999bfb08c7a2a6e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adcc4e78784a51d448882bb13488d165, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab73052dc5b29904dbd0b31a5c361c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b4abc4d726380446a9e6ecc5bcafa38, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Battle/Physics/Island/Physics.prefab
+Dependencies: []

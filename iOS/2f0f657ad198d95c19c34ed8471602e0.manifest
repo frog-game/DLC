@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2990480367
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f03965433c572c20f139228b60fba16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef3068b22af4361c95d9f81f242a22f9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Battle/Buff/Effect/Release.prefab
+- Assets/Res/Battle/Buff/Effect/Grass.prefab
+- Assets/Res/Battle/Buff/Effect/Fire.prefab
+- Assets/Res/Battle/Buff/Effect/Electrify.prefab
+- Assets/Res/Battle/Buff/Effect/Slow.prefab
+- Assets/Res/Battle/Buff/Effect/Dart.prefab
+- Assets/Res/Battle/Buff/Effect/Heal.prefab
+- Assets/Res/Battle/Buff/Effect/GPVamp.prefab
+- Assets/Res/Battle/Buff/Effect/Burn.prefab
+- Assets/Res/Battle/Buff/Effect/Heal01.prefab
+- Assets/Res/Battle/Buff/Effect/Pin.prefab
+- Assets/Res/Battle/Buff/Effect/BombCountDown.prefab
+- Assets/Res/Battle/Buff/Effect/Ice.prefab
+- Assets/Res/Battle/Buff/Effect/Water.prefab
+- Assets/Res/Battle/Buff/Effect/Shield.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/457d2f43e0c30002e57a8f66c73c5772
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/6d0721cbbdaac5861d1579f81f142cc5
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/bcca5f16738e13babcb4eca0bfdca299
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/children_2f0f657ad198d95c19c34ed8471602e0
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/fa9bcdc02a38d9af13c88e4197d70e29

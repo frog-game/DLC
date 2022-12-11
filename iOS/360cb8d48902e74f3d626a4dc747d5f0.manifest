@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1215261578
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f76837b1210d23fd85c284bd8997ccac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b01fc83170610f037570ab1560006c8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Barrel.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/SWS_DemoPier.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/SWS_DemoFoliageShader.shadergraph
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/SWS_DemoPalmBark.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/StylizedWater2_RiverDemo.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/SWS_Cliff.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/StylizedWater2_Demo_DioramaTop.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/SWS_DemoCrate.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/SWS_DemoPalmBranch.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/SWS_DemoLogRaft.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/SWS_DemoSkybox.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/SWS_DemoSkybox.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/SWS_DemoRock.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/StylizedWater2_Demo.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/SWS_Shrub.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/SWS_DemoPalmBaby.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/StylizedWater2_Demo_DioramaSide.mat
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/SWS_DemoTerrain.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c0d8cee4f3bad69e814351fa2fd24cac
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/dcb45e6c8e0a753b06978c2d44f40b12

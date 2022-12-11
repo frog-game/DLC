@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3051928428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be9f38fd827c58ebc44d80051b2be72a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/UIImage/01\u63D0\u793A\u548C\u66F4\u65B0/UpdateAnimation/4.PNG"
+- "Assets/UIImage/01\u63D0\u793A\u548C\u66F4\u65B0/UpdateAnimation/5.PNG"
+- "Assets/UIImage/01\u63D0\u793A\u548C\u66F4\u65B0/UpdateAnimation/2.PNG"
+- "Assets/UIImage/01\u63D0\u793A\u548C\u66F4\u65B0/UpdateAnimation/1.PNG"
+- "Assets/UIImage/01\u63D0\u793A\u548C\u66F4\u65B0/UpdateAnimation/3.PNG"
+Dependencies: []

@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 1949149633
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49d2f525194f455764477772b86ee74a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6a8966ef2656c7a56b31e4f454631d9b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Demo/Scenes/Library.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/39ce32caa1d5b8aad4e266e132ce6c16
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5fe5fce8670f9fb40c69c5cb58b87b53
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/84928ce021bb4a4d1e6c49c2f3854633
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/988c721addf367c790814356e452fa73
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a55a78a05f9db8757810cf12c3246684
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/aeeafd64f3f2474791282769d464ddcc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c1bb7514eb36bf55200b48e691dd5bbf
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f14974f644886b309692a879cb47ca75

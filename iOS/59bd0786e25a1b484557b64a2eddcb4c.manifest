@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4060020855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01fc9939b1ce71b07b0d70dc7f411d7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: be1e18167ef6904c91dbc668bb25d46e
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 9db2297d355d7964e8d19d435584ed32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c398e9ea10738e4eb6c6882b35569ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Battle/Skill/HugeWallSkill.asset
+- Assets/Res/Battle/Skill/StickyBomb.asset
+- Assets/Res/Battle/Skill/SkillTable.asset
+- Assets/Res/Battle/Skill/MissileBoomSkill.asset
+- Assets/Res/Battle/Skill/PinSkill.asset
+- Assets/Res/Battle/Skill/CatchAndThrowSkill.asset
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d61a24912e5e569b2213e2eb33237ea1

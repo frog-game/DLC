@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2954038072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4dc466b14695b32ff065d469b7a52b0a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6207dc69b5c416e4e551410624efd487
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9aa8c0bd4777c43ba983f5819ce0f5f7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/ShaderForge/Example Scene.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/7afe1df0dcdac879e3322cdf5c3c1d82
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e833cad9cc9bf02d0b93519541867ef3
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f8fe9a23db7fcfd048caa14726e84a43

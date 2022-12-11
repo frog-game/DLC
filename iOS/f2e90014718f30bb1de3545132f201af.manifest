@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3195103088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4640dddd61f4c97b774fc6879388e8f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/models/Materials/slash_slash_fat_180Mat.mat
+- Assets/ThirdParty/EffectCore/models/Materials/slash_slash_medium_180Mat.mat
+- Assets/ThirdParty/EffectCore/models/Materials/slash_slash_thin_180Mat.mat
+- Assets/ThirdParty/EffectCore/models/Materials/slash_slash_fat_360Mat.mat
+- Assets/ThirdParty/EffectCore/models/Materials/slash_medium_360_slashMat.mat
+- Assets/ThirdParty/EffectCore/models/Materials/slash_slash_thin_360Mat.mat
+Dependencies: []

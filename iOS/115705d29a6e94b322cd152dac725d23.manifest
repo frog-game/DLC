@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1354986072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a312b42cb433d32feed85319e16bc5f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea50924f61223170b78be3a170ebacc6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a895231490da6545890b1e1794f8704, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14fe9984834882c43b827e4197192a74, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/prefab/DarkBlue/stab_DarkBlue/stab_medium_darkBlue.prefab
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/prefab/DarkBlue/stab_DarkBlue/stab_heavy_darkBlue.prefab
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/prefab/DarkBlue/stab_DarkBlue/stab_weak_darkBlue.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1eb7c22f175bc821326bc07682159f22
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5d9310bbabe87423cc456343571d37fc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/dafbafcc95c6c088d03d0623be22432e

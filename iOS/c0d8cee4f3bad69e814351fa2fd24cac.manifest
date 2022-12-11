@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3209358475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d783a8a39c9f4af7d7da925475dbbc23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/SWS_Cliff_Normals.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/Shrub_BranchCluster.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/SWS_DemoPalmBranch.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/SWS_Rocks_normal.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/SWS_DemoBarrelDiffuse.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/SWS_LogRaft_Diffuse.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/SWS_WoodenCrate.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/SWS_DemoPalm_Bark_Normal.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/GrassBillboard.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/SWS_LogRaft_Normals.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/SWS_DemoPalmBranch_Normal.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/SWS_DemoPalm_Bark.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/SWS_PierNormals.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/SWS_Cliff_Albedo.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/SWS_Rocks_diffuse.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Materials/Textures/SWS_PierAlbedo.png
+Dependencies: []

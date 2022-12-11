@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 884111493
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 865883be262461eef287145a45676c57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Man/Models/Materials/Man.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Man/Models/Materials/Man2.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Man/Models/Materials/ManUnlit.mat
+Dependencies: []

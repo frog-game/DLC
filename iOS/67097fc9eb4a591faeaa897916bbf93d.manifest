@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 814919680
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1270c8883a13c97b25556633664ef7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: baedefce1c3a59ef8a9442af500734c4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Config/WorldDatabase.json
+- Assets/Res/Config/GlobalProto.txt
+- Assets/Res/Config/PropConfig.txt
+- Assets/Res/Config/AirdropPropConfig.txt
+- Assets/Res/Config/Config.prefab
+- Assets/Res/Config/PoisonCircleConfig.txt
+- Assets/Res/Config/PoisonCircleCenterConfig.txt
+Dependencies: []

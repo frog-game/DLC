@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2261097153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d01c9290fb4217955bb487c260086b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Circle_01.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Sparkle.png
+Dependencies: []

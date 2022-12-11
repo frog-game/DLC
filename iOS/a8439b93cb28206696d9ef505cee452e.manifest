@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3866256409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4fc79889ada9d6adcb0767253752a3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5a4d95b9ed5b22e7da0e1be486a75fa7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8885f29b8133264a9e97d513c1ce131, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Battle/Poison/poison_noise2.png
+- Assets/Res/Battle/Poison/poison_noise.png
+- Assets/Res/Battle/Poison/Poison.prefab
+- Assets/Res/Battle/Poison/Poison.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/457d2f43e0c30002e57a8f66c73c5772
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d9967ab87eeff85b419cfe5d4cd0ed83

@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1628810096
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17c0f0ee7d239c639764195411b391fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767a59f8de390d2354823e760c737a44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Lotus_Flower_01C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Lotus_Flower_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Lotus_Flower_02B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Lotus_Leaf_02B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Lotus_Flower_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Water_LillY_Leaf_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Water_LillY_Leaf_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Glowing_Lilly_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Water_LillY_Leaf_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Lotus_Leaf_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Glowing_Lilly_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Lotus_Flower_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Glowing_Lilly_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Glowing_Lilly_02C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Lotus_Leaf_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Lotus_Flower_02C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Glowing_Lilly_02B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Lotus_Leaf_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Water_LillY_Leaf_02B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Water Plants/TFF_Glowing_Lilly_01C.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5f142df1cab711ba9704a59ccdc48159
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/69e3dc1d3a9b4e9099bba0058bd863e1

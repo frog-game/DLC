@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 3387880244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f6128b51369556eb2b49cb8c7ef6eea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 43160ccfe14850a077e0388432b904b3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fd999d1b2cf94a45a5b0a47ce074bef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd70d448b18cfbc46af26466f752332c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a7230292f31240fa938686786a7ad04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowpolySubstances/Demos/TorchesDemo.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/31fff2b4898399150476399e0eb7d9eb
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/96210dddd056a032301b85da2943bb23
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/9da4dc4f65ca2c48485202579f4d6408
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/aca140a33a3056cf397e439b0bdcae0d
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e908ac577de277a4ffb0e7054f07cc00

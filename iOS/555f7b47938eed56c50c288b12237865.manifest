@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 650964695
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d53f01646a0775a23b01869569335f20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 73bb2134ef7591bb652c45d2919c0a15
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82adb3ba97e2df445a4869ff914d9752, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1706a8f11fc7b8b46928b2d747dd9535, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49fcc74171f7a9547b89e2e7ce628763, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 006d7714421f68644898e06152d69b47, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Prefab/PathFinding/Objects/ZeroLayer.prefab
+- Assets/Res/Prefab/PathFinding/Objects/NodeTarget.prefab
+- Assets/Res/Prefab/PathFinding/Objects/Grid.prefab
+- Assets/Res/Prefab/PathFinding/Objects/NodeStart.prefab
+- Assets/Res/Prefab/PathFinding/Objects/Cell.prefab
+- Assets/Res/Prefab/PathFinding/Objects/Obstacle.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/af98e54b643a981c52b7d6735ade708a

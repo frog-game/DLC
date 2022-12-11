@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 4161160406
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5871514665ab45c9d671474ce8a0fab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae2cf77de671e115b4e55d2b65767202
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Rock_Medium_01A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Wooden_Swing_Seat_01A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Rock_Large_04A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Rock_Large_06A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Rock_Large_05A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Birch_Tree_02A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Tree_Log_03A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Wooden_Swing_01A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Wooden_Pavilion_01A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Rock_Medium_02A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Rock_Large_01A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Rock_Large_03A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Rock_Large_02A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Tree_Broken_01A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Wooden_Table_01A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Birch_Tree_01A_MeshCollider.fbx
+- Assets/Toon Fantasy Nature/Models/Colliders/TFF_Tree_Fallen_01A_MeshCollider.fbx
+Dependencies: []

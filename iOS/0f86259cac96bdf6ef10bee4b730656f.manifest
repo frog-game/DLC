@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3951066713
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 760c72aa52ec687c27ec49f375effc0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Animations/TFF_Wooden_Swing_01A_Idle.anim
+- Assets/Toon Fantasy Nature/Animations/TFF_Fire_Idle_01.anim
+- Assets/Toon Fantasy Nature/Animations/TFF_Wooden_Swing_01A.controller
+- Assets/Toon Fantasy Nature/Animations/TFF_Wooden_Swing_01B.controller
+- Assets/Toon Fantasy Nature/Animations/TFF_Fire_01.controller
+- Assets/Toon Fantasy Nature/Animations/TFF_Wooden_Swing_01B_Idle.anim
+Dependencies: []

@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 820282739
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c19f82afbb58808be1bc391da3753a0a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_13.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_20.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_24.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_23.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_4.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_6.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_7.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_18.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_2.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_3.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_8.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_5.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_17.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_1.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_11.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_12.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_10.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_16.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_22.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_19.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_21.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_15.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_9.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Circles/CircleMaterial_14.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/14e432f62e6bbe0d96bbd433b500954d
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890

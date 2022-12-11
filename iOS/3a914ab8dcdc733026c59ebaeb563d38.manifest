@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1098072669
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25fb5c8684bfb57c16be92c459f31fb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c71d3f92f7fa0d29dfa1e371c8ef65c9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a7230292f31240fa938686786a7ad04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowpolySubstances/Demos/VarUsageDemo.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/38981945533fc2be00b05a4427dac773
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/53b22743a73ac5589ca393e4eec2f9c8
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/69a81daf619acd742d86c126aeeb27eb
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/935c17bb3730c37c3e40396dc96828e3
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/96210dddd056a032301b85da2943bb23
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/aca140a33a3056cf397e439b0bdcae0d
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e908ac577de277a4ffb0e7054f07cc00
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f3b0d473f25a6a46fb883bd443c53c2a
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/fd670e8749c8a5538f9b4834e5c94ada

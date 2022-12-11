@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2522609985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16375917d9b7d2823a3d26fe320ec2c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/defines.csv
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/documentation.html
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/Readme_upgrading.txt
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/Readme.txt
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/link.xml
+Dependencies: []

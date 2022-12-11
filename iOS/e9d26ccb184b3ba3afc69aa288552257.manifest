@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 75879313
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14f84b83637465b454e09bee2e62515b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/materials/decals/decal_additive.mat
+- Assets/ThirdParty/EffectCore/materials/decals/decal_alphaBlend.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/90019fcbdd7e22abe54e3fe441335263

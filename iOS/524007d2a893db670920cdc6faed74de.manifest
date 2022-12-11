@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 4249118548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8599a7ddbf0afe7f6d1c1151d29a9e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d30694029f3cea733d24a172058447f6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot@back.FBX
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot@awake.FBX
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot@forward.FBX
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot@right.FBX
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot@left.FBX
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot.FBX
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/aaab1a86cb5ddd470c5cb0878dac88d5

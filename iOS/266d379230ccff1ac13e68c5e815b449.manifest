@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1807009147
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5296d8bca80ab5e1d7c8320c06974b30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 205f4679dc0a30aa34655386f9c2f7a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Meshes/Clouds 01.FBX
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Meshes/Clouds 04.FBX
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Meshes/Clouds 05.FBX
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Meshes/Moons.FBX
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Meshes/Clouds 03.FBX
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Meshes/Clouds 02.FBX
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/9ba1328cb7b1331a8e426ae60fdf4af6

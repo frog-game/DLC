@@ -1,0 +1,216 @@
+ManifestFileVersion: 0
+CRC: 1873900803
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c2d79f9e985eb340cedc335b335a30c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc1f91355f4cdb7bcd47a303fa42a6f6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Explosion_Body_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fire_Big_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Grenade_Explosive_Toss_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_ShardVine_Shooting_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Pickup_Ammo_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Rain_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Money_Coins_Shooting_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Dust_Blowing_Soft_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Shell_Ejection_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Impact_Stone_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Poison_Purple_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Impact_Large_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Gunshot_Shotgun_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Electricity_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Gunshot_Heavy_Repeating_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_StarStunned_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Money_Coins_Burst_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Ritual_Circle_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_StarStunned_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Trail_Fire_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fireworks_Small_Orange_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Smoke_White_Small_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_FlameThrower_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Heal_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_LightRayCube_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_ShardIce_Explosion_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Nuke_Smaller_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Electricity_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fog_Small_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fireball_Shooting_Straight_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Trail_Debris_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Confetti_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fire_Big_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Smoke_Black_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Smoke_White_Large_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Dust_Big_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Grenade_Flash_Toss_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Wind_Soft_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_WaterDrip_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Smoke_Black_Large_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fire_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Hexagon_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Shell_Ejection_Repeating_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_ShardMagic_Explosion_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Explosion_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_GlowSpot_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Swirl_03.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Pickup_Question_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Impact_Small_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_MagicBlast_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Swirl_Fast_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Money_Notes_Burst_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Gunshot_Heavy_Repeating_Tracers_Impact_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Dust_Small_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Shell_Ejection_Small_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Sparkle_Orbit_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_PowerDraw_Shoot_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Confetti_Falling_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_CannonShot_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Rain_Collision_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Cartoony_Rings_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Smoke_White_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Grenade_Smoke_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Slash_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_GlowSpot_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_RainbowGlow_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_GlowSpot_03.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Magic_Lights_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_ShardVine_Explosion_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Steam_03.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Smoke_Trail_Small_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Portal_Thin_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Cartoony_Sprint_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Pickup_Health_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Impact_Metal_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_LevelUp_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Grenade_Flash_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Wind_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Shell_Ejection_Repeating_Small_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Cartoony_Jump_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_ArtilleryStrike_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_SunBeam_Small_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Shell_Ejection_Repeating_Large_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fireworks_Group_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_GroundCrack_Blast_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Flame_Booster_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_PowerDraw_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Trail_Dust_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Nuke_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fireflies_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Healing_Cirle_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Steam_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fire_Explosion_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fireworks_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Hexagon_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Money_Notes_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Grenade_Smoke_Toss_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Swirl_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Pickup_Heart_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Gunshot_Heavy_Single_Tracers_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Sparks_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fire_Big_03.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fireball_Shooting_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fire_Small_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_WaterRipple_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Gunshot_Heavy_Repeating_Tracers_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fire_Small_03.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Embers_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Wind_Hard_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Impact_Water_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Gunshot_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_PowerBeam_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Portal_Sphere_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Money_Coins_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Cartoony_Jump_Up_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Snow_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Sparkles_Large_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Direction_Arrows_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Sparkles_Trail_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fairy_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Money_Notes_Shooting_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_ShardMagic_Shooting_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Heal_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Sparkles_Small_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Missile_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_FlameThrower_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_MagicBlast_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fireball_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Bubble_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_BloodSplat_Small_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Healing_Cirle_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_ShardRock_Shooting_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Shell_Ejection_Large_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_LightRayRound_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Pickup_Boost_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_RainbowGlow_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_ExperienceGain_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Blizzard_Snow_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_ShardRock_Explosion_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Trail_Exhaust_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Explosion_Large_Dark_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fire_Huge_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fireworks_Large_Red_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_ShardIce_Shooting_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Impact_Dirt_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Direction_Arrows_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Gunshot_BarrelSmoke_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Grenade_Explosive_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Steam_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Bubbles_Float_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Direction_Arrows_03.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fireworks_Medium_Blue_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Poison_Green_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Explosion_Body_Bloody_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Impact_Water_Ripple_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Impact_Wood_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_LazerBeam_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fog_Big_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Cartoony_Footstep_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Fire_Small_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_MagicBug_Trails_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Slash_Large_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Sparkle_Orbit_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Gunshot_Sniper_Line_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_ArtilleryShell_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Flies_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_RainbowSparkle_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Gunshot_Repeating.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_SunBeam_Large_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Leaves_Green_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Smoke_Trail_Large_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_SwordSlash_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Pickup_Death_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_LightningStrike_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Portal_Round_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_BloodSplat_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Leaves_Blossom_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Smoke_Black_Small_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Swirl_02.prefab
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_SwordStab_01.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5362cc1567c82c4865878c2b2c8276cb
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e01b24c1620c79370552fa599a274534

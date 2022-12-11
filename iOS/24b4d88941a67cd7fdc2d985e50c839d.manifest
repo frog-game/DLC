@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 4045718724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5213b6149d1d3d230a205ac768c65aa2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc8130e2985008eb22ffe146fe70def4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/MobileController/Resources/cancelBtn_notActive.png
+- Assets/ThirdParty/MobileController/Resources/waterElementIcon.png
+- Assets/ThirdParty/MobileController/Resources/bomb.png
+- Assets/ThirdParty/MobileController/Resources/joystickDragarea.png
+- Assets/ThirdParty/MobileController/Resources/attack.png
+- Assets/ThirdParty/MobileController/Resources/CancelActive.png
+- Assets/ThirdParty/MobileController/Resources/buttonring.png
+- Assets/ThirdParty/MobileController/Resources/disabled.png
+- Assets/ThirdParty/MobileController/Resources/SkillArea.png
+- Assets/ThirdParty/MobileController/Resources/grassjoystick.png
+- Assets/ThirdParty/MobileController/Resources/SkillMarker.png
+- Assets/ThirdParty/MobileController/Resources/Cancel.png
+- Assets/ThirdParty/MobileController/Resources/SkillAreaMaterial.mat
+- Assets/ThirdParty/MobileController/Resources/dart.png
+- Assets/ThirdParty/MobileController/Resources/New Material.mat
+- Assets/ThirdParty/MobileController/Resources/joystick.png
+- Assets/ThirdParty/MobileController/Resources/BasicEdge.png
+- Assets/ThirdParty/MobileController/Resources/cooldown.png
+- Assets/ThirdParty/MobileController/Resources/grassElementIcon.png
+- Assets/ThirdParty/MobileController/Resources/waterjoystick.png
+- Assets/ThirdParty/MobileController/Resources/button.png
+- Assets/ThirdParty/MobileController/Resources/SkillMarkerArrow.png
+- Assets/ThirdParty/MobileController/Resources/SkillDirectionMaterial.mat
+- Assets/ThirdParty/MobileController/Resources/cancelBtn.png
+- Assets/ThirdParty/MobileController/Resources/dragarea.png
+- Assets/ThirdParty/MobileController/Resources/fireElementIcon.png
+- Assets/ThirdParty/MobileController/Resources/SkillTargetMaterial.mat
+- Assets/ThirdParty/MobileController/Resources/firejoystick.png
+- Assets/ThirdParty/MobileController/Resources/Plane.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/21253ba567382f9ebb0fa534064842fc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/457d2f43e0c30002e57a8f66c73c5772

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3339948111
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee63ab6ef3b29ca4d0b2754fb05bacf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: baad88c9701a5db6e7db4f1dcdc1daa2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Unit/Skeleton/Ani/Skeleton@Run.FBX
+- Assets/Res/Unit/Skeleton/Ani/Skeleton@Walk.FBX
+- Assets/Res/Unit/Skeleton/Ani/Skeleton@Stand.FBX
+- Assets/Res/Unit/Skeleton/Ani/Skeleton@Attack.FBX
+- Assets/Res/Unit/Skeleton/Ani/Skeleton@Knockback.FBX
+- Assets/Res/Unit/Skeleton/Ani/Skeleton@Death.FBX
+- Assets/Res/Unit/Skeleton/Ani/Skeleton@Skill.FBX
+- Assets/Res/Unit/Skeleton/Ani/Skeleton@Damage.FBX
+- Assets/Res/Unit/Skeleton/Ani/Skeleton@Idle.FBX
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f5affcd90e65aa7420df9125c34fe910

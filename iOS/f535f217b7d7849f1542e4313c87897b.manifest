@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1481594861
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8cbd7da214d1559e12bdab02aa919a88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PluginMaster/DesignTools/Editor/Common/Resources/Sprites/Warning.png
+- Assets/PluginMaster/DesignTools/Editor/Common/Resources/Sprites/ButtonNormal.png
+- Assets/PluginMaster/DesignTools/Editor/Common/Resources/Sprites/BoxBg.png
+- Assets/PluginMaster/DesignTools/Editor/Common/Resources/Sprites/ButtonHover.png
+Dependencies: []

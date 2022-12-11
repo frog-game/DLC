@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3460929399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c6c6a173b560587255bb7ff4bdb3c57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad06958797749336e5782b9470fdf713
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Log_3.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Rock_1.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Plant_6.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Mounting_2.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Log_2.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Bush_1.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Stone_1.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Bush_2.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Plant_3.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Rock_2.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Plant_4.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Plant_2.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Bush_3.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Tree_3.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Rock_5.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Plant_5.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Tree_2.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Rock_3.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Terrain_1.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Log_1.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Tree_1.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Grass_2.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Environment_1.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Mounting_1.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Grass_1.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Mounting_3.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Plant_7.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Terrain_2.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Rock_6.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Plant_1.prefab
+- Assets/ThirdParty/LowPoly Environment Pack/Prefabs/Rock_4.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/cb9fec612cb85a08a598c77e020071bc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e02c8dc5dfbbd3c380d5f1fd8414760e

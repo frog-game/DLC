@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2045947550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f175b59c4d33ad627bf49a74d7c2ad6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Animation/LightBlink.controller
+- Assets/ThirdParty/GeometryFXParticles/Animation/LightBlink.anim
+Dependencies: []

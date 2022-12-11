@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4126273993
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6a9b5e9d06221c627b5231d96fbb811
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/Textures/Falloff-Reflected.psd
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/Textures/Shadow.psd
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/Textures/Falloff.psd
+Dependencies: []

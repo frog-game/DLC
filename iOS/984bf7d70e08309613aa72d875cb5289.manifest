@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3664534518
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50b11f4e6167b52de9adca54c1bb6b91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c3b4b200a8ec05b0eaa24ce8065c15b0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 147476704154c9d499285719a7948933, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1edb5bba6667ed47b0c82d9a2f5e21a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/ResultPanel/LosePanel.prefab
+- Assets/Res/UI/ResultPanel/WinPanel.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/82aa2589b59f9938bd29ab117ba6b07f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b765cf24a89ca09c5df7957ce61f4a2e

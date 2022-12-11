@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3534861281
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d907fbfebd05e0545bc8ad751046b35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b1d502ac223343c95094425f377451e
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/Previews/IndirectSpecularPreview.exr
+Dependencies: []

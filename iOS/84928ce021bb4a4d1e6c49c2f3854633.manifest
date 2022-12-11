@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 525003471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed516868e225479a110fb1d8e3670849
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b01fc83170610f037570ab1560006c8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Materials/M_SNB_Trees.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_Particles_Leaf.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_GrassFlower.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_Cloud.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_DeadTrees.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_Vegetation_Simple.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_Terrain_01.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_Particles_Fire.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_Skybox.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_Vegetation_Deferred.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_Grass.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_Rocks.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_Particles_Fireflies.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_Vegetation.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_Particles_Smoke.mat
+- Assets/StylizedNatureBundle/Materials/M_SNB_Terrain_02.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f8ec82225edc7664924b4a7d5bc56c5e

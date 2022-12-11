@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 536051495
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1511db07755fd06a003a2e97d13c6672
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Logo.psd
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Circle.psd
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/RoundedCorner-5px@2x.psd
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/RoundedCorner-2px.psd
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Alert.PSD
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/loading@2x.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/RoundedCorner-5px.psd
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/RoundedCorner-2px@2x.psd
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Logo@2x.psd
+Dependencies: []

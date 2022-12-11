@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 933854699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c87c42f8c211992d0f439ee4e2e7c91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad06958797749336e5782b9470fdf713
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Characters/Character03.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Characters/Character02.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Characters/Character01.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/4c9eb03703db079c45f31b6d4ba685fe
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/aa0cc71b48f7b3d9814e518fbbb2e06f

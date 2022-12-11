@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 372964346
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb2f773ebdb138b8df436986ec8341d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Unit/Skeleton/Ani/Materials/skeleton_D.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/6b80b8c7b90fb4d15653bc881902d790

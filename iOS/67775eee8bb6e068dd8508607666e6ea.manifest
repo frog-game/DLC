@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1751798663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dd566aa5a7a6750237d3e0e119be313
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf49df6ed46714e4fbdac6c5d2f68b0b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Prefabs_Particles/Snow Field.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Particles/Campfire_particle.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Particles/Lightshafts_moon.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Particles/Lightshafts_Magic.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Particles/Sparks.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Particles/Lightshafts_day.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Particles/Fire_and_Light.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Particles/Muzzle_1.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/205086cc58b7e0206a5e81f24a7e8d1a
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/21286e1b52b4f81f6a0ea8761fe08aae
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c58fc2637207578e5fcbb085861a8e60
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/cc939defb86536e1d47a82d688371770

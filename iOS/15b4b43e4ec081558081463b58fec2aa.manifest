@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2938780717
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5a5e5a42e5000b8cb1e756d373b0b5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce6f8b422107dee146097a9c6db21f6d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00f5e5a47c1508049b9a7edff5307220, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c8afc2d208205641bd1aa5e27769e11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4383004accee7494fba3cf64d65513c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8237a17b56e304b7a9d16fa7b5cfee6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d060b6f2711747368c4bc5aae24049b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c73e86781a6314e5e9da831a05776ed6, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Props/explosionParticle.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Props/rocket.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Props/healthCrate.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Props/bomb.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Props/rocketExplosion.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Props/swan.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Props/explosionCircle.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Props/bombCrate.prefab
+Dependencies: []

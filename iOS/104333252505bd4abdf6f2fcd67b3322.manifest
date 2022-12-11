@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 2214473346
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c86b4308a2af1b5157e133959b31e57a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08e5839e4db477429ed20d28d657089e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree02_FallingLeaves_h.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree02_FallingLeaves_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree03_FallingLeaves_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree01_FallingLeaves_h.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree04_FallingLeaves_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree02_FallingLeaves_g.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree02_FallingLeaves_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree03_FallingLeaves_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree04_FallingLeaves_f.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree04_FallingLeaves_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree04_FallingLeaves_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree04_FallingLeaves_h.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree04_FallingLeaves_g.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree01_FallingLeaves_e.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree03_FallingLeaves_e.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree04_FallingLeaves_e.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree01_FallingLeaves_f.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree02_FallingLeaves_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree03_FallingLeaves_h.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree01_FallingLeaves_d.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree01_FallingLeaves_g.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree01_FallingLeaves_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree01_FallingLeaves_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree03_FallingLeaves_f.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree02_FallingLeaves_d.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree03_FallingLeaves_g.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree02_FallingLeaves_f.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree03_FallingLeaves_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree01_FallingLeaves_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree02_FallingLeaves_e.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree03_FallingLeaves_d.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/TreesParticles/Particles_Tree04_FallingLeaves_d.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/84928ce021bb4a4d1e6c49c2f3854633

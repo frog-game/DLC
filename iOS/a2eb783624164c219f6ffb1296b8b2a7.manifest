@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 1753632255
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d1c4cc3f2e4346a9e6c1cec2970fbb6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 619fbfff46a0d56728cc003d8b3f1157
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Machinegun3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Crystal3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Radar1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Acid1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Gauss3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Gatling2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Rocket2_1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Plasma2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Hammer2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Acid2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Gauss2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Fire3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Plasma3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Laser2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Cannon1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Mortar2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Machinegun1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Crossbow3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Crossbow1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Radar2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Laser1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Tesla2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Gauss1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Crossbow2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Rocket1_3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Crystal1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Rocket1_2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Tesla3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Crystal2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Gatling3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Hammer3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Plasma1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Rocket1_1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Mortar1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Fire2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Fire1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Rocket2_2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Gatling1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Tesla1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Laser3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Mortar3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Radar3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Machinegun2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Cannon3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Rocket2_3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Hammer1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Acid3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/Tow_Cannon2.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/205086cc58b7e0206a5e81f24a7e8d1a
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/75270129ecf1cdfe99b36e7d84d593c8
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b8b295024cbdbb3d88983e2b86feba67

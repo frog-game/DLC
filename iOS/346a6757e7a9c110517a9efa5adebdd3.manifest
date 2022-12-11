@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 111767081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12e13e5c32dda548eda1edc186bd1602
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 791d8f453b31a40b25f27c557b2f18a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/PolygonParticleFX/Scenes/Demo_01.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5362cc1567c82c4865878c2b2c8276cb
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/96431618b702d251e8cd96d297d84436
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/9f7eef2dea316b48d670f42cd7fe102a

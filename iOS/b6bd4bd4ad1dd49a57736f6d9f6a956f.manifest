@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1180794356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8e10a48f3d3dbe5182b436e62ea7edf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Standard Assets/Environment/Water/Water4/Textures/SimpleFoam.png
+- Assets/MOBA and Tower Defense/Standard Assets/Environment/Water/Water4/Textures/SmallWaves.png
+Dependencies: []

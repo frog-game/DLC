@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 1126903404
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8ed5ef0e93da4cc861aa30da1182206
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc3fe08705e6d7ff34fbdf88bf92e5c4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce6d22b811921ed4ea2714eedccbce6b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1acfc80c180ce9242b67cf9bb174160f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a897989ed3171064fb9c486738bd1ff2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 331
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/Map/mark.png
+- Assets/Res/UI/Map/BigMapGuideIcon.prefab
+- Assets/Res/UI/Map/MapGroup.prefab
+- Assets/Res/UI/Map/MiniMapCamera.prefab
+- Assets/Res/UI/Map/BigMapTexture.renderTexture
+- Assets/Res/UI/Map/MiniMapTexture.renderTexture
+- Assets/Res/UI/Map/PlayerBigMapIcon.prefab
+- Assets/Res/UI/Map/NavLine.prefab
+- Assets/Res/UI/Map/MapPanel.prefab
+- Assets/Res/UI/Map/PlayerMiniMapIcon.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/25281db5f246691af68ceb791f9fb564
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/3f5a557ed5fa888e20b979850468e60f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/9b923793a6deb44353cb5249026aa85e
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f03c050f042bbc44e6543c6f8988ed24

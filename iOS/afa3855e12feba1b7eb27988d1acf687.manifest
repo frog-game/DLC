@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3140551630
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce29c3eebb275e787c723c1ac0da0b55
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Rocks.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Lightshafts.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Wall_stone.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/tent_stump.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Wall_wood.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Ground_decals_add.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/banner.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Runes.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Crystal1.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/tower_base2.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Ground_decals.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Tree_leaves.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/tower_base1.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/props1.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Tree_bark.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Wall_sf.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Lantern.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/wagon.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Stone_elements.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/08e9408cd9e4f06a6162f2c351c33395
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/205086cc58b7e0206a5e81f24a7e8d1a
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/37ab8089fe8dd8d277c534c309f1dc85
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/610dc7b44bed2777a8fb08326cdfc9b1
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/67ebda8301a7c5543eaf5c86dcbdd6f8

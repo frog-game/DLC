@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2674625322
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cccd108a7769c0ae5d4206b877cc3e92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08e5839e4db477429ed20d28d657089e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/LightBlue/FieldEnergyIrreguralTriangle_LightBlue.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/LightBlue/FieldEnergyCirclesLines_LightBlue.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/LightBlue/FieldEnergySymbol_LightBlue.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/LightBlue/FieldEnergyPolySymbol_LightBlue.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/LightBlue/FieldEnergyLoopCircles_LightBlue.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/LightBlue/FieldEnergyCirclesBoost_LightBlue.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/LightBlue/FieldEnergyPolyCircle_LightBlue.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/LightBlue/FieldEnergySquareSymbol_LightBlue.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/LightBlue/FieldEnergyCubeSymbol_LightBlue.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/LightBlue/FieldEnergyTrianglePolySymbol_LightBlue.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/LightBlue/FieldEnergyPolySymbolStretcht_LightBlue.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/LightBlue/FieldEnergyBrokenCircle_LightBlue.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/LightBlue/FieldEnergyTrianglePolyShape_LightBlue.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/LightBlue/FieldEnergyBooleanCircles_LightBlue.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/07c6d29c8718cd153c7ddb2704affb4a
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c67b8ef4f96d477b53a57a438a532c4f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d138d9ce3756c0b23312d4977fd47e72
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d62581754429714db0fe50263dc1b9d4
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f9c6189094cc18421b1c012470dba086

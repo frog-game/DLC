@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 760854832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0faa5745894fb2480bf10f59213a9401
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1cd4a68d31b2344ac0573c869818dd66
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11b3277a8c1313948a8233a5f45757f4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 119
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/SuperMobileController/Prefabs/LandMarker/SkillTargetMarker.prefab
+- Assets/ThirdParty/SuperMobileController/Prefabs/LandMarker/TargetMarkerMaterial.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/21253ba567382f9ebb0fa534064842fc

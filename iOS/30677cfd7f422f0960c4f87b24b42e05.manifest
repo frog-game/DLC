@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2372617533
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10248c68386219c2dcfb4af0f041d528
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UIImage/TipPanel/TipBg.png
+- Assets/Res/UIImage/TipPanel/TipTitle.png
+Dependencies: []

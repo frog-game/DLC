@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2989155041
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4254a8486c0e6982a33a7f731538805
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f4e8ee48ce42b388ac711bd4065b8905
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowpolySubstances/Prefabs/Campfire2.prefab
+- Assets/ThirdParty/LowpolySubstances/Prefabs/Torch3.prefab
+- Assets/ThirdParty/LowpolySubstances/Prefabs/Torch5.prefab
+- Assets/ThirdParty/LowpolySubstances/Prefabs/Water1.prefab
+- Assets/ThirdParty/LowpolySubstances/Prefabs/Torch2.prefab
+- Assets/ThirdParty/LowpolySubstances/Prefabs/Candle2.prefab
+- Assets/ThirdParty/LowpolySubstances/Prefabs/Campfire3.prefab
+- Assets/ThirdParty/LowpolySubstances/Prefabs/Campfire1.prefab
+- Assets/ThirdParty/LowpolySubstances/Prefabs/Water2.prefab
+- Assets/ThirdParty/LowpolySubstances/Prefabs/Campfire4.prefab
+- Assets/ThirdParty/LowpolySubstances/Prefabs/Candle1.prefab
+- Assets/ThirdParty/LowpolySubstances/Prefabs/Torch4.prefab
+- Assets/ThirdParty/LowpolySubstances/Prefabs/Torch1.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/38981945533fc2be00b05a4427dac773
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/53b22743a73ac5589ca393e4eec2f9c8
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/69a81daf619acd742d86c126aeeb27eb
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/935c17bb3730c37c3e40396dc96828e3
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f3b0d473f25a6a46fb883bd443c53c2a
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/fd670e8749c8a5538f9b4834e5c94ada

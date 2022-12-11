@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3224342148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85d9d40cdba9cfa8171d4dfb2221ca21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Fx/CircleSprite.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Fx/Eff_Aurora00.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Fx/Fx_SquareRing00.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Fx/Eff_GlowDot001.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Fx/Circle01.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Fx/GlowDot01.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Fx/GlowDot00.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Fx/Eff_GroundDust00.png
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4231550780
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45bea8a14db38800af48040c9776b234
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66f946aea8d7445bd523659595b2e08d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedWater2/Prefabs/Effects/WaterSplash_Up.prefab
+- Assets/StylizedWater2/Prefabs/Effects/WaterfallBase.prefab
+- Assets/StylizedWater2/Prefabs/Effects/WaterRipples_Trail.prefab
+- Assets/StylizedWater2/Prefabs/Effects/WaterRipples_Stationairy.prefab
+- Assets/StylizedWater2/Prefabs/Effects/WaterfallSplash.prefab
+- Assets/StylizedWater2/Prefabs/Effects/WaterSplash_Ring.prefab
+- Assets/StylizedWater2/Prefabs/Effects/BigSplash.prefab
+- Assets/StylizedWater2/Prefabs/Effects/WaterSplash_Collision.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/13db78940b02f92675d80a0ab4c0a5a0
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/6f6d83ba87b0000f559b7de0c498b749

@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 1811674764
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a8bfb0edaf417b4db6180b43d314601
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73fc69058d292230ea6fb2bfaf4065b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8d26df85a3975345acd502858d49f46, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 621c7a3afef1b414fad11d362c15d96d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/Login/RegisterPanel.prefab
+- Assets/Res/UI/Login/LoginPanel.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/55cebc0dd1028c7ff2247b247a8e6401
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/82aa2589b59f9938bd29ab117ba6b07f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b765cf24a89ca09c5df7957ce61f4a2e
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/children_bdbd09a461318f9d100698cf0abff3ee

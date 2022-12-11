@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 902174966
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f84c37bbdbe5abf198bda287691ee190
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b01fc83170610f037570ab1560006c8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars Rhombus.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 03.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Presets/Sky 01.mat
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Patterns/Pattern 02.png
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1a531562bd6a6ec5a2158f3a625eb1de
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/55a9a61f1a7ccdd79685dd35b237a429
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/fd0775fd52fceda53d68fa0a6a2ce25d

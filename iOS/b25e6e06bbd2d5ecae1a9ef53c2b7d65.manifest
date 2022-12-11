@@ -1,0 +1,188 @@
+ManifestFileVersion: 0
+CRC: 1189653086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 479039d0fe1b0c096166d6147131e390
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 19b4c9eb706b7647f841f7b11aa2a311
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_D_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Log_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Shrub_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/TreeGiant_B_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Grass_B_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Grass_B_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/FlowerBush_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Grass_A_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_Btm_B_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Shrub_Btm_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_C_06.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_F_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_B_06.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_B_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Fungus_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_B_05.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Pine_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Herb_A_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_Btm_C_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Stump_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Plant_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_B_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_C_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Pine_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Herb_C_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_B_04.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Pine_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Stump_B_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_A_05.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Stump_A_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Conifer_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_F_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Plant_A_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Plant_C_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Grass_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_A_04.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Grass_A_04.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_Btm_B_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_A_06.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Pine_06.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_C_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/TreeSimple_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Plant_C_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_B_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Flower_B_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Shrub_Btm_A_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Shrub_Btm_B_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_C_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_F_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_Btm_A_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/FlowerBush_A_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Herb_B_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Buds_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_B_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Flora_B_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Plant_B_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_E_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_C_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/TreeSimple_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Flora_B_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Plant_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Grass_B_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Log_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_C_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/TreeGiant_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Grass_A_05.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Flower_B_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Plant_B_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_C_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Grass_B_06.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Fungus_A_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_Btm_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Plant_B_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Shrub_Btm_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Flower_B_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Conifer_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Flora_B_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Plant_C_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_C_04.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Shrub_Btm_B_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Flora_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/TreeSimple_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Shrub_Btm_B_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Flora_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Herb_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Buds_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_B_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Stump_B_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_E_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Root_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/DeadTrunk_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Stump_B_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_A_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Pine_05.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_E_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_D_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Shrub_B_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_Btm_C_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_E_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_Btm_D_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_F_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Herb_C_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Pine_04.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Conifer_06.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_B_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Grass_B_04.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_C_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Stump_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_D_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_Btm_C_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Herb_B_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_C_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_A_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Conifer_04.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/TreeGiant_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Conifer_05.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Conifer_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_C_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Flora_A_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_D_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Root_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/DeadTrunk_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_F_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Grass_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Shrub_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Shrub_B_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_B_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/DeadTrunk_A_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Root_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Shrub_A_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_C_05.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Fungus_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_E_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Log_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_E_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_Btm_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Rock_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_D_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Shrub_B_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Herb_B_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_Btm_B_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Herb_C_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/FlowerBush_A_0.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_D_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_B_03.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_Btm_D_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Herb_A_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_Btm_D_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_B_02.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Grass_B_05.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Grass_A_06.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_A_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Bush_F_01.prefab
+- Assets/Environment Pack/Nature Forest/Prefabs/Tree_A_03.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/28b4de9db7bc7b4cbc1a7ef3452951b9
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/cb51c17358007c316181091aed784b6e

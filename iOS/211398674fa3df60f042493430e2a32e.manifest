@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 2719120254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb2de834d97a0102327229d3b007b355
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c4c9a4678ce428a9408b0d238412507
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e271d820ea3d50a40bd29c81c23cb2a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b7f14311f0b3f442b273192dc8ffe4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32609112f4257a740aa4b920a8556d24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a6d9f7214a7c5e4b868bfc520d92799, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 019f81638c7cf1f438569f1ca9def175, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 645dcae76b625be40b595e4bbc27abb6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41b5dbc85a74ae84dbb6c6685e1151fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b9fa4d99839aa940b36addec78cb92f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 176c1a8b99c762143a65fa14f47b5d93, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7134149b092993149867a9ce13a5ec50, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40436e7c301de034f916ee1e7ddabeeb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c637c8d0d16d024fa920dda64fb38db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7e6a39da209c144797f44248b82bfb3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73ae1b6eac706814a9cd427288a3c5c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3a5149e46522d84cb8079537220a929, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StompyRobot/SRDebugger/Resources/SRDebugger/UI/Prefabs/Options/BoolOption.prefab
+- Assets/StompyRobot/SRDebugger/Resources/SRDebugger/UI/Prefabs/Options/ActionOption.prefab
+- Assets/StompyRobot/SRDebugger/Resources/SRDebugger/UI/Prefabs/Options/ReadOnlyOption.prefab
+- Assets/StompyRobot/SRDebugger/Resources/SRDebugger/UI/Prefabs/Options/StringOption.prefab
+- Assets/StompyRobot/SRDebugger/Resources/SRDebugger/UI/Prefabs/Options/EnumOption.prefab
+- Assets/StompyRobot/SRDebugger/UI/Prefabs/Options/Category.prefab
+- Assets/StompyRobot/SRDebugger/Resources/SRDebugger/UI/Prefabs/Options/NumberOption.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/de2519a7a7b0960460b33c27bccccc3d

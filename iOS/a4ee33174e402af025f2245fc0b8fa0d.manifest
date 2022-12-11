@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 377191344
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e815ab649d2002ffaf32089de0dc21a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b7a706bf889aad0b6cf290b863b22f8d
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2705215ac5b84b70bacc50632be6e391, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab2114bdc8544297b417dfefe9f1e410, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+- Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+- Assets/TextMesh Pro/Resources/TMP Settings.asset
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/7776dce2524b5e854438d061444f5451
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/79a40576dff955cdebbc79a74b72da85
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/965d0ca58c0ac0ed647c14ec42375e88

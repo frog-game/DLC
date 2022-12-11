@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1243225581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b28e92ff808057e30389a2869fbe54e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8132b68674a3106a14102bd2d8db5e59
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Prefabs/Props/TFF_Twigs_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Props/TFF_Camp_Fire_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Props/TFF_Wood_Plank_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Props/TFF_Gas_Lamp_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Props/TFF_Wood_Log_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Props/TFF_Debris_03A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Props/TFF_Debris_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Props/TFF_Wood_Log_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Props/TFF_Wood_Stack_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Props/TFF_Debris_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Props/TFF_Wood_Plank_01A.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5f142df1cab711ba9704a59ccdc48159
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/69e3dc1d3a9b4e9099bba0058bd863e1

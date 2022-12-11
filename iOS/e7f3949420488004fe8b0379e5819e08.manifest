@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 399289076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 954be7ecc9c227d26c9085a794ce2b11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d97c01027cd03cf8c97c9ce6ad8ebd59
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+- Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+Dependencies: []

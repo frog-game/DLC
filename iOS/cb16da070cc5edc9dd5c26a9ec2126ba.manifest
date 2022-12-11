@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1969601483
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cc2e88efa3266bc4924c70657700a4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd0d6cf8dffa2a061295ca10396c9cd7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7fb8f1fbda5d8464ead1a6431a4e0351, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ba5065f3cdf2624a90afa697d4205ff, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/ItemCreatBuildJson/BuildPointPrefab/SpawnPoint.prefab
+- Assets/Editor/ItemCreatBuildJson/BuildPointPrefab/itemsCreater.prefab
+Dependencies: []

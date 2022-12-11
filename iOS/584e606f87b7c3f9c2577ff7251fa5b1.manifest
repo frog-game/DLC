@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 169350696
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f65084c694509331cee2650bb47b064
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0af2eea71fce3e63736867adaa1b11a5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Candy Land/Demo/Candy Land Demo.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/28b4de9db7bc7b4cbc1a7ef3452951b9
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a0c43d321201f811ca46d680295e31d4
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d470ca03d0cf1a26ac2533e827cf859f

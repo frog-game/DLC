@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2590151079
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8194042772d3b167ab59e5fdc1438c36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Materials/Polygons/PolygonMaterial_12.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Polygons/PolygonMaterial_3.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Polygons/PolygonMaterial_4.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Polygons/PolygonMaterial_2.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Polygons/PolygonMaterial_10.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Polygons/PolygonMaterial_1.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Polygons/PolygonMaterial_5.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Polygons/PolygonMaterial_7.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Polygons/PolygonMaterial_6.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Polygons/PolygonMaterial_13.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Polygons/PolygonMaterial_8.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Polygons/PolygonMaterial_11.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Polygons/PolygonMaterial_9.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a802e3c73bebf782a975255d2c63da27

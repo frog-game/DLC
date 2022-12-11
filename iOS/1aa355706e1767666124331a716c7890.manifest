@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 795483958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f97065dceb6cb6acb94337e005152ae2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Shader/BaloonPBRTransparent.shader
+- Assets/Res/Shader/CommonCartoonPBRWithoutTexture.shader
+- Assets/Res/Shader/BaloonNormal.shader
+- Assets/Res/Shader/TransparentTest.shader
+- Assets/Res/Prefab/PlayerRing.shader
+- Assets/Res/Shader/CommonCartoonPBR.shader
+- Assets/Res/Shader/GradientUnlit.shader
+- Assets/Res/Battle/Poison/PoisonGraph.shader
+- Assets/Res/Shader/TriMask.shader
+- Assets/Res/Shader/BaloonPBR.shader
+- Assets/ThirdParty/Nokdef_VFXPack/Shaders/UberFX.shader
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/457d2f43e0c30002e57a8f66c73c5772
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a8439b93cb28206696d9ef505cee452e
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c9d6b9e3c8b4081ecd9f2f8fea897618

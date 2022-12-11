@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1326964135
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7c4c2f9b64491e2deba868d5a5d158e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Suns/Sun 01.png
+Dependencies: []

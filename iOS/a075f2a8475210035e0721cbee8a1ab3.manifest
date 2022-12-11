@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2776716812
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f449664a94deca4599b2e72717bf31ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Demo/Camera/Camera4.anim
+- Assets/MOBA and Tower Defense/Demo/Camera/Camera5.anim
+- Assets/MOBA and Tower Defense/Demo/Camera/_Main Camera6.controller
+- Assets/MOBA and Tower Defense/Demo/Camera/Camera2.anim
+- Assets/MOBA and Tower Defense/Demo/Camera/Camera6.anim
+- Assets/MOBA and Tower Defense/Demo/Camera/_Main Camera4.controller
+- Assets/MOBA and Tower Defense/Demo/Camera/_Main Camera2.controller
+- Assets/MOBA and Tower Defense/Demo/Camera/Camera3.anim
+- Assets/MOBA and Tower Defense/Demo/Camera/_Main Camera1.controller
+- Assets/MOBA and Tower Defense/Demo/Camera/Camera1.anim
+- Assets/MOBA and Tower Defense/Demo/Camera/_Main Camera5.controller
+- Assets/MOBA and Tower Defense/Demo/Camera/_Main Camera3.controller
+Dependencies: []

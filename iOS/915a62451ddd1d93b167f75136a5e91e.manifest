@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1141889309
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2193149349a6aa6410a58250e0b74fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/ShaderForge/Readme.txt
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3764879676
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5d5f5fba664514c8297183df0cdda92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6358c121956a951ba16485d73aa53eb3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Demo/Tower_defence_maps/TD_256_1.asset
+- Assets/MOBA and Tower Defense/Demo/Tower_defence_maps/TD_256_2.asset
+- Assets/MOBA and Tower Defense/Demo/Tower_defence_maps/TD_256_3.asset
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/32c4f4f9c17636cf8e69c1c1ca7e4f2e
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c4f77ca6ae8ba739852f634c57a8ed07

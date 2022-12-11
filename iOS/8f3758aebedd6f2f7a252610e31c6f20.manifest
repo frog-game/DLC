@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3916946346
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 801872f245a40cb05e16809a799b2830
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/AmplifyShaderEditor/ChangeLog.txt
+- Assets/Editor/AmplifyShaderEditor/Readme.txt
+- Assets/Editor/AmplifyShaderEditor/CreatingTerrainsWithASE.txt
+Dependencies: []

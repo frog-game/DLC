@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 349296433
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9175f9ce917144cc5811afbdaf12401f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf4d4755f1f0ae746ace8a1a2333f32
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b2db86121404754db890f4c8dfe81b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e021b4c809a781e468c2988c016ebbea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 899c54efeace73346a0a16faa3afe726, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedWater2/_Demo/DemoAssets/SWS_PostProcessingProfile_URP.asset
+- Assets/StylizedWater2/_Demo/DemoAssets/SWS_LUT_v2.psd
+Dependencies: []

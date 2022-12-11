@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2454522780
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9514a0a6d165e74fd1582f92c5ee7f1a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae2cf77de671e115b4e55d2b65767202
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Crystal_03.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Crystal_04.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_CrystalShard_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Sphere.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Crystal_02.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Crystal_01.fbx
+Dependencies: []

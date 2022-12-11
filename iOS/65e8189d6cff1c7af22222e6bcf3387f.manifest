@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 513893000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0726a8dd1c777fbded46b5492d5fac0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Standard Assets/Environment/Water/Water/Textures/WaterFresnel.psd
+- Assets/MOBA and Tower Defense/Standard Assets/Environment/Water/Water/Textures/WaterProDaytimeGradient.psd
+- Assets/MOBA and Tower Defense/Standard Assets/Environment/Water/Water/Textures/WaterProNighttimeGradient.psd
+- Assets/MOBA and Tower Defense/Standard Assets/Environment/Water/Water/Textures/WaterBump.jpg
+Dependencies: []

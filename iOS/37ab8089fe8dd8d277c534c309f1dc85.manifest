@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 4121150762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44d2ddf0efb11f55ea7a8dd31621c46d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Stone_elements.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Crystal1.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Rocks.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Tree_bark.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Tree_bark_winter.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Tree_leaves_winter.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/banner.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/tower_base2.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Ground_decals.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Lantern_glow.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Wall_sf_winter.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Lantern_winter.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Lantern.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/wagon_winter.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Stone_elements_Winter.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Wall_wood_winter.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Tree_leaves.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Wall_sf.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Wall_wood.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/tent_stump_glow.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/wagon.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/tent_stump.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Wall_stone.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Runes.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/tent_stump_winter.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/props1.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/tower_base2_winter.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Wall_stone_winter.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Ground_decals_winter.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/banner_winter.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Rocks_winter.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/tower_base1_winter.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/tower_base1.tif
+Dependencies: []

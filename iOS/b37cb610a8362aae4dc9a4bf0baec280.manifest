@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3336320469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24141b32c1203f7d9128f502e782285a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UIImage/BuffStatusBar/mg.png
+- Assets/Res/UIImage/BuffStatusBar/PassiveTipsBG.png
+- Assets/Res/UIImage/BuffStatusBar/mg_white.png
+- Assets/Res/UIImage/BuffStatusBar/mask.png
+- Assets/Res/UIImage/BuffStatusBar/PassiveTipsPanel.png
+- Assets/Res/UIImage/BuffStatusBar/ring.png
+- Assets/Res/UIImage/BuffStatusBar/bg.png
+Dependencies: []

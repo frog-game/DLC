@@ -1,0 +1,148 @@
+ManifestFileVersion: 0
+CRC: 3571157762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 875ff5bfd76f0a3bd2330631565496df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767a59f8de390d2354823e760c737a44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Primitive Shapes/Prefabs/OvalMesh_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/DiamondBrilliant_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Cone_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Joint_Cross.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_5P_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/CylinderMesh_06.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Oval_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/TwistedTorus_04.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gem_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Cube_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gear_10P_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_5P_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/RoundCubeMesh_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/TwistedTorus_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/SphereMesh_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gem_06.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/CubeMesh_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/RoundCube_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Torus_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Cone_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Cylinder_05.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/CylinderMesh_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Pyramid_5P.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/ConeMesh_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Icosphere_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gear_8P_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Pyramid_3P.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/DiamondBrilliant_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Diamond_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/FlatCircle_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gear_12P_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gem_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Diamond_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Cube_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gear_4P_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/RoundCube_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Torus_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Capsule_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Joint_Tee.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/TwistedTorus_06.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Cylinder_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gem_05.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Cylinder_04.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/SphereMesh_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/OvalMesh_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gear_12P_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gear_6P_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gem_04.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/PyramidMesh_4P.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_6P_05.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_4P_05.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Joint_Wye.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Square_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Pentagon_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_4P_04.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/TwistedTorus_05.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Torus_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Square_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/RoundCubeMesh_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/ConeMesh_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/RoundCubeMesh_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_5P_05.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Sphere_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Pyramid_4P.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/PyramidMesh_5P.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Joint_5P.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Capsule_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/CylinderMesh_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Hexagon_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Cylinder_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gear_2P_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gem_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Cube_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gear_4P_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/PyramidMesh_3P.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/RoundCube_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/CylinderMesh_05.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gear_2P_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_5P_06.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_6P_04.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Joint_Elbow.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/FlatCircle_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/TwistedTorus_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/ConeMesh_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/CubeMesh_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Capsule_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Cylinder_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Oval_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/CylinderMesh_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/TwistedTorus_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gear_8P_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/CylinderMesh_04.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_6P_06.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Joint_6P.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_6P_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/SphereMesh_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/FlatCircle_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gear_6P_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/CubeMesh_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_4P_06.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Gear_10P_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Cone_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/OvalMesh_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Diamond_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_6P_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Cylinder_06.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_4P_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Icosphere_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Icosphere_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_5P_04.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_4P_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_6P_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Sphere_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_5P_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Pentagon_02.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Sphere_03.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Star_4P_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/DiamondBrilliant_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Oval_01.prefab
+- Assets/Environment Pack/Primitive Shapes/Prefabs/Hexagon_02.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/4586c08b50c2ddaebccb0fe187a37bcf
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e45b824a99d2bb68863f841736ff92c5

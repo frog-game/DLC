@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1162372870
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9102648e8a3a02702c53352c87f8040
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedWater2/Materials/Textures/IntersectionNoise.png
+- Assets/StylizedWater2/Materials/Textures/SWS_Windwaker.png
+- Assets/StylizedWater2/Materials/Textures/SWS_Foam1.png
+- Assets/StylizedWater2/Materials/Textures/SWS_Caustics1.png
+- Assets/StylizedWater2/Materials/Textures/RoughWaves.png
+- Assets/StylizedWater2/Materials/Textures/SmoothWaves.png
+- Assets/StylizedWater2/Materials/Textures/SWS_FoamSea.png
+Dependencies: []

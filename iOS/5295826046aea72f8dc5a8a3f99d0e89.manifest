@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2483874652
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e98e6063d8d692141bce94e956f4ffad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 290801f9bc20d5067afaa4eafdc90c9f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c214ec24a4baf1a4f828768a9795f241, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40436e7c301de034f916ee1e7ddabeeb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73ae1b6eac706814a9cd427288a3c5c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 983b04ffc0cd0a04fb74c9b74eb789bd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StompyRobot/SRDebugger/UI/Prefabs/Console/Item.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/7bb2e384f9d2a8b8122ee6759f4879bd
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/de2519a7a7b0960460b33c27bccccc3d

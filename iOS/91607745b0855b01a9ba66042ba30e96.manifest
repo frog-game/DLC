@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 252321532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c912219bd9212f5a72974c44a6640a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66f946aea8d7445bd523659595b2e08d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Circles/CircleImpact_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Circles/CircleTunnel_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Circles/CircleBounce_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Circles/CircleTornado_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Circles/CircleBlow_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Circles/CircleFloatingUp_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Circles/CircleRotate_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Circles/CircleDrops_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Circles/CricleSlowFloating_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Circles/CircleTornado_3.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Circles/CircleExplosion_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Circles/CircleFlow_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Circles/CircleTornado_2.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Circles/CircleRain_1.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/07c6d29c8718cd153c7ddb2704affb4a
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/79f3a8bacb07fa21f11c3b1182970fc8

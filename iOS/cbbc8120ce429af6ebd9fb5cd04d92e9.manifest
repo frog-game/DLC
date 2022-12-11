@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3457267277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e45dd3b478c0949a2ca062115f346be5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Textures/LUT/TFF_LUT_Day_1.psd
+- Assets/Toon Fantasy Nature/Textures/LUT/TFF_LUT_Dusk_1.psd
+- Assets/Toon Fantasy Nature/Textures/LUT/TFF_LUT_Day_3.psd
+- Assets/Toon Fantasy Nature/Textures/LUT/TFF_LUT_Day_2.psd
+- Assets/Toon Fantasy Nature/Textures/LUT/TFF_LUT_Night_1.psd
+- Assets/Toon Fantasy Nature/Textures/LUT/TFF_LUT_Day_4.psd
+Dependencies: []

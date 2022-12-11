@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3867340363
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cecf85bf12b1a9dda924f2dda75580f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Wall_wood.mat
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Materials/Lantern.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1a531562bd6a6ec5a2158f3a625eb1de
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/22e58e640d808ed3af5d837661e66754
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/384ae640a71b8bc92a2207721b6a4600
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a5bb8085a333a21b4888ed66eb1cbec6

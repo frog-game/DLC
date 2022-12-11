@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1764772193
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96056acb206aa09540fd25b1d5c15496
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 24b42ab546a18a6220ddd0811ad2c525
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c21da6c994c8594d8545239d55ee034, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f656f46e0730bae47b8a1ead4b210661, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/DirectionArrowPanel/DirectionArrowPanel.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/9b923793a6deb44353cb5249026aa85e

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3380112125
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f625118fcd000d822746df0260771b11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Grounds/Grass1_winter.tif
+- Assets/MOBA and Tower Defense/Grounds/Ground_04.tif
+- Assets/MOBA and Tower Defense/Grounds/Ground_06_nmp.tif
+- Assets/MOBA and Tower Defense/Grounds/Ground_03_winter.tif
+- Assets/MOBA and Tower Defense/Grounds/Ground_03.tif
+- Assets/MOBA and Tower Defense/Grounds/Grass1.tif
+- Assets/MOBA and Tower Defense/Grounds/Terrain.mat
+- Assets/MOBA and Tower Defense/Grounds/Ground_06.tif
+- Assets/MOBA and Tower Defense/Grounds/Ground_04_winter.tif
+- Assets/MOBA and Tower Defense/Grounds/Ground_01.tif
+- Assets/MOBA and Tower Defense/Grounds/Ground_06_winter.tif
+- Assets/MOBA and Tower Defense/Grounds/Ground_05_nmp.tif
+- Assets/MOBA and Tower Defense/Grounds/Ground_05_winter.tif
+- Assets/MOBA and Tower Defense/Grounds/Tiled_bacground_level.mat
+- Assets/MOBA and Tower Defense/Grounds/Ground_05.tif
+- Assets/MOBA and Tower Defense/Grounds/Ground_01_winter.tif
+Dependencies: []

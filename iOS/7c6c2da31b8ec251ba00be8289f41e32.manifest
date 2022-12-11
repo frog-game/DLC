@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2653292043
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a4698e083ea92c2322e766dcf6f8b49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: caef4488f991baeabf9d4534e4be2c57
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/ExConfig/data.png
+- Assets/Res/ExConfig/minidata.png
+- Assets/Res/ExConfig/itemCreatList.json
+- Assets/Res/ExConfig/pathdata.png
+- Assets/Res/ExConfig/SpawnPointList.json
+- Assets/Res/ExConfig/KV.prefab
+- Assets/Res/ExConfig/pathFindingData.json
+Dependencies: []

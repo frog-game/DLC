@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 852844604
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa829037e3adc5735ad8ea8db4d56be9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Textures/Projectile.png
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Textures/TextureWorld.png
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Textures/Character03_Texture.png
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Textures/Character02_Texture.png
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Textures/ToonRamp.png
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Textures/HealEffect.png
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Textures/Character01_Character01_Texture.png
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Textures/lineLight.png
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Textures/HealEffect2.png
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3553388171
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6169fbb0ce0086252495180af1a12c5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae2cf77de671e115b4e55d2b65767202
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedWater2/_Demo/DemoAssets/Models/SGS_DemoRock.fbx
+- Assets/StylizedWater2/_Demo/DemoAssets/Models/SWS_Shrub.fbx
+- Assets/StylizedWater2/_Demo/DemoAssets/Models/SWS_DemoPalmBaby.fbx
+- Assets/StylizedWater2/_Demo/DemoAssets/Models/SGS_Cliff_LP.OBJ
+- Assets/StylizedWater2/_Demo/DemoAssets/Models/SWS_DemoProps.fbx
+- Assets/StylizedWater2/_Demo/DemoAssets/Models/SWS_DemoPalmTree.fbx
+- Assets/StylizedWater2/_Demo/DemoAssets/Models/DioramaWater.fbx
+Dependencies: []

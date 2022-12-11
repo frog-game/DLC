@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 787793597
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73b794674077d1b5bc219ce1a14ad3a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/materials/slash/slash_heavy_glow_additive.mat
+- Assets/ThirdParty/EffectCore/materials/slash/slashsmall_glow_additive.mat
+- Assets/ThirdParty/EffectCore/materials/slash/spinSlash_additive.mat
+- Assets/ThirdParty/EffectCore/materials/slash/stab_additive.mat
+- Assets/ThirdParty/EffectCore/materials/slash/slash_small_alphaBlend.mat
+- Assets/ThirdParty/EffectCore/materials/slash/slash_medium_glow_additive.mat
+- Assets/ThirdParty/EffectCore/materials/slash/slash_medium_alphaBlend.mat
+- Assets/ThirdParty/EffectCore/materials/slash/slash_heavy_alphaBlend.mat
+- Assets/ThirdParty/EffectCore/materials/slash/stabCone_additive.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c508c291bfe15475e53dc5625f29f8c2
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/eceeb542e605ffb31dcd9eb16513c16f

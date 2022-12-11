@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3518290122
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 555d9bb02fc1a63aea87f2f7d300b106
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 58a3439e8e9e64230f3aeb3626923708
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/Nature/BlizzardStormSnow/ThundersLight.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/Nature/BlizzardStormSnow/RainingSnowPolygons.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/Nature/BlizzardStormSnow/TriangleSnowStorm.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/Nature/BlizzardStormSnow/SnowStorm.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/Nature/BlizzardStormSnow/BlizzardSparks.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/07c6d29c8718cd153c7ddb2704affb4a
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/3c28b319d6accb29afbfe6cf659958c6
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c67b8ef4f96d477b53a57a438a532c4f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d138d9ce3756c0b23312d4977fd47e72
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d62581754429714db0fe50263dc1b9d4

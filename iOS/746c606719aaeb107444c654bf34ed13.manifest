@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1970298812
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5c2841653b788f43385b5d572a74f13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/2D_Destruction/Sprite-Diffuse.mat
+Dependencies: []

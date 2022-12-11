@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1025685711
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98f2d1732c88ad9886ac104f1849e151
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e1aa8b034528fbbd5166c8a1725e31a6
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 5be1210686944b54c870ee44afc0d017, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16772546f83d396488575f7c7f1cc20e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Battle/Passive/Grass_SlowPool.asset
+- Assets/Res/Battle/Passive/AttackUp2.asset
+- Assets/Res/Battle/Passive/MaxHpUp2.asset
+- Assets/Res/Battle/Passive/Fire_FireTrail.asset
+- Assets/Res/Battle/Passive/DeflateRateUp3.asset
+- Assets/Res/Battle/Passive/MaxGPUp3.asset
+- Assets/Res/Battle/Passive/MaxGPUp2.asset
+- Assets/Res/Battle/Passive/InflateRateUp1.asset
+- Assets/Res/Battle/Passive/MaxGPUp1.asset
+- Assets/Res/Battle/Passive/InflateRateUp3.asset
+- Assets/Res/Battle/Passive/MaxHpUp1.asset
+- Assets/Res/Battle/Passive/InflateRateUp2.asset
+- Assets/Res/Battle/Passive/Water_IceWall.asset
+- Assets/Res/Battle/Passive/DeflateRateUp1.asset
+- Assets/Res/Battle/Passive/PassiveTable.asset
+- Assets/Res/Battle/Passive/AttackUp3.asset
+- Assets/Res/Battle/Passive/MaxHpUp3.asset
+- Assets/Res/Battle/Passive/AttackUp1.asset
+- Assets/Res/Battle/Passive/DeflateRateUp2.asset
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/512dd92f0f76c91150ab29e39f8b80ca

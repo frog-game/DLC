@@ -1,0 +1,137 @@
+ManifestFileVersion: 0
+CRC: 4205688110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd16ff834a982500437b4ab86e0d9be6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae2cf77de671e115b4e55d2b65767202
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Cactus1.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Rock16.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Bamboo01.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Bamboo04.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Water03.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Rail2.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Wall5.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Crystal3.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Grass02.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Cliff7.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/rock6.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/rock8.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Stone06.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Ladder.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Rock14.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Floor1.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Bone1.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Plank3.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/SolGrass01.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/rock4.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Chariot.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Crystal2.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/rock7.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Cliff12.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Character01.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Bamboo02.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Cliff6.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Barrel.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Pilar3.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Wall3.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/rock2.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/wall01.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Stone04.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Bamboo06.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Water04.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Stone03.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Flower03.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Rock13.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/SolGrass03.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Cliff10.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Stone02.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/cliff02.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Bamboo05.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Plank.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/wall02.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Pilar1.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/water01.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Plank2.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Rock12.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/water02.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Fence.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/skull2.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Grass04.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Gate.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Mudwall03.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Character03.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Stone08.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Bamboo07.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Crystal1.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Crack1.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/cliff04.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Crack4.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Bamboo03.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Cliff5.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Rail1.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/rock3.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Box02.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Rock9.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/cliff03.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Crack2.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Rock10.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Pilar4.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Rock11.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Pilar2.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Fence02.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Flower01.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Fence03.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Stone05.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/rock1.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Cactus2.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Flower04.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Trunk.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Wall4.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Mudwall02.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Rock15.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Crystal4.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Plank4.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Barrel02.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Box.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/skull1.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Entrance.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Crack5.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Bone2.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Grass01.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Character02.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Cliff11.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Cliff8.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/rock5.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Stone07.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Crack3.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Cliff09.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/SolGrass02.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Flower02.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Mushroom.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/cliff01.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Grass03.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Floor2.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Stone01.fbx
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Models/Mudwall01.fbx
+Dependencies: []

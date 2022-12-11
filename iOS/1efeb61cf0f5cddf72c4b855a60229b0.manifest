@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1594686810
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57594369b471956ca8a38fbff9eaf355
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee2c60f0166f8ba7c6c7d1d1c4b8e59b
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 93308045fbb3c5e42ba5ccb66d848632, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/BOXOPHOBIC/Utils/Editor/Version.asset
+Dependencies: []

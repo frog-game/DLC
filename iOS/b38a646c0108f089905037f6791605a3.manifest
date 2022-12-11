@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1042326389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d84640462fb26e2fdcee1ccacbbee188
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08e5839e4db477429ed20d28d657089e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Orange/FieldEnergyCubeSymbol_Orange.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Orange/FieldEnergyBrokenCircle_Orange.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Orange/FieldEnergyTrianglePolyShape_Orange.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Orange/FieldEnergyBooleanCircles_Orange.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Orange/FieldEnergyCirclesBoost_Orange.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Orange/FieldEnergyTrianglePolySymbol_Orange.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Orange/FieldEnergySquareSymbol_Orange.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Orange/FieldEnergyCirclesLines_Orange.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Orange/FieldEnergyPolySymbolStretcht_Orange.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Orange/FieldEnergySymbol_Orange.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Orange/FieldEnergyPolySymbol_Orange.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Orange/FieldEnergyLoopCircles_Orange.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Orange/FieldEnergyPolyCircle_Orange.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Orange/FieldEnergyIrreguralTriangle_Orange.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/07c6d29c8718cd153c7ddb2704affb4a
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c67b8ef4f96d477b53a57a438a532c4f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d138d9ce3756c0b23312d4977fd47e72
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d62581754429714db0fe50263dc1b9d4
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f9c6189094cc18421b1c012470dba086

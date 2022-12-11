@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 3006900627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f4ad486ce3110f8d2c2b19872149e0a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3c48af68c4fd3d5a2122d51ee4537fd6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 117
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud6_density.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud4_density.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud7_density.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud4_sdf.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud_density.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud3_sdf.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud2_sdf.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/CloudCube_sdf.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud_sdf.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud6_lighting.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud7_sdf.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud_sdf.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud_lighting.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud5_density.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud7_sdf.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud7_lighting.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud7_density.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud6_sdf.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/CloudCube_lighting.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud4_lighting.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud5_sdf.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud3_density.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud4_density.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud3_sdf.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud5_sdf.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud_density.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud3_lighting.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud7_lighting.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud4_sdf.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud5_lighting.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/CloudCube_density.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud2_sdf.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud2_lighting.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud5_lighting.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud3_density.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud3_lighting.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud2_density.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud6_lighting.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud5_density.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud6_sdf.asset
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud4_lighting.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud_lighting.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud2_density.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud2_lighting.exr
+- Assets/Res/Scenes/LobbyScene/Clouds/Maps/Cloud6_density.asset
+Dependencies: []

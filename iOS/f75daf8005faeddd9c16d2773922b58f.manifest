@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 280967551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b742422cef16eb49ede62a9356d6b485
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Replace.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Extrude.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/ShowGridTools.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Mirror.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Y.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/SelectionFilter.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Eraser.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Selection.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/New.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Edited.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Pin.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Same.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/X.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/HideGridToolsH.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/ShowGridToolsH.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Prev.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Shape.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/DropdownArrow.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Cursor.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Mixed.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Brush.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LockGrid.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Delete.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/ShowGrid.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/HideGridTools.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/SnapOn.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/ButtonOnNormal.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/SnapSettings.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Clear.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/S.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/T.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/C.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/IncludeEnabled.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Empty.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Tiling.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Label.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Settings.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/GravityTool.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/RadialGrid.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Update.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Next.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/UnlockGrid.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/IncludeDisabled.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Line.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Picker.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Grid.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Z.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/R.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/GravityLines.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/Help.png
+Dependencies: []

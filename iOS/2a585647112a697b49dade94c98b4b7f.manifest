@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 646350186
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71527e73a03f63bdba67bf6156ab7039
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03a9ba7de7ec8f7142347b1f354bde09
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/scenes/StylizedMeleePack1/Lightmap-11_comp_light.exr
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/scenes/StylizedMeleePack1/Lightmap-10_comp_light.exr
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/scenes/StylizedMeleePack1/Lightmap-4_comp_light.exr
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/scenes/StylizedMeleePack1/Lightmap-7_comp_light.exr
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/scenes/StylizedMeleePack1/Lightmap-2_comp_light.exr
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/scenes/StylizedMeleePack1/Lightmap-9_comp_light.exr
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/scenes/StylizedMeleePack1/Lightmap-5_comp_light.exr
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/scenes/StylizedMeleePack1/Lightmap-3_comp_light.exr
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/scenes/StylizedMeleePack1/Lightmap-0_comp_light.exr
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/scenes/StylizedMeleePack1/ReflectionProbe-0.exr
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/scenes/StylizedMeleePack1/Lightmap-1_comp_light.exr
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/scenes/StylizedMeleePack1/Lightmap-6_comp_light.exr
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/scenes/StylizedMeleePack1/Lightmap-8_comp_light.exr
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 327796812
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2f8740ca0bbff1cba443258efe71fd9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UIImage/Login/background.png
+- Assets/Res/UIImage/Login/arrow.png
+Dependencies: []

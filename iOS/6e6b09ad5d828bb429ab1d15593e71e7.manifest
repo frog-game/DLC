@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 235449949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8aa4e6fcb84178b93d92fef6908021ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e36048bbb9197ab44559674e1f6c2697
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/2D_Destruction/Demo/Fonts/BradBunR.ttf
+Dependencies: []

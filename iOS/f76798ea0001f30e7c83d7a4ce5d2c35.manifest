@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2374552963
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a00028e283f4e3775db8f0d23b83cb36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Shader/Xray.mat
+- Assets/Res/Shader/TreePBRMaterial.mat
+- Assets/Res/Shader/TransparentTest.mat
+- Assets/Res/Shader/TriMask.mat
+- Assets/Res/Shader/lobbyplane.mat
+- Assets/Res/Shader/Xray.shadergraph
+- Assets/Res/Shader/Baloon.shadergraph
+- Assets/Res/Shader/GradientUnlit.mat
+- Assets/Res/Shader/Tornado.mat
+- Assets/Res/Shader/BaloonNormal.mat
+- Assets/Res/Shader/Tornado.shadergraph
+- Assets/Res/Shader/BaloonPBR.mat
+- Assets/Res/Shader/Plane.mat
+- Assets/Res/Shader/BaloonPBR.shadergraph
+- Assets/Res/Shader/WoodCartoonPBR.mat
+- Assets/Res/Shader/BaloonPRBTransparent.mat
+- Assets/Res/Shader/Shader Graphs_BaloonPBR.mat
+- Assets/Res/Shader/SpikePBR.mat
+- Assets/Res/Shader/TreePBRCartoon.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/384ae640a71b8bc92a2207721b6a4600
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/457d2f43e0c30002e57a8f66c73c5772
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a8439b93cb28206696d9ef505cee452e
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/children_f76798ea0001f30e7c83d7a4ce5d2c35

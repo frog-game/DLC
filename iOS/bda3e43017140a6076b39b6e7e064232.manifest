@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 2623910814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1254e2ec5054688d95c0dfcdc8a5bdb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 19b4c9eb706b7647f841f7b11aa2a311
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Over Growth/Prefabs/Bulber_A_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Vine_A_03.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Spikes_02.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Spiker_03.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/ExoticGrass_A_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/ExoticGrass_A_03.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Egger_03.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Egger_02.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Cactus_B_02.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Spiroots_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Shroom_B_03.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Spikes_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Bulber_A_03.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Cactus_B_03.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Clover_A_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Cactus_A_03.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Egger_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Spikes_03.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Shroom_A_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Shroom_A_03.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Spiker_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Vine_A_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Clover_A_02.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Spiroots_02.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Spiroots_03.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Cactus_A_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Bulber_A_02.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Cactus_A_02.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Vine_A_02.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Strower_A_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Shroom_B_02.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Spiker_02.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Cactus_B_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Shroom_B_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Bulber_C_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Shroom_A_02.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/ExoticGrass_A_02.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Bulber_B_01.prefab
+- Assets/Environment Pack/Over Growth/Prefabs/Clover_A_03.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0260a5ecadcd48537461d662ca90a0ea
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e48e2b933d9f6450676dd8a5f516d6ba

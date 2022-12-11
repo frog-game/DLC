@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3819319893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9e9aa1867cb5b2f3c2d42af9ea5852f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Blood/BloodNoise_Faded.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d1f38b887103152ffddb41c266ae3831

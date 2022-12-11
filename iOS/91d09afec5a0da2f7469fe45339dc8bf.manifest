@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2333896291
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b05ebc89fca0ec19c973bcbfb00b7505
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0913ffd0c6e6f301658a18486d3be970
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30701e2ffa585a741ba1278832540009, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03118221f4bfcd74ba0ad8075da02411, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 625e9c3b94e3dc64ea82f6e29062b3d6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/UnityChan/SD_EL-Birds/Yuji/Prefabs/Yuji.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/50649ee294a9ff5fa0c6c0f7c12035dc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/697af92f0bbf1c36fea8cdb502ff7aab
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/8489cb114991f5f27f3bdcac4bf0de63
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d0f64e2fef1ecc05b1e8aa3258ccd251

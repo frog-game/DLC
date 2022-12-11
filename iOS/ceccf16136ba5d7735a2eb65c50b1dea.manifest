@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1025883195
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5262a95413d552181c8bd674bdab84da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Void & Universe/Flare_GlintPurple.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Void & Universe/UniverseOrb_Explosion.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Void & Universe/UniverseNoise_Disolve.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Void & Universe/UniverseOrb_Charging.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d1f38b887103152ffddb41c266ae3831

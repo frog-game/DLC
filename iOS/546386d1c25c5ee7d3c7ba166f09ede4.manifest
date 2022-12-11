@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 688087299
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56db858e2fc72388715315d2d281d2cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b93cc633ef6f3fc39ff93ba7ad78ac5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a895231490da6545890b1e1794f8704, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14fe9984834882c43b827e4197192a74, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/prefab/White/hitFX_White/hitFX_medium_white.prefab
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/prefab/White/hitFX_White/hitFX_weak_white.prefab
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/prefab/White/hitFX_White/hitFX_heavy_white.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5d9310bbabe87423cc456343571d37fc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/8f7f7da5cecc322998ef4c3da67d54b6

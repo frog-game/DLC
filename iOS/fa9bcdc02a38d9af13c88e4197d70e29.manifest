@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2072020608
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1128eb131fd0928dc437bd5da2bd795
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Ice_01.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Default_01.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Circle.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Default.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Sparkle.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Cutout_Round.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e6ee53a6acd77b41059212a63505a2a8

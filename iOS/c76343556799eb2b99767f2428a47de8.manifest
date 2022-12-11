@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2826179172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92985cc75b69d2e6feef365ef938e040
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Circle00.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Stream00.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/StreamPSD.psd
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Stream11.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Sky00.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/StreamDescription00.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Palette256.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Stream10.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/StreamDescription01.png
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Textures/Stream01.png
+Dependencies: []

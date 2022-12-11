@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 4060427201
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 462a7d222d02a217b451e9f73a235ea5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad06958797749336e5782b9470fdf713
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Collider/Col_Scaffold01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Collider/Col1x1Mesa00RampSide00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Collider/Col1x1Mesa00RampSideR00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Collider/Col_RockDesert04.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Collider/Col1x1Mesa00RampSideL00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Collider/Col1x1Mesa60Ramp00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Collider/Col_RockDesert02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Collider/Col1x1Mesa00Ramp01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Collider/Col_RockDesert03.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Collider/Col_RockDesert00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Collider/Col1x1Mesa00C01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Collider/Col1x1Mesa60GroundTri00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Collider/Col_RockDesert01.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0f2aa2cd56fbe3fbf7d78fd6d1401ba9
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c840d5004ac47bcebbdd43dde80286c8

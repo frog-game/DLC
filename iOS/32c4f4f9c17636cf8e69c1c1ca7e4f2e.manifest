@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2228733259
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ecf62c7c67b89926ded4864b5fce8d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 937c345f65ba428a0aa4fdcf69516ea1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_TerrainAutoUpgrade/layer_Ground_053d1cca0d6d0e9938.terrainlayer
+- Assets/_TerrainAutoUpgrade/layer_Ground_043d1cca0d6d0e9938.terrainlayer
+- Assets/_TerrainAutoUpgrade/layer_Ground_05Ground_05_nmpb956af97c33fc3d7.terrainlayer
+- Assets/_TerrainAutoUpgrade/layer_Ground_042023054508611406.terrainlayer
+- Assets/_TerrainAutoUpgrade/layer_Ground_06Ground_06_nmp8c44e42493390d78.terrainlayer
+- Assets/_TerrainAutoUpgrade/layer_Ground_068c44e42493390d78.terrainlayer
+- Assets/_TerrainAutoUpgrade/layer_Ground_013d1cca0d6d0e9938.terrainlayer
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c4f77ca6ae8ba739852f634c57a8ed07

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 935607052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e881f9a033f91379e925f1b2756cc827
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8598582371134c3a1ce8b4bffc40b676
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Prefabs/DeadTrees/LODs/DeadTree_02_LOD.prefab
+- Assets/StylizedNatureBundle/Prefabs/DeadTrees/LODs/DeadTree_03_LOD.prefab
+- Assets/StylizedNatureBundle/Prefabs/DeadTrees/LODs/DeadTree_04_LOD.prefab
+- Assets/StylizedNatureBundle/Prefabs/DeadTrees/LODs/DeadTree_01_LOD.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/84928ce021bb4a4d1e6c49c2f3854633
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b80deac08a2eb1f3beef313c1cf87e10
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d3a72ecd26e743c00a5152651814b987

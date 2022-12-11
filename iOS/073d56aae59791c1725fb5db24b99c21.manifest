@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 548870349
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2922cbb650a5c9a853096ec5113b7699
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8309ef977a36ccecc5a5cb3694d99cf8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52480f6baf9b7b0428c75481cb3d5a6d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedWater2/Prefabs/StylizedWater2_Ocean.prefab
+- Assets/StylizedWater2/Prefabs/StylizedWater_Lowpoly.prefab
+- Assets/StylizedWater2/Prefabs/StylizedWater_Mobile.prefab
+- Assets/StylizedWater2/Prefabs/StylizedWater_Toon.prefab
+- Assets/StylizedWater2/Prefabs/StylizedWater_Desktop.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/13db78940b02f92675d80a0ab4c0a5a0
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b2b68ea464092dbcff2270b42dc8bd81

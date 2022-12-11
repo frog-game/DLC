@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2392810912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92a98d9cc3a4e16fcecd93e6a66dd285
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Particles/Textures/TFF_Ember_01A.psd
+- Assets/Toon Fantasy Nature/Particles/Textures/TFF_Smoke_01A.psd
+- Assets/Toon Fantasy Nature/Particles/Textures/TFF_Sun_Shaft_01A_D.psd
+- Assets/Toon Fantasy Nature/Particles/Textures/TFF_Firefly_01A_D.tif
+- Assets/Toon Fantasy Nature/Particles/Textures/TFF_Fog_01A_D.psd
+Dependencies: []

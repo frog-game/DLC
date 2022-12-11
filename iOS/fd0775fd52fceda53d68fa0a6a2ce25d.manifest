@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 168579359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f6fa070b6ea015f395b41562dd8c1b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b1d502ac223343c95094425f377451e
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 04 A.png
+Dependencies: []

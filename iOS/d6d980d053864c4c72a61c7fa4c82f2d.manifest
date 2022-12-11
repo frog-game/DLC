@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3404207685
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af2c476e54482719cf6d3254cad777f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f1ebb72200b1f78dd7bc1ed693e7a3da
+HashAppended: 0
+ClassTypes:
+- Class: 72
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Demo/PostProcessing/Resources/Shaders/EyeHistogram.compute
+Dependencies: []

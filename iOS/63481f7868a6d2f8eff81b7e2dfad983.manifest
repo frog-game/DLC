@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1327340655
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4320ca3306e1b434a359056f2334a8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Pin/PinDot_Outline@2x.psd
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Pin/NumberButton_Outline@2x.psd
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Pin/PinDot_Fill@2x.psd
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Pin/NumberButton_Fill@2x.psd
+Dependencies: []

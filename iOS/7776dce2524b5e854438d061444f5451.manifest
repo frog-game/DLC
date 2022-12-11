@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1010599362
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c13b808f37ec2c3f15634e975fd8ff8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf81a00a6dc40625558b8126a3c8de8b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d5014a365dd7394eb51f8dd986cc077d

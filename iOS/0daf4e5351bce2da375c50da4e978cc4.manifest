@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3929200537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e17102d1ab61cc4d4b814c37986ba9ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0752.PNG"
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0741.PNG"
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0744.PNG"
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0745.PNG"
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0754.PNG"
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0740.PNG"
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0750.PNG"
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0753.PNG"
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0746.PNG"
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0743.PNG"
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0749.PNG"
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0751.PNG"
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0747.PNG"
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0748.PNG"
+- "Assets/UIImage/\u8D85\u524D\u8BFB\u6761/IMG-0742.PNG"
+Dependencies: []

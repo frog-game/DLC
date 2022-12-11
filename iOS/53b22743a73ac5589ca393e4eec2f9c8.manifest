@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 856083681
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89917f7fa8ce51ac5779dab18a56850a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowpolySubstances/Demos/Materials/Scenes Materials/Island.mat
+- Assets/ThirdParty/LowpolySubstances/Demos/Materials/Scenes Materials/Trees3.mat
+- Assets/ThirdParty/LowpolySubstances/Demos/Materials/Scenes Materials/Rocks.mat
+- Assets/ThirdParty/LowpolySubstances/Demos/Materials/Scenes Materials/Shelter.mat
+- Assets/ThirdParty/LowpolySubstances/Demos/Materials/Scenes Materials/Can.mat
+- Assets/ThirdParty/LowpolySubstances/Demos/Materials/Scenes Materials/Trees1.mat
+- Assets/ThirdParty/LowpolySubstances/Demos/Materials/Scenes Materials/Logs.mat
+- Assets/ThirdParty/LowpolySubstances/Demos/Materials/Scenes Materials/Mountains.mat
+- Assets/ThirdParty/LowpolySubstances/Demos/Materials/Scenes Materials/Trees2.mat
+Dependencies: []

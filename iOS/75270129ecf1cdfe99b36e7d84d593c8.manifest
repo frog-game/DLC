@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 846368140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11eb6830861374cbae450b6e832028ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_Rockets1.mat
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_fire_acid.mat
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_Laserguns.mat
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_Rockets2.mat
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_Radars.mat
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_machinegun.mat
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_Crystals.mat
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_Plasma.mat
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_Mortars.mat
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_Gatlings.mat
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_crossbow.mat
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_cannon1.mat
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_gaussguns.mat
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_Hammers.mat
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Materials/Tow_Tesla.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/610dc7b44bed2777a8fb08326cdfc9b1

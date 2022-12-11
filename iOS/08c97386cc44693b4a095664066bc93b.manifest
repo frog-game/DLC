@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1417691970
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a30746078f4c16696b88c4fdda36698
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66f946aea8d7445bd523659595b2e08d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/IrreguralShapes/ShapeSparkles.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/IrreguralShapes/ShapeFloating_2.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/IrreguralShapes/ShapeCloud.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/IrreguralShapes/ShapeFloating_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/IrreguralShapes/ShapesExplode_2.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/IrreguralShapes/ShapesExplode_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/IrreguralShapes/ShapeFlow_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/IrreguralShapes/ShapesBounce_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/IrreguralShapes/ShapesWiggle_1.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/79f3a8bacb07fa21f11c3b1182970fc8
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c67b8ef4f96d477b53a57a438a532c4f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f9c6189094cc18421b1c012470dba086

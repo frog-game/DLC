@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1376550315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1df15db475268431afd1f7a6f688660b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d97c01027cd03cf8c97c9ce6ad8ebd59
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StompyRobot/SRDebugger/UI/Fonts/Orbitron Medium.otf
+- Assets/StompyRobot/SRDebugger/UI/Fonts/Orbitron Light.otf
+- Assets/StompyRobot/SRDebugger/UI/Fonts/SourceCodePro-Regular.otf
+- Assets/StompyRobot/SRDebugger/UI/Fonts/FONT LICENSE.txt
+- Assets/StompyRobot/SRDebugger/UI/Fonts/Orbitron Black.otf
+- Assets/StompyRobot/SRDebugger/UI/Fonts/Orbitron Bold.otf
+Dependencies: []

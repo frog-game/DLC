@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2453420968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55d4eb95a6c83665cf6445b643d2a285
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad06958797749336e5782b9470fdf713
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Stream/B1x1StreamBandR00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Stream/B1x1StreamV00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Stream/B1x1StreamBandL00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Stream/B1x1StreamSlope00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Stream/B1x1Stream00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Stream/B1x1Stream2xUV00.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0f2aa2cd56fbe3fbf7d78fd6d1401ba9
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c840d5004ac47bcebbdd43dde80286c8

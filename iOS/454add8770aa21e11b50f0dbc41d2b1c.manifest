@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2490646418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8585000c3e8c195790b5a21a850856d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6358c121956a951ba16485d73aa53eb3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/SWS_DemoRock_MaskMap.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/SWS_DemoRiverBed.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/SWS_DemoSand_Normals.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/SWS_DemoSeaweed.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/SWS_DemoRock_Normals.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/SWS_DemoSeaweed_MaskMap.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/SWS_DemoRiverBed_Normals.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/SWS_DemoSand.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/SWS_DemoGrass.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/SWS_DemoSeaweed_Normals.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/SWS_DemoRock.png
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/SWS_DioramaTerrain.asset
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/57b21c06b24dd9ac9fafa841300b1b15

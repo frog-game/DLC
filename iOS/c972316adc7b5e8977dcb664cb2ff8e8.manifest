@@ -1,0 +1,178 @@
+ManifestFileVersion: 0
+CRC: 1418937799
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43f10e7da7490036968138094ce1b10a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 19b4c9eb706b7647f841f7b11aa2a311
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Back Garden/Prefabs/Garlicclove_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Strawberry_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Straw_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Carrot_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pomegranate_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Corn_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Coconut_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Guava_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Lemoncut_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Garlic_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Watermelon_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Kiwicut_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Mangosteen_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Bush_Berry_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Tomato_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Grape_05.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cornsimple_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Coconut_05.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Orange_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cucumber_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Starfruit_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Chilli_05.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Strawberry_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Avocado_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cherry_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pumpkin_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Broccoli_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Carrot_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cauliflower_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Tomato_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Coconut_06.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Bananacomb_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cauliflower_05.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cherry_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Plum_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Peas_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Capsicum_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cucumber_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Coconut_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Guava_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Leek_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Mango_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pomegranate_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Garlicclove_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Lemon_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Grape_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Aubergine_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Broccoli_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Orange_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Mangosteen_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pea_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Watermelon_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Chilli_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Avocado_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Starfruit_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pumpkin_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pea_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Potato_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Broccoli_04.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Bananacomb_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Broccoli_05.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Mango_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Tomato_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pear_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Blueberry_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Banana_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Apple_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Chilli_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cucumber_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Capsicum_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pineapple_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Kiwi_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Bananacomb_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Banana_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Bush_Berry_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cornsimple_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cauliflower_04.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Onion_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Coconut_07.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cauliflower_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pear_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Kiwi_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Onion_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Watermelon_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pomegranate_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Broccoli_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Artichoke_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Limecut_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Peas_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Capsicum_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Bush_Berry_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Artichoke_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Mango_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Avocado_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pea_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Orange_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Mangosteen_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Corn_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pineapple_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Plum_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Guava_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Garlicclove_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Artichoke_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pear_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Coconut_04.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Garlic_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Banana_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Blueberry_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Plum_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Potato_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Aubergine_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Garlic_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Blueberry_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pumpkin_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Coconut_08.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Chilli_06.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Lime_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Corn_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Pineapple_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Turnip_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Chilli_04.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Grape_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Leek_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cherry_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cornsimple_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Potato_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Leek_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Onion_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Broccoli_06.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Coconut_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Grape_06.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Flowerpistil_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Turnip_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Grape_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Lime_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Grape_04.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cauliflower_06.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Starfruit_03.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Apple_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Lemon_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Turnip_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Cauliflower_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Coconut_09.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Carrot_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Strawberry_01.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Aubergine_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Chilli_02.prefab
+- Assets/Environment Pack/Back Garden/Prefabs/Apple_02.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a8909a025b0f328e62996e1e47f54d66
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/bed6142f71b33703e9f76d721fa93893

@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2000666841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6436a496841e3e72106fb8fa40b3640d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea9e118c799bb688e0cdccbbf83e5a46
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b4818703e8c1d545bfe896c8a77d66d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8a490b2177c0cf479ac5bfa2a9316ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f064055f842e824a9b1d807e96f6eb8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Battle/Tornado/CircleTornado_1.prefab
+- Assets/Resources/Battle/Tornado/Cartoon tornado 2.prefab
+- Assets/Resources/Battle/Tornado/Tornado1.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/3bb917566cea3a5594609b26ba6cd986
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/76dd7e36e245d0d41be8bdf853ca7e67
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/777f2bfeec5bb406f3931bde60b20259

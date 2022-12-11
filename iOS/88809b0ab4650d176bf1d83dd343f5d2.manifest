@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1526109222
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57de11b119608cb2422a8fc732eb40cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f11674722593864b613b53598face7e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7fb8f1fbda5d8464ead1a6431a4e0351, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Prefab/SpawnPoint.prefab
+Dependencies: []

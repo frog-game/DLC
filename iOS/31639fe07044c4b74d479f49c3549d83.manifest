@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3403574806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4accbbd57a9bc924754b692718001e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StompyRobot/SRDebugger/Editor/BG_Dark.png
+- Assets/StompyRobot/SRDebugger/Editor/BG_Light.png
+- Assets/StompyRobot/SRDebugger/Editor/Logo_DarkBG.png
+- Assets/StompyRobot/SRDebugger/Editor/WelcomeLogo_LightBG.png
+- Assets/StompyRobot/SRDebugger/Editor/DemoSprite.png
+- Assets/StompyRobot/SRDebugger/Editor/Logo_LightBG.png
+- Assets/StompyRobot/SRDebugger/Editor/WelcomeLogo_DarkBG.png
+Dependencies: []

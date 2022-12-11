@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 3856291065
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f237b9c15faca768f6b7331b7144716
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 19b4c9eb706b7647f841f7b11aa2a311
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Over Growth/Models/Vine_A_02.fbx
+- Assets/Environment Pack/Over Growth/Models/Clover_A_03.fbx
+- Assets/Environment Pack/Over Growth/Models/Clover_A_01.fbx
+- Assets/Environment Pack/Over Growth/Models/Bulber_A_03.fbx
+- Assets/Environment Pack/Over Growth/Models/Spikes_02.fbx
+- Assets/Environment Pack/Over Growth/Models/Cactus_B_01.fbx
+- Assets/Environment Pack/Over Growth/Models/Clover_A_02.fbx
+- Assets/Environment Pack/Over Growth/Models/Bulber_B_01.fbx
+- Assets/Environment Pack/Over Growth/Models/Bulber_C_01.fbx
+- Assets/Environment Pack/Over Growth/Models/Egger_02.fbx
+- Assets/Environment Pack/Over Growth/Models/Spiker_02.fbx
+- Assets/Environment Pack/Over Growth/Models/Shroom_B_01.fbx
+- Assets/Environment Pack/Over Growth/Models/Strower_A_01.fbx
+- Assets/Environment Pack/Over Growth/Models/Vine_A_01.fbx
+- Assets/Environment Pack/Over Growth/Models/Spikes_03.fbx
+- Assets/Environment Pack/Over Growth/Models/Spiroots_02.fbx
+- Assets/Environment Pack/Over Growth/Models/Bulber_A_02.fbx
+- Assets/Environment Pack/Over Growth/Models/Spiroots_03.fbx
+- Assets/Environment Pack/Over Growth/Models/Spiroots_01.fbx
+- Assets/Environment Pack/Over Growth/Models/Cactus_B_03.fbx
+- Assets/Environment Pack/Over Growth/Models/Bulber_A_01.fbx
+- Assets/Environment Pack/Over Growth/Models/Spiker_01.fbx
+- Assets/Environment Pack/Over Growth/Models/Cactus_A_03.fbx
+- Assets/Environment Pack/Over Growth/Models/Spikes_01.fbx
+- Assets/Environment Pack/Over Growth/Models/ExoticGrass_A_03.fbx
+- Assets/Environment Pack/Over Growth/Models/Shroom_B_03.fbx
+- Assets/Environment Pack/Over Growth/Models/Egger_03.fbx
+- Assets/Environment Pack/Over Growth/Models/ExoticGrass_A_01.fbx
+- Assets/Environment Pack/Over Growth/Models/Cactus_B_02.fbx
+- Assets/Environment Pack/Over Growth/Models/Cactus_A_02.fbx
+- Assets/Environment Pack/Over Growth/Models/Vine_A_03.fbx
+- Assets/Environment Pack/Over Growth/Models/Shroom_A_02.fbx
+- Assets/Environment Pack/Over Growth/Models/Egger_01.fbx
+- Assets/Environment Pack/Over Growth/Models/Shroom_B_02.fbx
+- Assets/Environment Pack/Over Growth/Models/Shroom_A_01.fbx
+- Assets/Environment Pack/Over Growth/Models/Spiker_03.fbx
+- Assets/Environment Pack/Over Growth/Models/ExoticGrass_A_02.fbx
+- Assets/Environment Pack/Over Growth/Models/Shroom_A_03.fbx
+- Assets/Environment Pack/Over Growth/Models/Cactus_A_01.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e48e2b933d9f6450676dd8a5f516d6ba

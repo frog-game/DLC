@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2180773018
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4961bc1440450dfaaa91eae32723e43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c96b743cd4541911feba7d9bb6837545
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef474d77e998d4890bff85103fb4c947, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6804babace5cc47dd8b61abb292c4be2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52121b47a452546fb88cf2e9a9352f56, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2a401b7e00ae4e6f8558aec39e60721, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d9bf156813c141e98b61835f46356f7, type: 3}
+- Class: 212
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Characters/enemy2.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Characters/enemy1.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Characters/hero.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/15b4b43e4ec081558081463b58fec2aa
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/83fcb486b2017510259a33511afe79aa

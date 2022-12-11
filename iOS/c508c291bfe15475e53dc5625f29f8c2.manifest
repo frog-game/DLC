@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2193389116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 783dd6376fa43990df93b76fdb0202b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/textures/slashes/Spin.psd
+- Assets/ThirdParty/EffectCore/textures/slashes/Slash_Medium.psd
+- Assets/ThirdParty/EffectCore/textures/slashes/Slash_Heavy_glow.psd
+- Assets/ThirdParty/EffectCore/textures/slashes/Slash_Heavy.psd
+- Assets/ThirdParty/EffectCore/textures/slashes/Stab.psd
+- Assets/ThirdParty/EffectCore/textures/slashes/SlashSmall.psd
+- Assets/ThirdParty/EffectCore/textures/slashes/Slash_Small_Glow.psd
+- Assets/ThirdParty/EffectCore/textures/slashes/Slash_Medium_Glow.psd
+Dependencies: []

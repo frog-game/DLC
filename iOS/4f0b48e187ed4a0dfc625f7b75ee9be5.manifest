@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1492361386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a03132f437265d871e8faf42b11a587
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Fx/Eff_AddRed.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Fx/Eff_Wind00.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Fx/Eff_LightRay00.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Fx/Circle01.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Fx/Eff_WindDust00.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Fx/Fx_SquareRing00.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Fx/BloodParticleMaterial.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Fx/Eff_AddRed 1.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Fx/Eff_Glow00.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Fx/Eff_GroundDust00.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Fx/Demo_StreamaBubble00.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Fx/Fx_Tail.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Fx/Eff_Ttumbleweed.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Fx/Shadow.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/63e1d7d31b0571ea41f60fec5d16783c
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c76343556799eb2b99767f2428a47de8

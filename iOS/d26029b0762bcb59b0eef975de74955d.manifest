@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 682315405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 569a4f91eca877b01ab12317125ee76d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 339ca421c060fd961f80ad51625c4c18
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Fern_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Bush_03A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Grass_Patch_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Reed_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Vine_01C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Fern_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Grass_Patch_02C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Bush_02B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Bush_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Fern_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Bush_03D.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Grass_Patch_01C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Fern_02B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Bush_03B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Grass_Patch_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Nettle_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Bush_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Flower_Patch_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Reed_03A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Vine_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Bush_Stub_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Plant_02B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Flower_Patch_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Plant_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Flower_Patch_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Grass_Patch_02B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Bush_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Reed_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Flower_Patch_01E.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Plant_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Bush_03C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Vine_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Grass_Patch_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Flower_Patch_01D.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Plant_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Flower_Patch_01C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Grass_Patch_02D.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Plants/TFF_Nettle_02A.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5f142df1cab711ba9704a59ccdc48159
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/69e3dc1d3a9b4e9099bba0058bd863e1

@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 4153763174
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1fd682b4ad546f39281d460ea39a44f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09bf6b1e2275a36e09cbee4901d3d807
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/AmplifyShaderEditor/Examples/URP/Coverage/SRP Universal Coverage.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/47e873c3f10fcaa55008746103abfb95
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5e38f61f6a23412cfde0cef08c18bbe1

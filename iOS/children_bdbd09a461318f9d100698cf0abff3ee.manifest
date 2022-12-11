@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1870496855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9368c1245976a81d2f4dee91ecbf62b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aae7e2eb4c3a515f23a0fae76d762f8f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UIImage/Logo.png
+- Assets/Resources/Font/Black Crayon.ttf
+- Assets/UIImage/Common/paperbg.png
+- "Assets/UIImage/01\u63D0\u793A\u548C\u66F4\u65B0/UpdateAnimation/1.PNG"
+- Assets/UIImage/NewImage/Common/UnderLine.PNG
+Dependencies: []

@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1933541254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 977759f58265c9aa037e4017430f275a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b4a3de64a8bf094b349e39f55f3a77ad
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Scenes/Display_Mesa103Stream.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0f2aa2cd56fbe3fbf7d78fd6d1401ba9
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/97a9077f09b4c0ecdee06123280ac5d3

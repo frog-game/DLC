@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3310709055
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ea2a61e8c671f9acc9fa5a7ecabb96a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/LowPolyPreview/Materials/Mountains.mat
+- Assets/ThirdParty/GeometryFXParticles/LowPolyPreview/Materials/Trees.mat
+- Assets/ThirdParty/GeometryFXParticles/LowPolyPreview/Materials/Ground.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1e637cbf7357b58697aba552f8d6da58

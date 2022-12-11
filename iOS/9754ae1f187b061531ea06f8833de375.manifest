@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 1846191158
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed8d66bdec2002d623bb30fd94716805
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe114f4862a5d0b1d4e704f7a72e1847
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6eb1402c17e84a9282a7f0f62eb584f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77f586f285b3847808d79083bd19ef1f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78396926cbbfc4ac3b48fc5fc34a87d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9679e68a0f1144e79c664d9a11ca121, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8503d71a898994d3288ce1708e2707fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 373b52eb9bf8c40f785bb6947a1aee66, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f903c2eb621d8418d88f8dad81b13dc6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6bee0a6fa1f5d4f4db481219040523c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 687e3bc0934ac46d3957e59872965f3c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c89de3babe23e46669cbf998c0200cad, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Example3_Recast_Navmesh1/RecastExample.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/25a69cb68e7031a6a8c71d963cea384d
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/524007d2a893db670920cdc6faed74de
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/7e0b716db1f196ec10d42313152ab182
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/aaab1a86cb5ddd470c5cb0878dac88d5
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d16e0d1fded49de0d19f5c2492a18334

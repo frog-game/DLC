@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1790582338
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51b87236febaa6d8d4358a643ff6fce2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82191c74a5e8e8f938aa2b5f5a77dba0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4549b3c71d08ce54ca9cd8e13c182991, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Generator/Generator.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/149b82617c02db8e3d69da042fb80b9c
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/266d379230ccff1ac13e68c5e815b449
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5718961f0797f642592d2f3278a0c97b
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/945271b39900f56fd21ff86c01fa667f

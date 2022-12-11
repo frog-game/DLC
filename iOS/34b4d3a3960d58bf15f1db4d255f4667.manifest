@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1100031342
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec64b80f40521623214db7deccdc24d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b1d502ac223343c95094425f377451e
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Textures/T_SNB_Skybox_01.tga
+Dependencies: []

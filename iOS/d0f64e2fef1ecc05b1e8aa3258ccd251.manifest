@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 917995634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97596dcd9e7e8439c61967758dee7f13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: baad88c9701a5db6e7db4f1dcdc1daa2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/UnityChan/SD_EL-Birds/Yuji/Models/Yuji.FBX
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/50649ee294a9ff5fa0c6c0f7c12035dc

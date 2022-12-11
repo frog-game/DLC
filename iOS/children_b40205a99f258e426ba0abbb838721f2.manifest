@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1100326923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52b45643e8b5ff8a43341bb5a21b5176
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d71108018c99379c6f4fff6bb1f0166
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Flecks_Fluid_Soft.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Dust.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Flecks_Fluid.png
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Flare_FatDot_Alpha.mat
+- Assets/ThirdParty/PolygonParticleFX/Prefabs/FX_Smoke_Trail_Small_01.prefab
+- Assets/ThirdParty/PolygonParticleFX/Models/SM_Flame_FX.fbx
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Ring_Twiirl.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Noise_SuperContrasted.tga
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/twirl_02.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Flare_FatDot.png
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/fa9bcdc02a38d9af13c88e4197d70e29

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1866290385
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21da47f6423cbbd411b2829786e07472
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2c702f41f5112861f608266eed6dd181
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a3bdb2cd68f901469e7cc149151eb49, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Demo/PostProcessing/PostProcessProfiles/SNB_PostProcess_08.asset
+- Assets/StylizedNatureBundle/Demo/PostProcessing/PostProcessProfiles/SNB_PostProcess_10.asset
+- Assets/StylizedNatureBundle/Demo/PostProcessing/PostProcessProfiles/SNB_PostProcess_04.asset
+- Assets/StylizedNatureBundle/Demo/PostProcessing/PostProcessProfiles/SNB_PostProcess_03.asset
+- Assets/StylizedNatureBundle/Demo/PostProcessing/PostProcessProfiles/SNB_PostProcess_01.asset
+- Assets/StylizedNatureBundle/Demo/PostProcessing/PostProcessProfiles/SNB_PostProcess_06.asset
+- Assets/StylizedNatureBundle/Demo/PostProcessing/PostProcessProfiles/SNB_PostProcess_05.asset
+- Assets/StylizedNatureBundle/Demo/PostProcessing/PostProcessProfiles/SNB_PostProcess_11.asset
+- Assets/StylizedNatureBundle/Demo/PostProcessing/PostProcessProfiles/SNB_PostProcess_09.asset
+- Assets/StylizedNatureBundle/Demo/PostProcessing/PostProcessProfiles/SNB_PostProcess_07.asset
+- Assets/StylizedNatureBundle/Demo/PostProcessing/PostProcessProfiles/SNB_PostProcess_02.asset
+Dependencies: []

@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 2397133258
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e73acc1953b50ef7dac943a2c14aa2c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3c50373209ad1b2ce9115855a84908f6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a895231490da6545890b1e1794f8704, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7f59e54f2bfd184b9dd451a678d089b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14fe9984834882c43b827e4197192a74, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 180ecf9b41d478f468eb3e9083753217, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8e1967ef7b7604408c423b24c8c107d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6437ea5fd3459a4428d0c7ef53fa5fb0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Battle/Hit/AirdropHit Raw Signal.asset
+- Assets/Res/Battle/Hit/MediumHit.prefab
+- Assets/Res/Battle/Hit/HeavyHit_Me.prefab
+- Assets/Res/Battle/Hit/HeavyHit_Me Raw Signal.asset
+- Assets/Res/Battle/Hit/AirdropHit.prefab
+- Assets/Res/Battle/Hit/HeavyHit.prefab
+- Assets/Res/Battle/Hit/WeakHit.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/26a1f50406013a0144573c13198ee925
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/805e97b7bdc650fec45016fede299282
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b93eff392255315f7ee3996964a73b7c
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/bcca5f16738e13babcb4eca0bfdca299
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/children_d75ced4b1c4947e3964075f3c9ce954d

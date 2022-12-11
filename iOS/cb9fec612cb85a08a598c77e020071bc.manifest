@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 619457277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2eb9b5170d3feff8f3520e5fb62ca714
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767a59f8de390d2354823e760c737a44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Terrain_2.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Rock_6.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Bush_2.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Plant_6.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Mounting_1.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Tree_2.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Tree_1.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Plant_2.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Plant_4.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Log_1.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Plant_5.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Plant_3.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Environment_1.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Grass_2.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Log_3.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Mounting_3.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Log_2.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Tree_3.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Stone_1.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Bush_3.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Plant_7.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Rock_5.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Bush_1.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Mounting_2.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Rock_1.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Plant_1.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Rock_3.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Terrain_1.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Grass_1.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Rock_2.fbx
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Rock_4.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e02c8dc5dfbbd3c380d5f1fd8414760e

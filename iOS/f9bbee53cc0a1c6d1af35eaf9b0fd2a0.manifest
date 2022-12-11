@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3181828927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 972d8e052f7d651d7489a7b60d7f3e2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/ReadMe.txt
+- Assets/StylizedNatureBundle/ChangeLog.txt
+Dependencies: []

@@ -1,0 +1,100 @@
+ManifestFileVersion: 0
+CRC: 1116022542
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a53b24d715e48c6b3dbdc31b13496a6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 37cffc3caad8eaeea88d82aa1631f6b8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Log_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_01C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Branch_Fallen_03A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Trunk_03B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_04A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_03C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Fallen_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_05C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Branch_Fallen_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Branch_Fallen_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Log_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Aspen_Tree_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Trunk_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_04B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Trunk_04B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Aspen_Tree_01D.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Oak_Tree_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_03B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Broken_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Broken_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Aspen_Tree_03D.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Trunk_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Branch_Fallen_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Aspen_Tree_02C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Cone_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Birch_Tree_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Trunk_04A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Fallen_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_03A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Aspen_Tree_02D.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_02C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_04C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Log_03A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Aspen_Tree_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Aspen_Tree_02B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_05A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Trunk_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Oak_Tree_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_05B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Birch_Tree_02B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Log_02B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Aspen_Tree_01C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Oak_Tree_01C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Aspen_Tree_03A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Aspen_Tree_03C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Trunk_02B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Cone_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Birch_Tree_Dry_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Birch_Tree_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Birch_Tree_Dry_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Aspen_Tree_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Pine_Tree_02B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Birch_Tree_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Log_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Branch_Fallen_02B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Aspen_Tree_03B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Log_03B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Vegetation/Trees/TFF_Tree_Trunk_03A.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/3986ca974a51bcc12e5ed184f38ca9d1
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5f142df1cab711ba9704a59ccdc48159
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/69e3dc1d3a9b4e9099bba0058bd863e1

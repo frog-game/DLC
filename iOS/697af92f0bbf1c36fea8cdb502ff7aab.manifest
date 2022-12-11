@@ -1,0 +1,93 @@
+ManifestFileVersion: 0
+CRC: 2111649839
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b78e353ee5587a11344d52ab27e9d0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2a8d879857a10994790a2498f1b25776
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac9a0ff1109d2224ebf29308a70d8f60, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ffe249613c6d3d45bcfa646bfbab884, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7308cbb7cf58931428525a4167618bd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30701e2ffa585a741ba1278832540009, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/Player.prefab
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/WhiteSmooth.mat
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/NavyGrid.mat
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/skill6.bmp
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/Particles 1.prefab
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/skill5.bmp
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/skill3.bmp
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/SwatchNavyDarkAlbedo.png
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/Particles.prefab
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/Particles 3.prefab
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/item.png
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/Particles 2.prefab
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/NavyDarkGrid.mat
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/attack.png
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/skill4.bmp
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/GridEmissive.png
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/ground.png
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/sell.bmp
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/skill1.bmp
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/SwatchNavyAlbedo.png
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/NavySmooth.mat
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/New Material.mat
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/GroundExtents.mesh
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/cancel.bmp
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/GroundExtents.prefab
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/Enemy.prefab
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/promo14.png
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/upgrade.bmp
+- Assets/ThirdParty/SuperMobileController/Scenes/Scene Object/skill2.bmp
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/21253ba567382f9ebb0fa534064842fc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/50649ee294a9ff5fa0c6c0f7c12035dc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/8489cb114991f5f27f3bdcac4bf0de63
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d0f64e2fef1ecc05b1e8aa3258ccd251

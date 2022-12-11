@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2511092568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6f4b437aca133bc7ba2ed91d9b1e261
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Shader/BaloonPBR.mat
+- Assets/Resources/Shader/WoodCartoonPBR.mat
+- Assets/Resources/Shader/SpikePBR.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1a531562bd6a6ec5a2158f3a625eb1de
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/384ae640a71b8bc92a2207721b6a4600
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/457d2f43e0c30002e57a8f66c73c5772

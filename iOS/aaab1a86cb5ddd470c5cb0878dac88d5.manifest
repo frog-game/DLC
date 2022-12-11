@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1144522265
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1f390e4f41f3c6f9cf804d21bb4d3e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/mine_bot-01
+  - Default.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/mine_bot@awake-01
+  - Default.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/mine_bot@left-01
+  - Default.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/mine_bot-minebot.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/mine_bot@back-01
+  - Default.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/Minebot.tif
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/Minebot_NRM.tif
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/mine_bot@forward-01
+  - Default.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/mine_bot@right-01
+  - Default.mat
+Dependencies: []

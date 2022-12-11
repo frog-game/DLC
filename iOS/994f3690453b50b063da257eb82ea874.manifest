@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3260228876
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83836c583bd7c16b4f517d8c4fcc211f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08e5839e4db477429ed20d28d657089e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Prefab/Trail/FX_Trail_Exhaust_01.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/fa9bcdc02a38d9af13c88e4197d70e29

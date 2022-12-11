@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2669276414
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1f3af3f85d10faabb926a05f3aa0701
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 01.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 03.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 02.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 04.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 05.png
+Dependencies: []

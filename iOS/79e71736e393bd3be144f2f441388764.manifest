@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3276130633
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: acc73dfa8c9c8a7091e938b6e2d64e17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StompyRobot/SRDebugger/Animations/UI/Pin/Pin.controller
+- Assets/StompyRobot/SRDebugger/Animations/UI/Pin/Result.controller
+- Assets/StompyRobot/SRDebugger/Animations/UI/Pin/Invalid.anim
+Dependencies: []

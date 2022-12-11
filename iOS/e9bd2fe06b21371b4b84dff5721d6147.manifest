@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3223010605
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d56038cfa5ae17d58ad81d4812afa65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2c702f41f5112861f608266eed6dd181
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a3bdb2cd68f901469e7cc149151eb49, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Demo/PostProcessing/Utilities/CustomMotionTexture/CustomMotionVectorDebugProfile.asset
+Dependencies: []

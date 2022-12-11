@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3886132109
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ce9ad6caafab6ab35d7786bfa95d900
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f14bfd97e8b0a14e18fcd694c327dbe
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 117
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Scenes/LobbyScene/Clouds/Materials/CloudCube.mat
+- Assets/Res/Scenes/LobbyScene/Clouds/Materials/Cloud4.mat
+- Assets/Res/Scenes/LobbyScene/Clouds/Materials/Cloud3.mat
+- Assets/Res/Scenes/LobbyScene/Clouds/Materials/Cloud2.mat
+- Assets/Res/Scenes/LobbyScene/Clouds/Materials/Cloud6.mat
+- Assets/Res/Scenes/LobbyScene/Clouds/Materials/Cloud7.mat
+- Assets/Res/Scenes/LobbyScene/Clouds/Materials/Cloud.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/ae45fb289a4c6b64b9e7bf80da6ea343

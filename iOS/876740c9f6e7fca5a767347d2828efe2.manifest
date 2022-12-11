@@ -1,0 +1,107 @@
+ManifestFileVersion: 0
+CRC: 1572587071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da99011571fe79a29df26c43fc94915f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_nodeArrow.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/blackSquareAlpha25.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignBR.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderCurvedAlpha.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/whiteDot_whiteBorderAlpha.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderCurved02_darkBorders.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/blueSquare.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_distributeHAlignT.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_cog.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/blackSquare.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignR.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/whiteDot_darkBorder.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/whiteSquare_fadeOut_bt.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/whiteSquareAlpha80.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_play.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignVC.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_skull_border.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alert.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_foldout_open.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareCornersEmpty02.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_visibility.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderEmpty.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_end.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_ui.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_distributeVAlignL.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderCurvedEmpty02.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/circle.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_visibility_off.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderAlpha15.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignCR.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignTC.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignBL.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderCurved_darkBordersAlpha.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_demigiant.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignCL.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/orangeSquare.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/tileBars_slanted_alpha.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/whiteSquare.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/blackSquareAlpha80.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderEmpty03.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_star_border.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_camera.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_heart_border.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderThickEmpty.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_play_border.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignBC.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/whiteSquareAlpha25.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/whiteSquareAlpha15.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/whiteSquareAlpha50.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_delete.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignHC.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/tileBars_empty.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/yellowSquare.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/blackSquareAlpha50.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/tileBars_slanted.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorder.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_star.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderThickerEmpty.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_foldout_closed.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_ok.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_comment_border.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderCurved02.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/grid_dark.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/grid_bright.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignL.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_cog_border.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignCC.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignTL.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/greenSquare.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/blackSquareAlpha15.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/transparentSquare.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderCurvedEmptyThick.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/redSquare.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/whiteSquareAlpha10.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderEmpty01.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_skull.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_camera_border.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderCurved_darkBorders.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_ui_border.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderEmpty02.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/blackSquareAlpha10.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderCurved.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareBorderCurvedEmpty.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/whiteDot.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_comment.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignTR.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignB.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/squareCorners03.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/purpleSquare.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_alignT.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/ico_heart.png
+Dependencies: []

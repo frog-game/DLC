@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3446309890
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5cdc86edacd98ef7f49ee4ba7b8dbc49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 15cb7cbdbf941af908e124c39c1b3a4c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Demo/PostProcessing/Utilities/CustomMotionTexture/Models/WheelMovecs.FBX
+Dependencies: []

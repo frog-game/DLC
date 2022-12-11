@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 2576334020
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72d3da0931b383fd78633771d30777d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9d6560af2f62debd1744025f362d85ac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba570e716f0e53b4b8211072f2ef2de2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30bb660e7ba8a3e42997394190f69f52, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/MatchMakingPanel/reading2.anim
+- Assets/Res/UI/MatchMakingPanel/MatchMakingItem.prefab
+- Assets/Res/UI/MatchMakingPanel/MatchMakingPanel.prefab
+- Assets/Res/UI/MatchMakingPanel/Head_Ring.png
+- "Assets/Res/UI/MatchMakingPanel/\u7279\u65482.controller"
+- Assets/Res/UI/MatchMakingPanel/Head_Bg.png
+- "Assets/Res/UI/MatchMakingPanel/\u7B49\u5F85\u7279\u6548.controller"
+- Assets/Res/UI/MatchMakingPanel/readingeye.anim
+- Assets/Res/UI/MatchMakingPanel/reading.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/82aa2589b59f9938bd29ab117ba6b07f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b37cb610a8362aae4dc9a4bf0baec280
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b765cf24a89ca09c5df7957ce61f4a2e
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/children_1eefcab9b0d22f2b6878726bc7808d87

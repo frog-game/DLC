@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2774461341
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd81d2962bf288a228a641dd1a33cffa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Materials/Grids/Grid.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/3c78f2767480ba83b8b87aba3ad0c3c6

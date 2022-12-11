@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 800314014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa90f7de9a4115855d01de70f4cdd347
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae2cf77de671e115b4e55d2b65767202
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Nokdef_VFXPack/Models/RibbonUpwardsTwirly.fbx
+- Assets/ThirdParty/Nokdef_VFXPack/Models/HalfCircle_Soulercoaster.fbx
+- Assets/ThirdParty/Nokdef_VFXPack/Models/Cylinder_Oval.fbx
+- Assets/ThirdParty/Nokdef_VFXPack/Models/Soulercoaster_Circular.fbx
+- Assets/ThirdParty/Nokdef_VFXPack/Models/InverseCone_1.fbx
+- Assets/ThirdParty/Nokdef_VFXPack/Models/ConeTapered.fbx
+- Assets/ThirdParty/Nokdef_VFXPack/Models/RingWind_Angled.fbx
+- Assets/ThirdParty/Nokdef_VFXPack/Models/WindCone_Tri.fbx
+- Assets/ThirdParty/Nokdef_VFXPack/Models/Whirl1.fbx
+- Assets/ThirdParty/Nokdef_VFXPack/Models/Whirl3.fbx
+- Assets/ThirdParty/Nokdef_VFXPack/Models/Whirl2.fbx
+- Assets/ThirdParty/Nokdef_VFXPack/Models/Whirl4.fbx
+- Assets/ThirdParty/Nokdef_VFXPack/Models/UVSphere_DenseFlipped.fbx
+- Assets/ThirdParty/Nokdef_VFXPack/Models/Cylinder_TaperedBottomsUpFlipped.fbx
+Dependencies: []

@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3239915918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dcfb2e117961a051080f90554b89952
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6a2c48a46f21486cead68984038d8491
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Anim/Bg_Flag00RAni.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Anim/Bg_Flag00GAni.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Anim/Bg_Flag00WAni.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Anim/Bg_Flag00Ani.controller
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Anim/Bg_Flag00PirateAni.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Anim/Bg_Flag00Ani_Flutter.anim
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Anim/Bg_Flag00BAni.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0f2aa2cd56fbe3fbf7d78fd6d1401ba9
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c840d5004ac47bcebbdd43dde80286c8

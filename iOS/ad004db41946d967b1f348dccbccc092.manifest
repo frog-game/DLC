@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3157192773
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96098fee07b6fb353161e7262cfec835
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Audio/Battle/IceStun1.wav
+- Assets/Res/Audio/Battle/Charge.wav
+- Assets/Res/Audio/Battle/Charge1.mp3
+- Assets/Res/Audio/Battle/Charge3.wav
+- Assets/Res/Audio/Battle/SlowPool.wav
+- Assets/Res/Audio/Battle/FireTrail.wav
+- Assets/Res/Audio/Battle/ReleasePop.wav
+- Assets/Res/Audio/Battle/Charge2.mp3
+- Assets/Res/Audio/Battle/Release1.wav
+- Assets/Res/Audio/Battle/Charge.mp3
+- Assets/Res/Audio/Battle/IceGround.wav
+- Assets/Res/Audio/Battle/IceStun.wav
+- Assets/Res/Audio/Battle/Bump.wav
+- Assets/Res/Audio/Battle/BoomExplode.wav
+- Assets/Res/Audio/Battle/Release.wav
+- Assets/Res/Audio/Battle/Dart.wav
+- Assets/Res/Audio/Battle/Tornado.wav
+- Assets/Res/Audio/Battle/AirdropHit.wav
+- Assets/Res/Audio/Battle/BoomRise.wav
+- Assets/Res/Audio/Battle/GrassImpact.wav
+- Assets/Res/Audio/Battle/Burn.wav
+Dependencies: []

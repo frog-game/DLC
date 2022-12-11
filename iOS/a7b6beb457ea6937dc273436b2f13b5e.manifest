@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3556207223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: caa01bbc3f196475a6b4765a171252be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Crescent_Halftone.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Flecks_Fluid_Soft.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Trail1.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Nokdef_Additive Uber Shader.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/HealingBeam.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/AnimeSmoke2.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/AnimeSlash.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Smoke_HarshBlack_Alpha.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Spark1_Additive.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Tral3.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Smoke_Twirly_Dissolve.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/GroundCracks_Spiky.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/HealingCross.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/ConstelationsStars.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Flare_FatDot_Alpha_Soft.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Flare_FatDot_Alpha.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/ImpactLightrays_BlurryAlpha_Soft.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Flare_Glint.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/FuzzballAdditive_Soft.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Shockwave_Liquid.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/ImpactLightrays_Blurry.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Smoke_Harsh_Alpha_Soft.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Smoke_Harsh_Add.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Flare_SoftCross.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Flare_SoftStarburstImpact.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/ExplosionDecal_1.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Circle_Generic_Alpha.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/LightFlash_Soft.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Bokeh_RGB_Strong.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Flecks_Clipped_Alpha.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Flare_GlowdotPickbook.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/ImpactLightrays.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Hit_Spikes.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Ring_Twiirl.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Flare_FatDot_Additive.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Smoke_ImpactPuff_Soft.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Flecks_Alpha.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Circle_Generic.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shared/Trai2.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d1f38b887103152ffddb41c266ae3831

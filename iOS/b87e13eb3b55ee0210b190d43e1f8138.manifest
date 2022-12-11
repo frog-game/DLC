@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 79667145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a28409c1f06ac9212602ccba863b5ca5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Particles/Materials/TFF_Fireflies_01A.mat
+- Assets/Toon Fantasy Nature/Particles/Materials/TFF_Sun_Shaft_01A.mat
+- Assets/Toon Fantasy Nature/Particles/Materials/TFF_Smoke_01A.mat
+- Assets/Toon Fantasy Nature/Particles/Materials/TFF_Toon_Fire.mat
+- Assets/Toon Fantasy Nature/Particles/Materials/TFF_Ember_01A.mat
+- Assets/Toon Fantasy Nature/Particles/Materials/TFF_Fog_01A.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c63e8e622b56a068a05b18385aba2f0c
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/ef83513eecb332a99419b8a3c6ef33b8

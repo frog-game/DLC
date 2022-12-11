@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3643048845
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fc9d96d6362a779870085b013776857
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Bg/Water01.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Bg/DemoCloud.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Bg/DemoSkyDesert00.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Bg/Potal.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Bg/Water00.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Bg/Ground.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Bg/DemoGround.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Bg/LavaRed.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Bg/Bg_Palette256E.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Bg/Stream00.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Bg/DummyWhite.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Bg/Stream01.mat
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Materials/Bg/Bg_Palette256.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c76343556799eb2b99767f2428a47de8

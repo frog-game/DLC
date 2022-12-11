@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 474605875
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a04d80c1d452e9a92dbe3d923fd53f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8309ef977a36ccecc5a5cb3694d99cf8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52480f6baf9b7b0428c75481cb3d5a6d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedWater2/Prefabs/StylizedWater_Mobile.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/2e7c96cd73084382d1e414fb8d7b3ed8
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e2c9c6ccb0b9c48fb7368d52755b4795

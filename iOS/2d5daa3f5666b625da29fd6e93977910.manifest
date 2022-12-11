@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1796180307
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d35cb4790a5844e081cdda988171669a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/textures/smoke/smoke.psd
+Dependencies: []

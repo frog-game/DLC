@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2036419079
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ccce19667d63cb19c5b1da6ad2c3b0a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UIImage/NewImage/Common/checkbox.PNG
+- Assets/UIImage/NewImage/Common/IMG-0727.PNG
+- Assets/UIImage/NewImage/Common/IMG-0728.PNG
+- Assets/UIImage/NewImage/Common/check.PNG
+- Assets/UIImage/NewImage/Common/UnderLine.PNG
+- Assets/UIImage/NewImage/Common/IMG-0726.PNG
+Dependencies: []

@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 3841506155
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 769ddbd08d36cde59dd8820b0a67c251
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66f946aea8d7445bd523659595b2e08d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_33.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_30.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_13.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_26.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_49.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_8.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_25.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_29.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_28.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_20.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_38.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_23.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_34.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_22.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_21.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_43.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_36.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_24.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_9.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_45.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_44.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_50.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_12.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_17.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_5.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_46.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_39.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_42.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_4.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_47.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_35.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_53.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_18.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_40.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_2.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_11.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_19.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_37.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_51.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_3.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_31.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_7.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_6.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_10.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_14.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_15.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_41.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_27.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_16.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_54.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_48.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_52.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Lines&Dots/Lines&DotsPrefab_32.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/79f3a8bacb07fa21f11c3b1182970fc8

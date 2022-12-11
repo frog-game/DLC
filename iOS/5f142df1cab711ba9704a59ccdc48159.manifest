@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1122369031
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1fdf13e24dc4d3a03bcd84123dcccf0c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Grass_Patch_01A.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Grass_Patch_02D.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Water_01B.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Grass_Patch_02C.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Grass_Patch_02B.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Grass_Patch_01C.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Flower_Patch_01A.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Atlas_Vegetation_1A_D.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Atlas_1A_D.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Atlas_Billboards_1A_D.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Flower_Patch_02A.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Flower_Patch_01E.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Atlas_Lights_1A_D.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Grass_Patch_02A.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Flower_Patch_01B.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Flower_Patch_01C.mat
+- Assets/Toon Fantasy Nature/Models/Materials/Glass_Windows_01A_D.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Flower_Patch_01D.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Water_01A.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Grass_Patch_01B.mat
+- Assets/Toon Fantasy Nature/Models/Materials/TFF_Terrain_1A_D.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/ef83513eecb332a99419b8a3c6ef33b8

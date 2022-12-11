@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 3750559804
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87c9b61ebedeee5007ffe80fb0719ac5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c2c456e555b32773aed5d603f52a13b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8fdf5921ba9788546a0a1fb47a5f6f44, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98d4c34528a8bb94faa607758323371d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52480f6baf9b7b0428c75481cb3d5a6d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/URPIsland_Art.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/073d56aae59791c1725fb5db24b99c21
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/16fe352a3ebd27373c5ee06fc97cc0f8
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/27773923ec24a8f185baedeb9f78d810
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/457d2f43e0c30002e57a8f66c73c5772
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/621f15362cb849ad58eebfb4c4c40418
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/6c8caf4cad282212769552ba4aa4e6e8
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/9bed6a70e89b94278037f5eca6bba4c5
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/aeb11896d165311798fd32d1d1864898
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b25e6e06bbd2d5ecae1a9ef53c2b7d65
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b2b68ea464092dbcff2270b42dc8bd81
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b87fc7bf10c63940030ab1d0ffa8a7ec
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/cfb5fc12c9ac6f7684e37785c4b4eadb
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d9967ab87eeff85b419cfe5d4cd0ed83
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f76798ea0001f30e7c83d7a4ce5d2c35
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/ff2d5d71363d5e0a8091aae8e9418eb8

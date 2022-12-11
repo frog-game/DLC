@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3068691974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc0046ff9d3540535f68b9410111f5e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/README.txt
+Dependencies: []

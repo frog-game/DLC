@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 316208238
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3dc359aa683233c8916eabda304cbf6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Example3_Recast_Navmesh1/RecastExample/LightmapFar-0.exr
+Dependencies: []

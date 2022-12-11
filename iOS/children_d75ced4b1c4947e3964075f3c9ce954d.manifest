@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1297457476
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21c5f3da7b67b8394568ac479612f4bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/materials/generic/fullcircle_faded_ztestAlways_additive.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b40f8f2b553612656b94871f760aedb9

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 894358238
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a736299a5a008513017f7d0302db14d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Demo/PostProcessing/Utilities/CustomMotionTexture/Materials/UVChecker.mat
+- Assets/StylizedNatureBundle/Demo/PostProcessing/Utilities/CustomMotionTexture/Materials/WheelMotionVectors.mat
+- Assets/StylizedNatureBundle/Demo/PostProcessing/Utilities/CustomMotionTexture/Materials/DebugMotionVectors.mat
+- Assets/StylizedNatureBundle/Demo/PostProcessing/Utilities/CustomMotionTexture/Materials/DebugQuad.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f72ccd3f69af4e2f9f85bbad406bbd45

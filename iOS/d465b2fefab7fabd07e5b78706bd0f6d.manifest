@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2445211936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5eb746ee0b7bd6762bec95c6097eb50f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Prefabs_props/Materials/Group20489Mat.mat
+Dependencies: []

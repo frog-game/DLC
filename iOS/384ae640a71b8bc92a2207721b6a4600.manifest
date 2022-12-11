@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1058090468
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8f8426c399d42208a8a194f80bf781e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Lantern_glow.tif
+- Assets/MOBA and Tower Defense/Prefabs_props/Textures/Wall_wood.tif
+Dependencies: []

@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1636583512
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 977a5170e2abd45d5427020d1964af3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 80c9f5d66906516842541c2dba462d94
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b4818703e8c1d545bfe896c8a77d66d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6fa2d92fc1b3f34da284357edf89c3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 075404d575bd4d34999bfb08c7a2a6e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adcc4e78784a51d448882bb13488d165, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/New Signal.signal
+- Assets/island.prefab
+- Assets/Rules.asset
+- Assets/link.xml
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/149b82617c02db8e3d69da042fb80b9c
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/25a69cb68e7031a6a8c71d963cea384d
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/ad937189be13abfc4c56b5b87b03f855

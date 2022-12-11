@@ -1,0 +1,238 @@
+ManifestFileVersion: 0
+CRC: 267772978
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 046efe53187db66f86c11e615d8d8665
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3848559ac89b509bb0afac3baac6db36
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Prefabs_props/Bush_09.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Mushroom2A.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Block3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_13.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Bush_08.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_17B.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Stair_el2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Prop_Cargo2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Stair_el5.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Bush_07.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wall_wood_grup3x.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Small_03.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Pine_5.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tower_Base1_1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Crystal4.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_01.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Ivy4.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Small_01.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Stair_el7.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Ivy1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Mushroom2B.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Ground_Decal1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Prop_Chest3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Pine_2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Bush_03.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Mushroom1A.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Prop_shield.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Plant_03.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock Group 02.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Bones_05.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tent1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_14B.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Small_04.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Block2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Mushroom4B.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Prop_Barrel.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Floor3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Bush_02.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wagon_wagon.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_11.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rune_03.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_17A.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Prop_Chest1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Prop_Chest2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Bones_04.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Ivy2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wagon_pickaxe.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_09.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_07.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wall_Stone_el1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Lumber.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Column3B.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Mushroom3A.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Plant_05.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Ground_Decal_Leaves2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Crystal5.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_04.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Stair_el3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Ivy5.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Small_02.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Ground_Decal_Leaves1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Floor5.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Barrier2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Jar1B.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wagon_Tracks1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Campfire.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Bush_05.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rune_04.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Brickwall_debris2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_10.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Plant_02.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Column3A.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Ivy3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_06.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Fall4.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wagon_gate1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Column3C.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Bush_06.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tower_Base2_3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Prop_Cargo3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Barricade1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_05.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Fall1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Fence2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_12.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Bush_thorned1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Bush_04.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Stair_el1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Pine_3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Barrier4.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_03.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock Group 01.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wall_wood_grup2x.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Fence3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Pine_1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wall_wood_el3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Floor2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Dead3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Stone_wall1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Prop_Sword.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Plant_06.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wall_sf_grup2x.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_09.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rune_05.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_small_05.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_16.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_08.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_07.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Fence_elements1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Brickwall1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_03.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Floor4.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_01.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wall_stone_grup3x.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wall_Stone_el2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_15.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Dead2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_08.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Fall3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Block4.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Bones_02.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Brickwall2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Fall2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Trunk_02.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Bones_01.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wall_wood_el2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Crystal2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_14A.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wagon_beam1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Plant_07.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Lantern1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Ground_Decal2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Jar2B.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_17C.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Block1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wall_sf_el1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Trunk_03.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wall_wood_el1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tent1_trunk.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Crystal3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Plant_01.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Fence1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Bones_03.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Fall5.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tower_Base2_1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Stone_wall1_pillar.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rune_06.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Mushroom1B.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Floor6.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Jar1A.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_06.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Brickwall4.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Mushroom3B.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Jar2A.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wall_sf_el2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rune_02.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Ground_Decal_grass1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Stair_el8.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Column2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Brickwall3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rune_01.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wagon_tracks2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Fence_elements2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Dead1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_05.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wall_stone_grup2x.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tower_Base1_2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Crystal1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Banner.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Stair_el4.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_Pine_4.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Floor1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Ground_Decal3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_14C.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Barrier3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Plant_04.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tree_02.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Barrier1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Wall_sf_grup3x.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Prop_Cargo1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tower_Base1_3.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Fern1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Trunk_01.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Tower_Base2_2.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/scale.OBJ
+- Assets/MOBA and Tower Defense/Prefabs_props/Mushroom4A.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_02.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Bush_01.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Rock_04.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Stair_el6.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Brickwall_debris1.prefab
+- Assets/MOBA and Tower Defense/Prefabs_props/Column1.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/205086cc58b7e0206a5e81f24a7e8d1a
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/afa3855e12feba1b7eb27988d1acf687
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c58fc2637207578e5fcbb085861a8e60
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d465b2fefab7fabd07e5b78706bd0f6d

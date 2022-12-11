@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 751569198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbfec38558d976e9c7fc1bc01373a6ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d360f8b78de89023b2b237a8c0ce6b9d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Font/FZY4K SDF.asset
+- Assets/Resources/Font/Black Crayon.ttf
+- Assets/Resources/Font/Black Crayon SDF.asset
+- "Assets/Resources/Font/\u4F18\u8BBE\u6807\u9898\u5706.otf"
+- "Assets/Resources/Font/Leefont\u8499\u9ED1\u4F53.ttf"
+- Assets/Resources/Font/License - READ THIS.txt
+- Assets/Resources/Font/FZY4K SDF - NoOverlay.asset
+- Assets/Resources/Font/FZY4K.TTF
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890

@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2517667134
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7fc6791ba92c50fd4a10e1898030ba2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08e5839e4db477429ed20d28d657089e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Green/FieldEnergySymbol_Green.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Green/FieldEnergyTrianglePolyShape_Green.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Green/FieldEnergyBooleanCircles_Green.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Green/FieldEnergyCirclesLines_Green.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Green/FieldEnergyPolyCircle_Green.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Green/FieldEnergyTrianglePolySymbol_Green.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Green/FieldEnergySquareSymbol_Green.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Green/FieldEnergyCubeSymbol_Green.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Green/FieldEnergyIrreguralTriangle_Green.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Green/FieldEnergyLoopCircles_Green.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Green/FieldEnergyBrokenCircle_Green.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Green/FieldEnergyPolySymbolStretcht_Green.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Green/FieldEnergyPolySymbol_Green.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/EnergyFields/Green/FieldEnergyCirclesBoost_Green.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/07c6d29c8718cd153c7ddb2704affb4a
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c67b8ef4f96d477b53a57a438a532c4f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d138d9ce3756c0b23312d4977fd47e72
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d62581754429714db0fe50263dc1b9d4
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f9c6189094cc18421b1c012470dba086

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1972195025
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57039f4aee1a44a071fd129614c5b09a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08e5839e4db477429ed20d28d657089e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/Nature/Smoke/TriangleSmokeDesert.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d62581754429714db0fe50263dc1b9d4

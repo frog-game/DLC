@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 139591523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18a93ad42853ae332920eb24d8c6399f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_31.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_12.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_29.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_6.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_17.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_5.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_15.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_13.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_21.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_19.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_28.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_20.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_14.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_25.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_2.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_9.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_27.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_18.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_3.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_7.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_8.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_24.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_16.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_26.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_11.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_1.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_4.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_10.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_22.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_30.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Symbols/SymbolSprite_23.png
+Dependencies: []

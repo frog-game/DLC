@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 2928525936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7324bb360515f927bdb561a6e9aa6b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad06958797749336e5782b9470fdf713
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Rock9.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Rock15.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/rock6.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Wall4.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/rock4.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Wall3.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Crystal4.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Crystal1.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Cliff10.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/wall01.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Stone01.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Rock16.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/cliff01.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/rock8.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Cliff09.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Cliff5.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/rock3.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/cliff04.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Stone05.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Stone07.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Rock11.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/cliff03.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Stone02.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Rock13.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Stone04.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Stone06.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/rock7.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Stone08.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Cliff8.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/cliff02.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Stone03.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/rock2.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Cliff6.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Cliff11.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/rock1.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/rock5.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Rock14.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Rock12.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Crystal2.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Cliff7.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Wall5.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Crystal3.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/wall02.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Rock10.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Rocks/Cliff12.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/4c9eb03703db079c45f31b6d4ba685fe
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/aa0cc71b48f7b3d9814e518fbbb2e06f

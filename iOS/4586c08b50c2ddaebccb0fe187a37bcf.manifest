@@ -1,0 +1,147 @@
+ManifestFileVersion: 0
+CRC: 2940245545
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b5a99a740abf5d5a54d031ad8bd8df0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767a59f8de390d2354823e760c737a44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Primitive Shapes/Models/Gear_10P_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/OvalMesh_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gem_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_4P_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_6P_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gear_4P_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/RoundCubeMesh_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/RoundCube_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/SphereMesh_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_4P_05.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/OvalMesh_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_4P_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_6P_05.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/TwistedTorus_06.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Cylinder_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_4P_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/DiamondBrilliant_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/FlatCircle_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gear_12P_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gem_06.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_5P_04.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/CylinderMesh_06.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/TwistedTorus_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/PyramidMesh_5P.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Torus_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_6P_06.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Pentagon_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gear_12P_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gear_8P_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Diamond_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/PyramidMesh_4P.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/OvalMesh_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Diamond_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/DiamondBrilliant_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Cylinder_06.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Pyramid_5P.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Icosphere_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Diamond_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Cube_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Square_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Hexagon_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/TwistedTorus_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Hexagon_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Pyramid_4P.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_5P_06.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_5P_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Sphere_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Oval_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_5P_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Joint_Tee.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gem_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/CubeMesh_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gear_10P_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/DiamondBrilliant_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Pentagon_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/SphereMesh_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Cone_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/TwistedTorus_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/RoundCube_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gear_6P_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Cylinder_04.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Cube_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gear_4P_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/CylinderMesh_05.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/CylinderMesh_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/FlatCircle_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/CubeMesh_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/CubeMesh_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/RoundCubeMesh_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Joint_Elbow.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Oval_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_5P_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gear_8P_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Oval_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_6P_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gear_2P_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_6P_04.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_4P_04.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gem_04.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gear_2P_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/PyramidMesh_3P.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_6P_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Torus_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/CylinderMesh_04.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Cylinder_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Sphere_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Cone_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Capsule_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_5P_05.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Cylinder_05.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Cylinder_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Star_4P_06.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gem_05.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gear_6P_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/RoundCube_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Joint_Cross.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/ConeMesh_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/ConeMesh_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/CylinderMesh_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/RoundCubeMesh_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Cone_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Joint_6P.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Gem_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Icosphere_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/CylinderMesh_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Sphere_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Pyramid_3P.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Cube_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/ConeMesh_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Capsule_03.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Icosphere_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Torus_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Joint_5P.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/TwistedTorus_04.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/SphereMesh_01.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Joint_Wye.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Capsule_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/FlatCircle_02.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/TwistedTorus_05.fbx
+- Assets/Environment Pack/Primitive Shapes/Models/Square_01.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/33a255fb4c58cada9cc4ed8209ff9645

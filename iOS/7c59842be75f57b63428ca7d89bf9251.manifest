@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2682122361
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 762537b541295b546bc5905c60d12cf9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/DOTween/Editor/Imgs/Footer.png
+- Assets/Editor/DOTween/Editor/Imgs/DOTweenIcon.png
+- Assets/Editor/DOTween/Editor/Imgs/Header.jpg
+- Assets/Editor/DOTween/Editor/Imgs/Footer_dark.png
+Dependencies: []

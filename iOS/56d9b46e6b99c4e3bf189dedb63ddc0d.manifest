@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3507932270
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8d93140f34732d5e23e5f269084c741
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Under Water/Materials/Mat_Underwater Specular.mat
+- Assets/Environment Pack/Under Water/Materials/Mat_Plane.mat
+- Assets/Environment Pack/Under Water/Materials/Mat_Underwater.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/38fed9c78a28a893b4a33702c2896933

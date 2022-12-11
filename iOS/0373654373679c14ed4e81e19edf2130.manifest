@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1170028644
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35720176254084cc7ef45a4555db4687
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/textures/sparks/glowSparksOffset.psd
+- Assets/ThirdParty/EffectCore/textures/sparks/flashLarge.psd
+Dependencies: []

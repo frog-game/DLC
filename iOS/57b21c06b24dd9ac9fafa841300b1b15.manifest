@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 888191805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2587fd0f90f0bf7007df365029f53f53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 937c345f65ba428a0aa4fdcf69516ea1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/Layers/SWS_Seaweed.terrainlayer
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/Layers/SWS_DemoRiverBed.terrainlayer
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/Layers/SWS_SandRough.terrainlayer
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/Layers/SWS_Grass.terrainlayer
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/Layers/SWS_SandWet.terrainlayer
+- Assets/StylizedWater2/_Demo/DemoAssets/Terrain/Layers/SWS_DemoRock.terrainlayer
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/454add8770aa21e11b50f0dbc41d2b1c

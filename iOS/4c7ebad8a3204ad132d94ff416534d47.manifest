@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 1155743434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e58bcdfe7f264dc08e4edece77a762f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e30de3bcc2259edde7d399a54cd6e13a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82c1d745b540f2141a3cf4a11a84ba2c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d03b54e5442a65f449ec9e596dc92c19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/ItemBag/ItemButton.prefab
+- Assets/Res/UI/ItemBag/ItemsListPanel.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/3f5a557ed5fa888e20b979850468e60f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b765cf24a89ca09c5df7957ce61f4a2e

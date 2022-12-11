@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1957844078
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e38ed9842b07fdec38c5f744ebf4d58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Wind/Wind_Blade_Blast.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Wind/SlashFlipbook_Windy.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Wind/Wind_Blade_Blast_AdditiveOverlay.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Wind/Wind_Blade_Pickbook.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d1f38b887103152ffddb41c266ae3831

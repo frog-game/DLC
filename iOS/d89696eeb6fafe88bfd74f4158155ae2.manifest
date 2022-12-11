@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 577018514
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89b23f70a0771242aafed05fc399e150
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 19b4c9eb706b7647f841f7b11aa2a311
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Nature Forest/Models/Stump_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Log_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_C_06.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_C_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Top_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_F_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Stump_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Btm_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Stump_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Top_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Stump_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Btm_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Fungus_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Root_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Fungus_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_C_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Fungus_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_F_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_A_05.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_A_06.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Top_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_A_04.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Stump_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Log_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Btm_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Root_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Log_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_F_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Root_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_C_05.fbx
+- Assets/Environment Pack/Nature Forest/Models/Stump_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Btm_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Btm_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_C_04.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_C_02.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/4d0591efbf87e7c8dc65d76ecb60212d

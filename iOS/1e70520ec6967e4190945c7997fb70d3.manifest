@@ -1,0 +1,202 @@
+ManifestFileVersion: 0
+CRC: 819043400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0717307bc05669f34db0f696931df73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 19b4c9eb706b7647f841f7b11aa2a311
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Candy Land/Prefabs/Biscuit_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Chocwhite_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_Icing_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_C_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/CookieNut_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Tree_Candy_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Biscuit_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_D_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Gummy_C_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Macaroon_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Pokka_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Chocwhite_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Gummy_B_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_B_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_Icing_05.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Gummy_B_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Loaf_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_Cream_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/CandyPlant_B_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_C_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Pudding_A_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Heartcandy_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candypowder_A_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_B_04.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_A.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_D_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_D_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Tree_Candy_04.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Marshmallow_B_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_A_06.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_B_06.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Pudding_A_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_A_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candybar_A_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mint_C_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_B_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/CandyPlant_B_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/CandyPlant_C_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Pudding_A_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Pretzel_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_C_05.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/SwissRoll_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Gummy_C_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mint_C_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Gummy_A_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/SwissRoll_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Truffle_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Swirly_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_C_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lolly_A_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Jellybean_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Toffee_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Pokka_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_Icing_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/CookieChoc_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Tree_Candy_05.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Tree_Candy_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Heartcandy_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_C_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_A_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Pudding_B_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Pokka_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/CandyPlant_A_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Pudding_B_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Toffee_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Loaf_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_A_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Toffee_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_Icing_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_A_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/CandyPlant_A_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Jellybean_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mint_B_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Tree_Marshmallow_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Truffle_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Chocmilk_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Pudding_B_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_Cream_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_B_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Tree_CottonCandy_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Waffle_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_B_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/CandyPlant_A_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_B.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Breadstick_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donutsprinkle_B_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Gummy_A_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_A_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candycane_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_C_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candybar_A_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Marshmallow_B_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_D_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Breadstick_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Gummy_A_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_A_05.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Tree_Marshmallow_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/CandyPlant_B_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Waffle_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Tree_CottonCandy_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Tree_Candy_06.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Heartcandy_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_A_04.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mintstar_04.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candypowder_A_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Gum_A_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Marshmallow_A_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_B_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lolly_B_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/CookieChoc_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_A_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/CookieNut_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mint_A_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_B_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_A_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_Icing_04.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mintstar_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Loaf_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_A_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_Cream_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Tree_Marshmallow_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Marshmallow_A_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Waffle_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_B_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Pretzel_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Tree_CottonCandy_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donutsprinkle_C_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Bread_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_B_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mintstar_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_C_06.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/CookieNut_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mint_C_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Gummy_B_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Chocmilk_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Marshmallow_B_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Chocwhite_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mintstar_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_B_05.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mint_A_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Macaroon_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/CookieChoc_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Chocmilk_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mintstar_05.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_C_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candypowder_A_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_B_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/SwissRoll_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/CandyPlant_C_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_A_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Biscuit_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Bread_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Swirly_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Swirly_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Marshmallow_A_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candybar_A_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_D_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mint_B_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mintstar_06.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Macaroon_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Tree_Candy_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mint_A_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Gummy_C_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Breadstick_03.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Lollipop_D_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Candy_C_04.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Pretzel_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donutsprinkle_A_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Jellybean_02.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Mint_B_01.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Donut_Icing_06.prefab
+- Assets/Environment Pack/Candy Land/Prefabs/Truffle_02.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a0c43d321201f811ca46d680295e31d4
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d470ca03d0cf1a26ac2533e827cf859f

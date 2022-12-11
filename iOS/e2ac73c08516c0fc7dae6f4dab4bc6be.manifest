@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2623109834
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37a659a51eed252762ed2bc7bba929a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ba98bb1e655fbfeb873a5d3608ca2195
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/AmplifyShaderEditor/Examples/URP/Terrain/URP Rock Layer.terrainlayer
+- Assets/Editor/AmplifyShaderEditor/Examples/URP/Terrain/SRP Universal Terrain.asset
+- Assets/Editor/AmplifyShaderEditor/Examples/URP/Terrain/SRP Universal Terrain First
+  Pass.mat
+- Assets/Editor/AmplifyShaderEditor/Examples/URP/Terrain/URP Snow Layer.terrainlayer
+- Assets/Editor/AmplifyShaderEditor/Examples/URP/Terrain/URP Rubber Layer.terrainlayer
+- Assets/Editor/AmplifyShaderEditor/Examples/URP/Terrain/URP Skin Layer.terrainlayer
+- Assets/Editor/AmplifyShaderEditor/Examples/URP/Terrain/URP Sand Layer.terrainlayer
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890

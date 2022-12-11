@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 61224510
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f1850a595aa2fed9d1bf25189cd0362
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/UnityChan/SD_EL-Birds/Yuji/Models/Materials/yuji_body.mat
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/UnityChan/SD_EL-Birds/Yuji/Models/Materials/yuji_hair2.mat
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/UnityChan/SD_EL-Birds/Yuji/Models/Materials/yuji_face.mat
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/UnityChan/SD_EL-Birds/Yuji/Models/Materials/yuji_hair.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/7f7e95f971019bc245aac4ef2c43c9e9

@@ -1,0 +1,199 @@
+ManifestFileVersion: 0
+CRC: 2139769684
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9daac0f6e47afe4f197ec932753f0c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 19b4c9eb706b7647f841f7b11aa2a311
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Candy Land/Models/Gummy_C_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_C_06.fbx
+- Assets/Environment Pack/Candy Land/Models/Biscuit_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_Icing_06.fbx
+- Assets/Environment Pack/Candy Land/Models/Mintstar_06.fbx
+- Assets/Environment Pack/Candy Land/Models/Marshmallow_B_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Mint_C_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_C_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Marshmallow_A_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Gummy_B_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Mint_C_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Mintstar_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Loaf_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Heartcandy_02.fbx
+- Assets/Environment Pack/Candy Land/Models/CandyPlant_B_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Mintstar_04.fbx
+- Assets/Environment Pack/Candy Land/Models/Tree_Marshmallow_02.fbx
+- Assets/Environment Pack/Candy Land/Models/CookieChoc_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_D_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Mint_A_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Pudding_A_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Bread_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Tree_Marshmallow_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Pretzel_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Tree_CottonCandy_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_Icing_04.fbx
+- Assets/Environment Pack/Candy Land/Models/Toffee_01.fbx
+- Assets/Environment Pack/Candy Land/Models/SwissRoll_02.fbx
+- Assets/Environment Pack/Candy Land/Models/CookieNut_02.fbx
+- Assets/Environment Pack/Candy Land/Models/CookieNut_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_Cream_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Swirly_02.fbx
+- Assets/Environment Pack/Candy Land/Models/CandyPlant_A_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_D_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Breadstick_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Marshmallow_B_03.fbx
+- Assets/Environment Pack/Candy Land/Models/CookieChoc_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Pudding_B_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Lolly_B_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Candybar_A_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Pretzel_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Chocmilk_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Mint_B_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_B_06.fbx
+- Assets/Environment Pack/Candy Land/Models/Tree_CottonCandy_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Macaroon_01.fbx
+- Assets/Environment Pack/Candy Land/Models/CandyPlant_B_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Bread_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_C_05.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_C_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Marshmallow_B_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Mintstar_05.fbx
+- Assets/Environment Pack/Candy Land/Models/Loaf_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_A_04.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_B_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Mint_B_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_A_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Tree_Candy_06.fbx
+- Assets/Environment Pack/Candy Land/Models/Mint_C_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_Icing_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Mint_B_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Jellybean_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Chocwhite_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Pretzel_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_A_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_C_04.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_A_05.fbx
+- Assets/Environment Pack/Candy Land/Models/Marshmallow_A_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Pokka_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Biscuit_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Candybar_A_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Candypowder_A_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_A_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Tree_Marshmallow_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_C_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Donutsprinkle_B_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Tree_Candy_04.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_A_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Toffee_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Swirly_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Chocmilk_01.fbx
+- Assets/Environment Pack/Candy Land/Models/CandyPlant_C_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Gummy_A_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_C_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Chocwhite_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Swirly_01.fbx
+- Assets/Environment Pack/Candy Land/Models/CookieChoc_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Candybar_A_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_B_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Loaf_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_A_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_B_04.fbx
+- Assets/Environment Pack/Candy Land/Models/CandyPlant_C_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_A_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Waffle_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Tree_Candy_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Pokka_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_Icing_03.fbx
+- Assets/Environment Pack/Candy Land/Models/CandyPlant_B_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Breadstick_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Jellybean_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Heartcandy_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_Icing_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_A_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_Cream_03.fbx
+- Assets/Environment Pack/Candy Land/Models/CandyPlant_A_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_B_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Mint_A_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Marshmallow_A_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_A_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Tree_Candy_05.fbx
+- Assets/Environment Pack/Candy Land/Models/SwissRoll_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Gum_A_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Waffle_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Gummy_B_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_D_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Macaroon_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Gummy_B_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Truffle_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Jellybean_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Truffle_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Macaroon_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Truffle_02.fbx
+- Assets/Environment Pack/Candy Land/Models/CandyPlant_A_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Waffle_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Chocmilk_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_D_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Biscuit_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Chocwhite_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Donutsprinkle_C_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Gummy_C_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Mintstar_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_B_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Gummy_A_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_D_01.fbx
+- Assets/Environment Pack/Candy Land/Models/SwissRoll_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Lolly_A_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_D_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Tree_Candy_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Mint_A_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Candypowder_A_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Pudding_A_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Breadstick_02.fbx
+- Assets/Environment Pack/Candy Land/Models/CookieNut_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_Cream_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Candypowder_A_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_C_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Heartcandy_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Gummy_C_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_B_05.fbx
+- Assets/Environment Pack/Candy Land/Models/Candy_B_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Donutsprinkle_A_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Pokka_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Pudding_B_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_B_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Candycane_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Tree_Candy_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_B_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_A_06.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_Icing_05.fbx
+- Assets/Environment Pack/Candy Land/Models/Mintstar_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_B_03.fbx
+- Assets/Environment Pack/Candy Land/Models/Donut_A_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_B_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Tree_CottonCandy_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Lollipop_C_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Toffee_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Pudding_B_02.fbx
+- Assets/Environment Pack/Candy Land/Models/Gummy_A_01.fbx
+- Assets/Environment Pack/Candy Land/Models/Pudding_A_03.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d470ca03d0cf1a26ac2533e827cf859f

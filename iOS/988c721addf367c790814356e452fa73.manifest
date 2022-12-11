@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2697846671
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd6717ce7c164fb3da836a2f8a96ac15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae2cf77de671e115b4e55d2b65767202
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Models/GrassFlower/GrassFlower_02_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/GrassFlower/GrassFlower_02_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/GrassFlower/GrassFlower_00.FBX
+- Assets/StylizedNatureBundle/Models/GrassFlower/GrassFlower_03_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/GrassFlower/GrassFlower_03_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/GrassFlower/GrassFlower_01_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/GrassFlower/GrassFlower_01_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/GrassFlower/GrassFlower_04_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/GrassFlower/GrassFlower_04_LOD1.FBX
+Dependencies: []

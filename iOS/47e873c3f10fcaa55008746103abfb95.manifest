@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3083724898
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 314215180443f121e9f857f3b47387a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/AmplifyShaderEditor/Examples/Assets/Materials/URP/Universal Rubber.mat
+- Assets/Editor/AmplifyShaderEditor/Examples/Assets/Materials/URP/Universal CalibrationFloor.mat
+- Assets/Editor/AmplifyShaderEditor/Examples/Assets/Materials/URP/Universal BrushedMetal.mat
+Dependencies: []

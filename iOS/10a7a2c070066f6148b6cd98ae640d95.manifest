@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2294555358
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d318db6c40d6f1b87adda7baa6183ecf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Candy Land/Textures/Candy-Palette.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1406051052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ecaaeeb7156f432ea875eda8254d2509
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b1d502ac223343c95094425f377451e
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Scenes/Island/ReflectionProbe-0.exr
+Dependencies: []

@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 2930388207
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f68ec5399b4ce5443e0064cdae81e09a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3ffae7e4d57880705b49e7fc8f8fd7c7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2eefe93fdcd52646b1c33c122914d54, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c84e86d55cafaf240b588d0d5fa169db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3157796be482dc46b40e3aeb9cfa7de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b25223a81217bff498e60bb3a825ce0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa84f13af5db30343908358495256697, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5e4692de73fced4e8e100ca4e5cf3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 417cd24fb1bd47c40a9e2a985ed8404c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ff1ed5f4d9f78941be072982e3ccabf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2072759fe824a9040b70c6a09266a4ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/SuperMobileController/Prefabs/Controller/JoystickBase.prefab
+- Assets/ThirdParty/SuperMobileController/Prefabs/Controller/TouchInputBase.prefab
+- Assets/ThirdParty/SuperMobileController/Prefabs/Controller/TargetAreaSkillButtonBase.prefab
+- Assets/ThirdParty/SuperMobileController/Prefabs/Controller/DynamicArea.prefab
+- Assets/ThirdParty/SuperMobileController/Prefabs/Controller/ButtonCollection.prefab
+- Assets/ThirdParty/SuperMobileController/Prefabs/Controller/TargetDirectionSkillButtonBase.prefab
+- Assets/ThirdParty/SuperMobileController/Prefabs/Controller/CancelArea.prefab
+- Assets/ThirdParty/SuperMobileController/Prefabs/Controller/SimpleSkillButtonBase.prefab
+- Assets/ThirdParty/SuperMobileController/Prefabs/Controller/DragButtonBase.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/21253ba567382f9ebb0fa534064842fc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e85707f93da74f799f75358ffad87196

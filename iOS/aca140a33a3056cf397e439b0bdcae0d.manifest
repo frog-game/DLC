@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 1861938767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2672c677f951c238c6e313f05e59a2b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 778fadadbd6309bedc7c5db7f7fea690
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fd999d1b2cf94a45a5b0a47ce074bef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 290a4d66c081a44f286a15e985599c55, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd70d448b18cfbc46af26466f752332c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a7230292f31240fa938686786a7ad04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowpolySubstances/Demos/CampfireDemo.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/38981945533fc2be00b05a4427dac773
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/39fa7c6756a2a0d1a0bdcc9561848c24
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/53b22743a73ac5589ca393e4eec2f9c8
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/69a81daf619acd742d86c126aeeb27eb
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/935c17bb3730c37c3e40396dc96828e3
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/96210dddd056a032301b85da2943bb23
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/9da4dc4f65ca2c48485202579f4d6408
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e908ac577de277a4ffb0e7054f07cc00
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f3b0d473f25a6a46fb883bd443c53c2a
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/fd670e8749c8a5538f9b4834e5c94ada

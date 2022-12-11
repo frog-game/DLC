@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3297989774
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69b04942f69d7806ded2b886fb7fb393
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/stompy_white_128.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/Filter-50.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/spider-64.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/info-64.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/outline-64.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/heart_monitor-64.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/feedback-64.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/trash2-50.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/menu-25.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/pin-50.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/message-64.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/menu-50.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/menu-32.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/trash2-32.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/down-50.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/close-50.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/console-64.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/refresh-50.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/open-dropdown-50.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/collapse-32.png
+- Assets/StompyRobot/SRDebugger/UI/Sprites/Default/Icons/pin-64.png
+Dependencies: []

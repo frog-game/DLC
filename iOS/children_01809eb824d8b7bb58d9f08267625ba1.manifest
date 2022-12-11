@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2102683834
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76d52ca94979d8c297013fd8ccac571f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Gizmos/Behavior Designer Scene Icon.png
+Dependencies: []

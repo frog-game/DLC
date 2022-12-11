@@ -1,0 +1,140 @@
+ManifestFileVersion: 0
+CRC: 1777620993
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 869b69ce7e506c3fc508661fe24dd5d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae2cf77de671e115b4e55d2b65767202
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_b_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_e_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_b_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_i_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_i_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_g_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_05_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_d_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_c_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_i_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_d_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_b_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_h_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_f_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_b_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_a_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_e_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_a_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_g_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_c_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_b_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_d_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_e_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_05_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_f_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_d_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_h_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_b_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_c_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_f_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_c_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_g_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_h_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_a_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_c_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_g_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_b_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_a_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_f_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_d_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_i_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_i_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_g_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_a_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_d_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_a_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_g_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_f_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_f_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_h_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_e_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_f_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_i_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_05_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_e_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_i_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_c_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_a_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_d_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_g_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_e_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_g_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_e_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_h_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_b_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_c_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_d_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_e_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_f_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_i_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_h_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_b_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_h_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_c_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_g_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_c_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_e_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_g_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_e_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_a_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_h_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_g_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_d_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_i_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_e_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_d_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_i_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_a_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_a_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_d_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_f_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_h_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_f_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_i_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_d_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_h_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_b_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_i_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_b_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_g_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_h_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_h_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_c_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_e_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_02_f_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_f_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_03_a_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_a_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_b_LOD2.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_04_c_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Trees/Tree_01_c_LOD1.FBX
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/84928ce021bb4a4d1e6c49c2f3854633

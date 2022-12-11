@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3575363999
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0571ecb4a6ce0b39477f9382fdb6214b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/materials/generic/fullcircle_faded_ztestAlways_additive.mat
+- Assets/ThirdParty/EffectCore/materials/generic/empty_additive.mat
+- Assets/ThirdParty/EffectCore/materials/generic/fullcircle_faded_additive.mat
+- Assets/ThirdParty/EffectCore/materials/generic/fullcircle_gradient.mat
+- Assets/ThirdParty/EffectCore/materials/generic/default_additive.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/eceeb542e605ffb31dcd9eb16513c16f

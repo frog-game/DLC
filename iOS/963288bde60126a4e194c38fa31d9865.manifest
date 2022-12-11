@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 586672864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa0b626bc5d710266cd06c1996215fb7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 04.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1814829589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1070f1a2c0be96d121fb787decb597e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowpolySubstances/Demos/CampfireDemo/Sounds/Fire.wav
+Dependencies: []

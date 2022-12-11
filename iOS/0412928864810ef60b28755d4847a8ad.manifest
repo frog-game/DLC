@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1092183248
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b068669af8f2654859f293688e8abe8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 33cd110b10051ec14e8f419a21db7f1d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a895231490da6545890b1e1794f8704, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7f59e54f2bfd184b9dd451a678d089b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14fe9984834882c43b827e4197192a74, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f064055f842e824a9b1d807e96f6eb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 180ecf9b41d478f468eb3e9083753217, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8e1967ef7b7604408c423b24c8c107d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6437ea5fd3459a4428d0c7ef53fa5fb0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Battle/Missile/HitEffect/StickyBomb_LeapBurn.prefab
+- Assets/Res/Battle/Missile/HitEffect/Explosion02.prefab
+- Assets/Res/Battle/Missile/HitEffect/NukeExplosion.prefab
+- Assets/Res/Battle/Missile/HitEffect/Explosion01.prefab
+- Assets/Res/Battle/Missile/HitEffect/StickyBomb_Explosion.prefab
+- Assets/Res/Battle/Missile/HitEffect/NukeHit.asset
+- Assets/Res/Battle/Missile/HitEffect/NukeNoise.asset
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/26a1f50406013a0144573c13198ee925
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/6d0721cbbdaac5861d1579f81f142cc5
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/805e97b7bdc650fec45016fede299282
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b93eff392255315f7ee3996964a73b7c
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/bcca5f16738e13babcb4eca0bfdca299
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/children_0412928864810ef60b28755d4847a8ad
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/fa9bcdc02a38d9af13c88e4197d70e29

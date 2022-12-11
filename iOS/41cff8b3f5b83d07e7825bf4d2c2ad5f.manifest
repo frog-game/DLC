@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 431397077
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b33c261f09707392b9a0fec082c325e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3fc1ca5d6e1038a779ca076698a8ccf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Man/Models/Man2_Idle.anim
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Man/Models/Man2_Run.anim
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Man/Models/Man2.fbx
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Man/Models/Man2.controller
+Dependencies: []

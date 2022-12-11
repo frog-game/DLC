@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2895421163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2411dd3cf0d25a71019d5245a1eb59d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66f946aea8d7445bd523659595b2e08d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/Fire/FireShape.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/NaturePlayerEffects_Update1.1/Fire/Fire.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d62581754429714db0fe50263dc1b9d4
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f9c6189094cc18421b1c012470dba086

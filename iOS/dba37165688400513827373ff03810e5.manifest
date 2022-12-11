@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3423442374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90c635b20f968507ba2762b58020e3a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Joystick Pack/Sprites/Handles/Handle_Outline.png
+- Assets/ThirdParty/Joystick Pack/Sprites/Handles/Handle_Plain.png
+- Assets/ThirdParty/Joystick Pack/Sprites/Handles/Handle_Ridged_Arrows.png
+- Assets/ThirdParty/Joystick Pack/Sprites/Handles/Handle_Ridged.png
+- Assets/ThirdParty/Joystick Pack/Sprites/Handles/Handle_Outline_Arrows.png
+- Assets/ThirdParty/Joystick Pack/Sprites/Handles/Handle_Plain_Arrows.png
+Dependencies: []

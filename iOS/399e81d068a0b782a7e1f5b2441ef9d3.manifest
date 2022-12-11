@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3489030060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ab430a9827463f16f4f51a934b34597
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Animations/Mob_Idle.anim
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Animations/Mob.controller
+Dependencies: []

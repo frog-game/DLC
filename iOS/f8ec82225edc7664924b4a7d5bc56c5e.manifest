@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4088682265
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 091fa628751b1171b45785f609b9fe1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03a9ba7de7ec8f7142347b1f354bde09
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Textures/T_SNB_Particles_Leaf.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Rocks_BaseColor.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Particles_Smoke.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Particles_Fire.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Ground_Normal_01.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Skybox_01.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Ground_BaseColor_02.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_GrassFlower.psd
+- Assets/StylizedNatureBundle/Textures/T_SNB_Trees_Normal.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Ground_Normal_02.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Rocks_Normal.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Vegetation_Normal.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Skybox_02.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Ground_BaseColor_01.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Vegetation_BaseColor.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Cloud.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Vegetation_Surface.tga
+- Assets/StylizedNatureBundle/Textures/T_SNB_Trees_BaseColor.tga
+Dependencies: []

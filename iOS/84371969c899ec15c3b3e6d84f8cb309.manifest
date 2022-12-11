@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2086384126
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b9f4e92b615160ad107611371576ef5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4926a32ea077daf69e91e157ccee2c48
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/AmplifyShaderEditor/Examples/URP/2D Fractal/SRP Universal 2D Fractal.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/28771978332e2bd6f9036bdeb7a91ab9
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/47e873c3f10fcaa55008746103abfb95

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3723648599
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bb3c2d95359a1b9e7298e358b7c6729
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84f54eafde7751ff21e0e79582735f65
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00f5e5a47c1508049b9a7edff5307220, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57aa01379d7e34884aeb85d875e17226, type: 3}
+- Class: 212
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/UI/ui_100points.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/UI/ui_healthDisplay.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/UI/ui_bombHUD.prefab
+Dependencies: []

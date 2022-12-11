@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3771802927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fea637ee54d7c34427363b5fa4744a77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_27.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_26.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_30.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_13.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_18.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_20.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_7.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_21.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_1.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_15.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_22.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_9.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_8.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_25.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_23.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_5.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_6.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_24.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_2.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_28.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_11.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_12.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_31.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_19.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_16.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_14.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_10.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_3.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_29.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_4.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Symbols/SymbolMaterial_17.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/72f87332f427d1ebef76a7a77de444e5

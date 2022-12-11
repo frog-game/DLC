@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 339437159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1472ec35074c5f58523640ebf24c647a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6fb714ab7492c8e6b07c99f93c521f64
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b2db86121404754db890f4c8dfe81b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdfbdbb87d3286943a057f7791b43141, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66f335fb1ffd8684294ad653bf1c7564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5485954d14dfb9a4c8ead8edb0ded5b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c01700fd266d6914ababb731e09af2eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 899c54efeace73346a0a16faa3afe726, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Demo/URP_DemoScenes_Volumes/PP_DemoScene_06.asset
+- Assets/StylizedNatureBundle/Demo/URP_DemoScenes_Volumes/PP_DemoScene_03.asset
+- Assets/StylizedNatureBundle/Demo/URP_DemoScenes_Volumes/PP_DemoScene_Flowers.asset
+- Assets/StylizedNatureBundle/Demo/URP_DemoScenes_Volumes/PP_DemoScene_04.asset
+- Assets/StylizedNatureBundle/Demo/URP_DemoScenes_Volumes/PP_DemoScene_08.asset
+- Assets/StylizedNatureBundle/Demo/URP_DemoScenes_Volumes/PP_DemoScene_01.asset
+- Assets/StylizedNatureBundle/Demo/URP_DemoScenes_Volumes/PP_DemoScene_02.asset
+- Assets/StylizedNatureBundle/Demo/URP_DemoScenes_Volumes/PP_DemoScene_07.asset
+- Assets/StylizedNatureBundle/Demo/URP_DemoScenes_Volumes/PP_DemoScene_05.asset
+Dependencies: []

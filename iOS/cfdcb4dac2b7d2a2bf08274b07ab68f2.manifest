@@ -1,0 +1,128 @@
+ManifestFileVersion: 0
+CRC: 874697176
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5cb463d3bd3b419ca82e5af1a81c7a92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8132b68674a3106a14102bd2d8db5e59
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa01H01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa00C00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa04U00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa00Single00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa02Ground00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa01Ramp01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa60Ground01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa50I00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa01H00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa01C00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa02H00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa00RampSide00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa04C01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa00U00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa05Ramp01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa00Ramp01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa60Ramp01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa04RampSideR00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa50C00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa04Ground00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa05RampSide00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa60Pillar00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa50H00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa04I00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa60Pillar01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa00C01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa01RampSideL00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa50Ground00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa00RampSideR00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa00H01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa00Slope00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa50C01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa04Slope00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa00Ramp00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa01RampSideR00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa00I00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa05C01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa02RampSideL00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa01Slope00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa60Pallet00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa50H01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa05H00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa04Single00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa05Ramp00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa60PalletBroken00L.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa01U00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa50Ramp00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa05C00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa60Ground00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa60Stair00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa02Ramp01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa00Ground00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa50Single00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa04Ramp00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa05Single00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa01I00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa02C00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa00H00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa04C00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa02U00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa02Slope00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa04Ramp01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa04RampSide00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa01Ground00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa50RampSideR00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa02Ramp00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa50U00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa05RampSideR00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa02H01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa00RampSideL00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa02I00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa04H00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa04RampSideL00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa01RampSide00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa05RampSideL00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa02Single00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa01Ramp00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa01C01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa02RampSideR00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa60Support00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa05I00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa04H01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa60Pallet01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa50Slope00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa02RampSide00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa50Ramp01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa05U00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa05H01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa50RampSideL00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa60GroundTri00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa60Ramp00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa02C01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa01Single00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa60Ramp02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa60PalletBroken00R.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/B1x1Mesa50RampSide00.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0f2aa2cd56fbe3fbf7d78fd6d1401ba9
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c840d5004ac47bcebbdd43dde80286c8

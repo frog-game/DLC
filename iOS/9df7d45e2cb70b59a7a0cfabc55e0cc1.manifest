@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4056376748
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69ba55695495162a567a4b85ad734136
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7652f69dff3dcd0741269161f69220a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Emission/Bg_RockCube15E.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Emission/Bg_SquareRock00LavaE.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Emission/Bg_RockCliff11E.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Emission/Bg_RockCube14E.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0f2aa2cd56fbe3fbf7d78fd6d1401ba9
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c840d5004ac47bcebbdd43dde80286c8

@@ -1,0 +1,120 @@
+ManifestFileVersion: 0
+CRC: 3193548177
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1f12011dce7c06116a89d87d96cb138
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/CotangentFrame.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Midtones
+  Control.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Polygon.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Step
+  Antialiasing.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Detail
+  Albedo.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/BlinnPhongLightWrap.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Square
+  Wave.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Simple
+  HUE.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/ConstantBiasScale.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Create
+  Orthogonal Vector.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Dots
+  Pattern.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Derive
+  Tangent Basis.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Sawtooth
+  Wave.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/NormalCreate.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Polar
+  Coordinates.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Twirl.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Spherize.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Grid.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Half
+  Lambert Term.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Truchet.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/BoxMask.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Replace
+  Color.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/PreparePerturbNormalHQ.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Herringbone.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/And.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Inverse
+  Lerp.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Terrain
+  Wind Animate Vertex.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Checkerboard.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Spiral.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/SubstanceBlendMetallic.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/ComputeFilterWidth.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/UI-Sprite
+  Effect Layer.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Rejection.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Radial
+  Shear.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/RadialUVDistortion.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Non Stereo
+  Screen Pos.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Lerp
+  White To.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Projection.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/PerturbNormal.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Smooth
+  Wave.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Rectangle.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Color
+  Mask.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Whirl.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Bricks
+  Pattern.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/FetchLightmapValue.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/SRP Additional
+  Light.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Blinn-Phong
+  Light.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Terrain
+  Wind Value.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Ellipse.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Reconstruct
+  World Position From Depth.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Random
+  Range.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Zig Zag.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Hex Lattice.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Stripes.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/FetchHDColorPyramid.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Normal
+  From Height.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Bidirectional
+  Parallax Mapping.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Flipbook.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Blinn-Phong
+  Half Vector.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Flow.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Bacteria.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Decode
+  Directional Lighmap.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Houndstooth.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Triangle
+  Wave.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Height-based
+  Blending.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/PerturbNormalHQ.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/SphereMask.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Or.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Rounded
+  Rectangle.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Noise
+  Sine Wave.asset
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Four
+  Splats First Pass Terrain.asset
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4032446158
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 534d3c649fbe7681e0dc9d4399258cfe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ba98bb1e655fbfeb873a5d3608ca2195
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Demo/Demo1_terrain.asset
+- Assets/MOBA and Tower Defense/Demo/Sky1.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/32c4f4f9c17636cf8e69c1c1ca7e4f2e
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c4f77ca6ae8ba739852f634c57a8ed07

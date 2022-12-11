@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 950608038
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c71ca1ea47cb969f72263093900be31b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Extras/BeffioLogo.png
+- Assets/ThirdParty/GeometryFXParticles/Extras/GeometryFXParticlesLogo.png
+Dependencies: []

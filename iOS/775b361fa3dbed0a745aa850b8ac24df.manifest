@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2779739410
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 212d8b4f457b1f02e3e65915e4961979
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Example3_Recast_Navmesh1/Materials/Material.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Example3_Recast_Navmesh1/Materials/structure2-Material.mat
+Dependencies: []

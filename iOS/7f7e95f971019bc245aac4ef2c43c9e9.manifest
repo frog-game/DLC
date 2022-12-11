@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 626469389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d909d0eebbca8b18bcd0d87968fdbdf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/UnityChan/SD_EL-Birds/Yuji/Models/Textures/yuji_face_lineMask.tif
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/UnityChan/SD_EL-Birds/Yuji/Models/Textures/yuji_head.tif
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/UnityChan/SD_EL-Birds/Yuji/Models/Textures/yuji_head2.tif
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/UnityChan/SD_EL-Birds/Yuji/Models/Textures/yuji_face.tif
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/UnityChan/SD_EL-Birds/Yuji/Models/Textures/yuji_body.tif
+Dependencies: []

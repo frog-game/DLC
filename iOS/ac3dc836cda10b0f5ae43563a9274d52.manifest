@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 745837166
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcae18dd64118b1ca858d4ab3df71ae0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad3a94738f397f7874f1a91376c36276
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d21dcc2386d650c4597f3633c75a1f98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a3bdb2cd68f901469e7cc149151eb49, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPoly Environment Pack/Demo/Scene 1/CameraTimeline Scene 1.playable
+- Assets/ThirdParty/LowPoly Environment Pack/Demo/Scene 1/PPS Demo 1.asset
+Dependencies: []

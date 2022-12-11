@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3530093393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b3c06fcaf0c14a57641ab8ffe9b72ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/License/UCL2.0/License
+  Logo/Others/png/Light_Frame.png
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/License/UCL2.0/License
+  Logo/Others/png/Dark_Silhouette.png
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/License/UCL2.0/License
+  Logo/Others/png/Light_Silhouette.png
+Dependencies: []

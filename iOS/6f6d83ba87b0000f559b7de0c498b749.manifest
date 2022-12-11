@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3534811171
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03b7403e7e47d2363d97f4ca61cc51de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedWater2/Materials/Effects/WaterRipple.mat
+- Assets/StylizedWater2/Materials/Effects/WaterCircle.mat
+- Assets/StylizedWater2/Materials/Effects/WaterfallSplashParticle.mat
+- Assets/StylizedWater2/Materials/Effects/SplashParticle_Up.mat
+- Assets/StylizedWater2/Materials/Effects/SplashParticle.mat
+- Assets/StylizedWater2/Materials/Effects/WaterMistParticle.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b8a09109de230aacca7cfa62b76f89b6

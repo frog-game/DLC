@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 579290281
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f14cf55c5d4256eeb9b9183fc87d3c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08e5839e4db477429ed20d28d657089e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Prefabs/Particles/Particles_Smoke.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/Particles_Tree_FallingLeaves.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/Particles_Zone_FallingLeaves.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/Particles_Fireflies.prefab
+- Assets/StylizedNatureBundle/Prefabs/Particles/Particles_Fire.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/84928ce021bb4a4d1e6c49c2f3854633

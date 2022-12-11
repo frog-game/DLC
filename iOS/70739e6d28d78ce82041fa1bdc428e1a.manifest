@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 2073349759
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1b668dd9428899c76ddfa2ea8e97c4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/FireflyCG.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Glow1bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Smoke3bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Tornado 1.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Star2bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Smoke24bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Point12cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/GroundAnimationBCG.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Point11bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Crater22bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Circle10bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Point11cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/SmokeCloud1bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Smoke2bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Smoke16bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/SlashS.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Mask1bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Leaf1bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Glow1cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/FlashGroundCG.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Blood 1.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/MagicCircle22cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/CartoonSmoke5cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Tornado.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Trail1cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Leaf2bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/TornadoGround.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/LightningShootCG.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Smoke24cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Vortex.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/MagicCircle1cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/WindS.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Fire13bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Ice1bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Point1cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/MagicCircle21cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Tornado0.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Flash21cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Snow3cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Star13bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Smoke3cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Lightning3.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Vortex 1.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/MagicCircle24cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Soul1bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Moons1cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Object4bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Stone3bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/MagicCircle23bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Trail29cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Circle38cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Trail21cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Shield1cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Vortex2.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/OilMask1cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Heart1bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Blood.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Flare6cg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Point5cg2.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Tornado2.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Star3bcg.mat
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Materials/Lightning11cg.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/46f499661f7bd372db724d547dfd3445
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/ec90287eae82611416c2ac94b6bcdaa0

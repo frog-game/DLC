@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 943018573
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2dc8f45201fc8e98245b14b3358a3d4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 53cce90b7195659f8b23b1d9014b87f1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b876d10a99fe0945955d23af5466cbd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29b638e53c8eb2e40a4c58b44fe5a97d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13392d56ec3ae2e42b7b092fcdee3013, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2b17286d30da444a911684c2c4d34bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 190610e73d683804bba8cb578f37ec71, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13ca28cfa3a7be841b5c3d01ca3bfbba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73bf6cefa43b27142860b5fd266a9ba1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/MobileController/Resources/Prefabs/SkillArea.prefab
+- Assets/ThirdParty/MobileController/Resources/Prefabs/Joystick.prefab
+- Assets/ThirdParty/MobileController/Resources/Prefabs/SwitchElementButton.prefab
+- Assets/ThirdParty/MobileController/Resources/Prefabs/AreaSkillBtn.prefab
+- Assets/ThirdParty/MobileController/Resources/Prefabs/SkillTarget.prefab
+- Assets/ThirdParty/MobileController/Resources/Prefabs/BaseSkillBtn.prefab
+- Assets/ThirdParty/MobileController/Resources/Prefabs/CancelArea.prefab
+- Assets/ThirdParty/MobileController/Resources/Prefabs/SkillDirection.prefab
+- Assets/ThirdParty/MobileController/Resources/Prefabs/DirectinSkillBtn.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/4d8b9c4f03eb7c3b5da64f60ea5b6dfd
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d61a24912e5e569b2213e2eb33237ea1

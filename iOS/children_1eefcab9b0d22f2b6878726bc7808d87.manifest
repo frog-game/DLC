@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2064002962
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a77519f71a6a9bfecd75a38ac4f9668e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UIImage/MatchMakingPanel/IMG-0733.PNG
+- Assets/UIImage/MatchMakingPanel/IMG-0734.PNG
+- Assets/UIImage/MatchMakingPanel/IMG-0729.PNG
+- Assets/UIImage/MatchMakingPanel/IMG-0730.PNG
+- Assets/UIImage/MatchMakingPanel/IMG-0735.PNG
+- Assets/UIImage/MatchMakingPanel/IMG-0731.PNG
+- Assets/UIImage/MatchMakingPanel/IMG-0736.PNG
+- Assets/UIImage/MatchMakingPanel/IMG-0732.PNG
+Dependencies: []

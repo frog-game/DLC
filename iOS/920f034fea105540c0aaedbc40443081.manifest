@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 3632495286
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a3ad8349e9279e649c8d46f12341436f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_14.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_16.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_13.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_35.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_41.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_20.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_43.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_50.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_36.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_21.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_17.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_1.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_39.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_30.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_45.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_9.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_51.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_12.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_46.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_8.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_5.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_10.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_28.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_33.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_42.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_54.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_6.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_47.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_25.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_53.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_4.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_34.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_40.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_37.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_26.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_44.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_24.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_29.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_3.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_2.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_31.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_7.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_38.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_18.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_23.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_19.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_49.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_52.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_27.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_22.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_11.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_48.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_32.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Lines&Dots/Lines&DotsSprite_15.png
+Dependencies: []

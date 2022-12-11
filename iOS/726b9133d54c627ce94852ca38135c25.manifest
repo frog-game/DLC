@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 76519356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 255412309e8add33dc545d103c05d0c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b71393b2ee9cb5c4f2e835e78d3d8d4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_TerrainData/TerrainMaterial_522465994439700836.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/6edcc08bdecc8730ad574b88de5c1a51

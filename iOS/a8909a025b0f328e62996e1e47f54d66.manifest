@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1188478548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fdda3dd692026957ac0ab75b112ec51d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Back Garden/Materials/Mat_Plane.mat
+- Assets/Environment Pack/Back Garden/Materials/Mat_Garden.mat
+- Assets/Environment Pack/Back Garden/Materials/Mat_Garden Specular.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5c13e65360df854a22e879931e6a4a90

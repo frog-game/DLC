@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 241894595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d18b2ce264daa81db4289a8f25b9ecee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_2.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_4.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_6.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_15.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_7.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_8.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_3.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_9.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_14.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_11.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_10.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_13.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_1.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_5.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Triangles/TriangleSprite_12.png
+Dependencies: []

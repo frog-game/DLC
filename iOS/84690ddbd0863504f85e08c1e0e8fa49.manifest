@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 628864027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94c5036bb79857abc9a8f7c762133af0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_gradient_light_01.png
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_noise_clouds_01.png
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_gradient_ramp_01.png
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_noise_grain_01.png
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_gradient_ramp_02.png
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_leaves_01_n.png
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_tile_01_d.tga
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_rgb_overlap.png
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_leaves_01_d.tga
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_alpha_circle_02.png
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_tile_01_n.tga
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_parallax_test_ao_height.tga
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_texcoords.png
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_parallax_test_normals.tga
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_conc_floor_01_n.tga
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_conc_floor_01_d.tga
+- Assets/ThirdParty/ShaderForge/Example Assets/Textures/sf_alpha_circle.png
+Dependencies: []

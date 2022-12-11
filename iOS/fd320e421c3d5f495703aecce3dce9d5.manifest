@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 288904172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 773d486e46e27fda70582f6aedc3ddc1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767a59f8de390d2354823e760c737a44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Barricade1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Wall_wood_el1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Wall_wood_el2.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/85dec49e51c26a9253b89dd1ac1207ba

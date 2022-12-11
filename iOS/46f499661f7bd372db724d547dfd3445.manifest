@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 2803054489
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 470cfb3021f467e59a294803ec938d64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Point11.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Noise28.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Circle10.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Flash21.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Smoke2.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Noise1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/wawesNormal1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/wawes4.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Trail27.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Point1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Flare6.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Noise41.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Trail21.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/HUE.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Snow3.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Glow1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/MagicCircle21.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Heart1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Ice1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/GroundAnim.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Shield1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Star3.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Leaf2.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/MagicCircle23.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Crater22.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Stone3.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/MagicCircle1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Noise43.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Lightning4.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/OilMask1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/MagicCircle22.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Object4.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Star2.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/SmokeCloud1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Trail29.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Smoke24.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Mask1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Trail1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Soul.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Star13.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Tornado0.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Point5.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Lightning11.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Firefly.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Leaf1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Moons1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Noise34.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Point12.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Smoke16.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/LightningShoot.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/MagicCircle24.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Smoke3.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Circle38.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/CartoonSmoke5.PNG
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/MaskForShader.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Fire13.png
+Dependencies: []

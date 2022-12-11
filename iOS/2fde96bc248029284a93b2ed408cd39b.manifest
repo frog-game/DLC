@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1383034091
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04d0c43fac8e1b79b741b67106353134
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/Help.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/ShowGrid.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/Line.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/Eraser.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/Pin.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/SnapOn.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/Grid.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/Mirror.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/GravityTool.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/Selection.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/Tiling.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/Replace.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/Shape.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/LockGrid.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/Brush.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/Extrude.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/RadialGrid.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/UnlockGrid.png
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Sprites/LightTheme/SnapSettings.png
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1765989179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0bbd2f58e1cddbaaf3b16d072b38bcd7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b01fc83170610f037570ab1560006c8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Presets/Sky 05.mat
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Presets/Sky 03.mat
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Presets/Sky 04.mat
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Presets/Sky 01.mat
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Presets/Sky 02.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/16fe352a3ebd27373c5ee06fc97cc0f8
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/27773923ec24a8f185baedeb9f78d810
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/44a272e5008e1bedf365de59ca3ef837
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/6c8caf4cad282212769552ba4aa4e6e8
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b87fc7bf10c63940030ab1d0ffa8a7ec
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/ff2d5d71363d5e0a8091aae8e9418eb8

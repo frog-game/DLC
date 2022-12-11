@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 381479958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f179f2251eafa4f7aaf299dd9ef579f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/2D_Destruction/Demo/Sprites/tallRock.png
+- Assets/ThirdParty/2D_Destruction/Demo/Sprites/groundA.png
+- Assets/ThirdParty/2D_Destruction/Demo/Sprites/tree.png
+- Assets/ThirdParty/2D_Destruction/Demo/Sprites/groundB.png
+- Assets/ThirdParty/2D_Destruction/Demo/Sprites/shortRock.png
+Dependencies: []

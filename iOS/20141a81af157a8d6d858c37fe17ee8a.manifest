@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3027336813
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f7f097fc3c37eff0fc25e9d3c89678b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/Data/node_3d_data_mask.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/Data/sfn_tangent.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/Data/sfn_halfvector.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/Data/sfn_lightattenuation.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/Data/sfn_normalvector.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/Data/sfn_viewreflectionvector.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/Data/sfn_lightcolor.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/Data/sfn_lightvector.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/Data/sfn_depth.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/Data/sfn_viewvector.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/Data/sfn_fragmentposition.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/Data/sfn_normalvector_2.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/Data/sfn_bitangent.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/Data/sfn_fresnel.png
+Dependencies: []

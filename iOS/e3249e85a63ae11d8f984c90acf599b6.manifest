@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2132186533
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2a820a6c26b2c9735dd1d2e0b158d51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/materials/smoke/Smoke_Spritesheet_AlphaBlend.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/2d5daa3f5666b625da29fd6e93977910

@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3607028316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b59384ed6767747ff4bb34c918b31f70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae2cf77de671e115b4e55d2b65767202
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Models/Colliders/Rock_12_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Rock_13_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Rock_07_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Tree_04_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Tree_05_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Rock_02_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Tree_01_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Rock_11_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Rock_09_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Rock_05_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Rock_06_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Tree_03_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Rock_10_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Rock_08_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Rock_01_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Rock_03_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Tree_02_Collider.FBX
+- Assets/StylizedNatureBundle/Models/Colliders/Rock_04_Collider.FBX
+Dependencies: []

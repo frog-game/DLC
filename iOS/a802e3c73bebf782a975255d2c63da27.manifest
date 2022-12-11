@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3680046858
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b22a233c02e6b3bb6ea2c1e0e8e6a24c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Polygons/PolygonSprite_7.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Polygons/PolygonSprite_3.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Polygons/PolygonSprite_9.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Polygons/PolygonSprite_8.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Polygons/PolygonSprite_11.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Polygons/PolygonSprite_2.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Polygons/PolygonSprite_13.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Polygons/PolygonSprite_10.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Polygons/PolygonSprite_1.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Polygons/PolygonSprite_6.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Polygons/PolygonSprite_5.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Polygons/PolygonSprite_12.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/Polygons/PolygonSprite_4.png
+Dependencies: []

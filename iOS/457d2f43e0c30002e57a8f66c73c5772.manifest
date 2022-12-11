@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 810884687
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09c1391dca7f9fc369a4d7f1c62139e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e3fd5b78d09078b43d3a2b05d29c1abb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/FBX/nuke.fbx
+- Assets/Res/FBX/nuclear_bomb.tga
+- Assets/Res/FBX/firewall.fbx
+- Assets/Res/FBX/nuclear_bomb.fbx
+- Assets/Res/FBX/plugger.fbx
+- Assets/Res/FBX/nuke.psd
+- Assets/Res/FBX/AirdropMat.mat
+- Assets/Res/FBX/firewall_reversed.fbx
+- Assets/Res/FBX/plugger.mat
+- Assets/Res/FBX/ball.fbx
+- Assets/Res/FBX/nuclear_bomb.mat
+- Assets/Res/FBX/sticky_bomb.png
+- Assets/Res/FBX/dart.mat
+- Assets/Res/FBX/Lobby_BG.mat
+- Assets/Res/FBX/sticky_bomb_lead.tga
+- Assets/Res/FBX/ball.tga
+- Assets/Res/FBX/lobby_bg.fbx
+- Assets/Res/FBX/plugger.tga
+- Assets/Res/FBX/ball.mat
+- Assets/Res/FBX/sticky_bomb.mat
+- Assets/Res/FBX/pin.mat
+- Assets/Res/FBX/dart.tga
+- Assets/Res/FBX/lead.mat
+- Assets/Res/FBX/pin.fbx
+- Assets/Res/FBX/dart.fbx
+- Assets/Res/FBX/pin.png
+- Assets/Res/FBX/nukes.mat
+- Assets/Res/FBX/airdrop.fbx
+- Assets/Res/FBX/airdrop_texture.png
+- Assets/Res/FBX/sticky_bomb.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a5bb8085a333a21b4888ed66eb1cbec6

@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3084024590
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52d59ffd93ce1b584d0dc30e99f744a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5429d362688fe6500d77814f6727c28f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c8afc2d208205641bd1aa5e27769e11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bab042c2c2d4f4380bfd78fa79fc7381, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a1ff7ff4ce484f1aad8887efed74b11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1d3ae068036c4be39e9bc98c505ef52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26e8197b97b4a4fa2ab4c51e208a70f4, type: 3}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/pickupManager.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/mainCamera.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/platformEnd.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/killTrigger.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/spawner.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/15b4b43e4ec081558081463b58fec2aa
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e3452de3da38228054d521b250413412
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e57f8a7ce3341f533fa08c158bc3348c

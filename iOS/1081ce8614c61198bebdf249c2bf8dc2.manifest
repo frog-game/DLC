@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 1035673567
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89124b8ec7162c5fe0cf016680d8334d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d16b509b448cfbe364023eb1f1b63d17
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Prefabs/Structures/TFF_Wooden_Pavilion_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Structures/TFF_Wooden_Chair_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Structures/TFF_Wooden_Fence_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Structures/TFF_Wooden_Table_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Structures/TFF_Wooden_Pole_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Structures/TFF_Wooden_Pavilion_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Structures/TFF_Wooden_Fence_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Structures/TFF_Wooden_Bridge_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Structures/TFF_Wooden_Bridge_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Structures/TFF_Wooden_Swing_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Structures/TFF_Wooden_Chair_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Structures/TFF_Wooden_Table_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Structures/TFF_Wooden_Swing_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Structures/TFF_Wooden_Pole_02A.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0f86259cac96bdf6ef10bee4b730656f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/3986ca974a51bcc12e5ed184f38ca9d1
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5f142df1cab711ba9704a59ccdc48159
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/69e3dc1d3a9b4e9099bba0058bd863e1

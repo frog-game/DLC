@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3898777072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f5ed9a61341b3a2cb436af5332ee455
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/SuperMobileController/Prefabs/Controller/Image/SkillMarkerTextures/SkillMarker.png
+Dependencies: []

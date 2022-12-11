@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3079795133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4accc3869db5c8c003619faa4178d1e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eb9f99a9e6a12e0f90e94f09bee1e5c5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1da353243062479a9b31c85074a796b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4185bc77c7194462ca3b1097ef4a5de0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2ab2b9ac93bb544b9552e49030371b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42e7f46d0e5a84171a3909479c1646ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a91e8dd37cdd41efb4859b65aced7a2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Standard Assets/Environment/Water/Water4/Prefabs/Water4Advanced.prefab
+- Assets/MOBA and Tower Defense/Standard Assets/Environment/Water/Water4/Prefabs/Water4Simple.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/895f01c5d3a82c6128d7223b22e1582f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e3231b2cfa9ae3e03ef5f513d63f18c1

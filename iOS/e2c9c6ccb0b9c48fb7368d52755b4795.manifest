@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2405416802
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 849e00ac04c94d8bf24742069b022e8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b1c4c89ef90976e0af8e967bcb404a52
+HashAppended: 0
+ClassTypes:
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedWater2/Models/LowPoly_Plane.watermesh
+Dependencies: []

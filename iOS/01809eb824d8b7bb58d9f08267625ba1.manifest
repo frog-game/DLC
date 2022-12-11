@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 177857351
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e24c5037a3db16bab5a411a7a0836af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 60973d01a4a1e8a97624e2a0744d2583
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: b23f08d2ae4cba14087c1ed36193d82b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Battle/AI/EnemyAI.asset
+Dependencies: []

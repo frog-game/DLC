@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 49805058
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14f2be27e404a82c45b81ee3aafffd1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b01fc83170610f037570ab1560006c8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_GrassFlower_Library_03.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_GrassFlower_Library_01.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Rocks_Demo_01.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Grass_Demo_03.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Grass_Demo_02.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Terrain_Library_01.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Skybox_Demo_01.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Skybox_Demo_02.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Grass_Demo_01.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Rocks_Demo_02.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Skybox_Demo_03.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Rocks_Demo_04.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_GrassFlower_Library_02.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Moon_Demo_01.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Skybox_Demo_04.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Vegetation_Simple 1.mat
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Rocks_Demo_03.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f8ec82225edc7664924b4a7d5bc56c5e

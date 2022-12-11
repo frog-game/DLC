@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3985412112
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1898ce258892ea8be49bb7ece1fe2b43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Nature Forest/Materials/Mat_Nature.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1a531562bd6a6ec5a2158f3a625eb1de
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/7383359d1818b24f2afab395cb4fdbdf
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a5bb8085a333a21b4888ed66eb1cbec6
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c9d6b9e3c8b4081ecd9f2f8fea897618

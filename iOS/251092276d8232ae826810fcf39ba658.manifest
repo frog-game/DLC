@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1608991123
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6d293d3be937afd3a38ef0d7d25f884
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f96959ae7534046998745f95be903cb9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0dd50e989da532847b78456bbc4a4541, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/SpectatorPanel/SpectatorPanel.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/05f377b6c4ca5b75fc56d4b486a64a0a
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/82aa2589b59f9938bd29ab117ba6b07f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b765cf24a89ca09c5df7957ce61f4a2e

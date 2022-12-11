@@ -1,0 +1,176 @@
+ManifestFileVersion: 0
+CRC: 3008060717
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d9d06086e755460ec2ae2947ad0e26b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b464d554335084bda58d88530abf5d0d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Ladder00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_FenceWood02S.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Fence05Pole00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Gemstone01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Anchor00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GemstoneR00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Fence04Pole.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GemstoneB01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Sail01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Fence05L2M00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Fence05I2M01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GrassG04.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Rail00Broken.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Scaffold00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Plank03.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Scaffold02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Minecart01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Fence05I2M00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_RockDesert03.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GrassG06.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_RopeHang01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Fence04I2M.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_TreePine13R.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_BushDesert01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_TreeDead00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Flag00R.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Spire00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Gemstone03.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Gemstone00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Plank01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_ShipFence00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_WeaponRack00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Barrel02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_ShipRudder.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Torch00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Fence0I2M01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_MineEntrance00Closed.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_RockDesert02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_FenceWood02Pole.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GrassG05.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_TreePine13W.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_RopeCircle00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GemstoneG00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_ShipWire00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Flag00B.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Barrel03.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Flag00W.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_StepStool01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_RopeHang00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_TreePine13.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Sail02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Sail00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Scaffold00Broken.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Scaffold01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_ShipFence01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Cactus04.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_RockCube14.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GrassG00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_PrisonWindow01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_CoinsPile00Quarter.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_PrisonWindow00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_ShipFenceBroken01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_SquareRock00Gray.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GemstoneG03.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GrassG01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Rampart00S00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_SquareRock00Lava.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Rail00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GrassDesert01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_CoinsPile00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Minecart00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Lantern00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GemstoneR02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Raft00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GemstoneR01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GemstoneB03.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GemstoneR03.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GrassDesert00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_RockDesert00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Plank04.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Gemstone02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_SquareRock01Gray.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_StepStool00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Flag00G.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_RockCliff10.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_StonePile01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_RockCube15.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Cactus03.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Tarp00G.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_FenceWood02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Barrel01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GrassG07.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_ShipFenceBroken00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Fence04L2M00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GemstoneB02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_BushDesert00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Rail00C.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Tarp00B.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_StonePile02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_StrawBale00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Cactus05.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GemstoneB00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Cactus01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_SpireRoof00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_ChestWood00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_ButteSilhouette.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_CoinsPile00Half.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GrassG03.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Cactus02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Plank02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_MineEntrance00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_RockDesert01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Tarp00S.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Fence04S2M00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Tarp00R.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_SquareRock00Orange.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GemstoneG02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Brazier00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_RockCliff11.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Cactus00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Plank00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Barrel00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_RockDesert04.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_RockCube013.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GemstoneG01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Flag00Pirate.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_PrisonWindow02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Tarp00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_CrossArm00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Rampart00I00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_StrawBale01.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_Cactus10.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_GrassG02.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_VentCovers00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Props/Bg_RockCube10.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0f2aa2cd56fbe3fbf7d78fd6d1401ba9
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/4f0b48e187ed4a0dfc625f7b75ee9be5
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c840d5004ac47bcebbdd43dde80286c8

@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 2215360175
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c627e7044284b0f983754dc052714f1a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0c8f5637cb7d76c4017345e788b3c5b1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf2edee5c58d82540a51f03df9d42094, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b77c5407dc277943b591ade9e6b18c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b2db86121404754db890f4c8dfe81b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 572910c10080c0945a0ef731ccedc739, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 556797029e73b2347956b6579e77e05b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3eb4b772797da9440885e8bd939e9560, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5e1dc532bcb41949b58bc4f2abfbb7e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de640fe3d0db1804a85f9fc8f5cadab6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdfbdbb87d3286943a057f7791b43141, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e021b4c809a781e468c2988c016ebbea, type: 3}
+- Class: 114
+  Script: {fileID: 16995157, guid: dd668e29e4cf3e545a03bbef1790e198, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 558a8e2b6826cf840aae193990ba9f2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b3d386ba5cd94485973aee1479b272e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66f335fb1ffd8684294ad653bf1c7564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c01700fd266d6914ababb731e09af2eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 899c54efeace73346a0a16faa3afe726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 221518ef91623a7438a71fef23660601, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/KV.prefab
+- Assets/Resources/PostProcess.asset
+- Assets/Resources/URP_PPV_Profile_Standard_ToonCustom.asset
+- Assets/Resources/UniversalRenderPipelineAsset_Renderer.asset
+- Assets/Resources/UniversalRenderPipelineAsset.asset
+- Assets/Resources/DOTweenSettings.asset
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/67097fc9eb4a591faeaa897916bbf93d
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f76798ea0001f30e7c83d7a4ce5d2c35

@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 601143908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c93c574bd0c604451442223da7f458d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 62b053bc0656d7894bc4829efe7389b9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 60dd6518a1eff44a3b347b7c0a20f239, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67b461c67a1aa2a49b5a87793a6aa18c, type: 3}
+- Class: 212
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Environment/backgrounds.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Environment/backgroundAnimation.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Environment/env_clouds.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Environment/Cab.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Environment/env_riverMid.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Environment/Foregrounds.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Environment/Bus.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Environment/env_riverTop.prefab
+- Assets/ThirdParty/2D_Destruction/Demo/Prefabs/Environment/env_fog.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/15b4b43e4ec081558081463b58fec2aa

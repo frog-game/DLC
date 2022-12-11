@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3416484529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80dd95e7f85b9718d9e3b948c41068da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/PolygonParticleFX/Scenes/Pivot_Spin.anim
+Dependencies: []

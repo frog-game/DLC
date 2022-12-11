@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1828885964
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14708152c1e917952a30c45c14e7e8f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c34d63349fcfee6adf1098660d35ed4c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/LowPolyPreview/Prefabs/Environment.prefab
+- Assets/ThirdParty/GeometryFXParticles/LowPolyPreview/Prefabs/Mountain8.prefab
+- Assets/ThirdParty/GeometryFXParticles/LowPolyPreview/Prefabs/Rock_12.prefab
+- Assets/ThirdParty/GeometryFXParticles/LowPolyPreview/Prefabs/Tree_3.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/042acc0290bcf021e14aace4e7ff7f0f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b04fb4400579525531cdf0d0bbb16bd2
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b6144ea661814683f5eb641772b8f48d

@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 835758625
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1dc647e96122e593fc5b14dc765727c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Orange.2.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Brown.3.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Pink.1.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Green.6.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Gray.1.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Green.4.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Gray.2.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Gray.4.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Brown.9.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Yellow.3.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Green.7.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Brown.7.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Green.12.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Brown.15.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Brown.6.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Purple.1.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Brown.11.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Brown.5.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Brown.14.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Green.2.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Orange.1.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Brown.2.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Yellow.4.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Green.10.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Orange.3.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Green.9.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Yellow.2.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Green.8.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Brown.4.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Gray.3.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Yellow.1.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Green.3.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Green.13.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Brown.10.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Green.1.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Brown.8.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Green.5.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Purple.2.mat
+- Assets/ThirdParty/LowPoly Environment Pack/FBX/Materials/Green.11.mat
+Dependencies: []

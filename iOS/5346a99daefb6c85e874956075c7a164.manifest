@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1551045047
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2f472280313de0ff8e5f671298dad5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 76c2ae0b9ab0f58cd9e4dca04806c40c
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: b94add25bcff6c0449de4c0774c2646f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2667e43532632584b9f5862c76394808, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Skin/Color1.asset
+- Assets/Res/Skin/ColorTable.asset
+- Assets/Res/Skin/Color2.asset
+Dependencies: []

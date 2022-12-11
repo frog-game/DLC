@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 5633787
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f08057fbab4df1c37302547766aa5662
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain.png
+- Assets/ThirdParty/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged.png
+- Assets/ThirdParty/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline_Arrows.png
+- Assets/ThirdParty/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain_Arrows.png
+- Assets/ThirdParty/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged_Arrows.png
+- Assets/ThirdParty/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline.png
+Dependencies: []

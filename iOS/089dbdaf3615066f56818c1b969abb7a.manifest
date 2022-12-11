@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 1824236439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be370df5265d077cedf07ef9a075de31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9bdee397b649d4235a2d16ed71ec56a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a586cf93dc19b28488308d7488b8de20, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 268fb4d91644e42409780f6594097609, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Demo scenes/Cartoon VFX.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/2706d7c76302d4eefb4e4afcbfcf9d2c
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/46f499661f7bd372db724d547dfd3445
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/584d363d5b864757003119fc77b9b025

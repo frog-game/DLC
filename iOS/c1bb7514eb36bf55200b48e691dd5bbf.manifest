@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 511347193
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a5a86302eb339e2b60231ca2d688a99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad06958797749336e5782b9470fdf713
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_05.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_04_g.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_01_f.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_02_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_01_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_02_f.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_01_g.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_03_e.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_02_d.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_04_h.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_04_f.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_03_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_03_g.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_04_d.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_02_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_04_e.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_01_h.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_03_d.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_04_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_02_g.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_01_e.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_03_f.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_03_c.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_01_b.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_03_h.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_04_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_03_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_02_e.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_02_h.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_01_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_01_d.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_02_a.prefab
+- Assets/StylizedNatureBundle/Prefabs/Trees/noLODs/Tree_04_b.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/84928ce021bb4a4d1e6c49c2f3854633
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b80deac08a2eb1f3beef313c1cf87e10
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d3a72ecd26e743c00a5152651814b987

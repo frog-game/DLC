@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 524702839
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d70ec7dfacb3eb872fcc479bde3bc1ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 205f4679dc0a30aa34655386f9c2f7a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Muzzle_fx/Fx1_1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_props/Models/Muzzle_fx/Fx1_2.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/41b4aad0c0722d0c9889afe9b85096b0

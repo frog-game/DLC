@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 832727983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3efa9358b5547ee65af4ba5ab7dccb22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/materials/sparks/glowingsparks_additive.mat
+- Assets/ThirdParty/EffectCore/materials/sparks/flash_additive.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/61aba5f300a22857931a2d56760507c6

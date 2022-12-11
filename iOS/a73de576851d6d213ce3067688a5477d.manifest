@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 1230798558
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6547add6a9950145e60db783b9aaca1e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 19b4c9eb706b7647f841f7b11aa2a311
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Under Water/Models/Rock_A_03.fbx
+- Assets/Environment Pack/Under Water/Models/Seaweed_A_03.fbx
+- Assets/Environment Pack/Under Water/Models/Coral_A_02.fbx
+- Assets/Environment Pack/Under Water/Models/Starfish_03.fbx
+- Assets/Environment Pack/Under Water/Models/Coral_D_01.fbx
+- Assets/Environment Pack/Under Water/Models/Elkhorn_02.fbx
+- Assets/Environment Pack/Under Water/Models/Seaweed_A_01.fbx
+- Assets/Environment Pack/Under Water/Models/Anemone_B_03.fbx
+- Assets/Environment Pack/Under Water/Models/Sponge_B_03.fbx
+- Assets/Environment Pack/Under Water/Models/Anemone_A_03.fbx
+- Assets/Environment Pack/Under Water/Models/Anemone_A_01.fbx
+- Assets/Environment Pack/Under Water/Models/Coral_A_03.fbx
+- Assets/Environment Pack/Under Water/Models/Anemone_B_02.fbx
+- Assets/Environment Pack/Under Water/Models/Sponge_A_01.fbx
+- Assets/Environment Pack/Under Water/Models/Sponge_B_01.fbx
+- Assets/Environment Pack/Under Water/Models/Coral_C_02.fbx
+- Assets/Environment Pack/Under Water/Models/Coral_D_03.fbx
+- Assets/Environment Pack/Under Water/Models/Rock_A_02.fbx
+- Assets/Environment Pack/Under Water/Models/Coral_A_01.fbx
+- Assets/Environment Pack/Under Water/Models/Sponge_B_02.fbx
+- Assets/Environment Pack/Under Water/Models/Elkhorn_03.fbx
+- Assets/Environment Pack/Under Water/Models/Coral_B_02.fbx
+- Assets/Environment Pack/Under Water/Models/Coral_C_01.fbx
+- Assets/Environment Pack/Under Water/Models/Sponge_A_03.fbx
+- Assets/Environment Pack/Under Water/Models/Coral_D_02.fbx
+- Assets/Environment Pack/Under Water/Models/Sponge_A_02.fbx
+- Assets/Environment Pack/Under Water/Models/Anemone_B_01.fbx
+- Assets/Environment Pack/Under Water/Models/Seaweed_A_02.fbx
+- Assets/Environment Pack/Under Water/Models/Starfish_01.fbx
+- Assets/Environment Pack/Under Water/Models/Coral_B_03.fbx
+- Assets/Environment Pack/Under Water/Models/Anemone_A_02.fbx
+- Assets/Environment Pack/Under Water/Models/Coral_B_01.fbx
+- Assets/Environment Pack/Under Water/Models/Coral_C_03.fbx
+- Assets/Environment Pack/Under Water/Models/Rock_A_01.fbx
+- Assets/Environment Pack/Under Water/Models/Starfish_02.fbx
+- Assets/Environment Pack/Under Water/Models/Elkhorn_01.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/56d9b46e6b99c4e3bf189dedb63ddc0d

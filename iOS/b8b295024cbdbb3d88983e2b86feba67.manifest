@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 4128210053
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d19c0f677d50b8910a5ad17a3871d68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a227003b01a88aef920c961cd757f4f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Machinegun2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Rocket1_1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Crystal2.controller
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Tesla3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Crystal2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Gauss2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Gatling2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Radar1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Hammer3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Cannon3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Rocket1_2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Crossbow2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Gauss3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Hammer1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Crossbow1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Fire3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Gauss1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Hammer2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Radar2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Fire1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Tesla2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Crystal1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Tesla1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Plasma2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Rocket2_2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Plasma3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Cannon2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Gatling1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Gatling3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Rocket2_1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Laser1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Cannon1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Machinegun3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Crystal3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Crystal3.controller
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Acid1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Acid3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Mortar1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Crystal1.controller
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Radar3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Laser3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Crossbow3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Machinegun1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Laser2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Rocket2_3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Mortar3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Acid2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Rocket1_3.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Plasma1.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Mortar2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Fire2.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/75270129ecf1cdfe99b36e7d84d593c8

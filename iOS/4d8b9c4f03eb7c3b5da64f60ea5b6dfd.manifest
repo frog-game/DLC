@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3940954453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b8827a3d331d204598622fe9b1b3863
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc8130e2985008eb22ffe146fe70def4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/MobileController/Resources/waterElementIcon.png
+- Assets/ThirdParty/MobileController/Resources/joystickDragarea.png
+- Assets/ThirdParty/MobileController/Resources/buttonring.png
+- Assets/ThirdParty/MobileController/Resources/disabled.png
+- Assets/ThirdParty/MobileController/Resources/SkillArea.png
+- Assets/ThirdParty/MobileController/Resources/SkillMarker.png
+- Assets/ThirdParty/MobileController/Resources/SkillAreaMaterial.mat
+- Assets/ThirdParty/MobileController/Resources/joystick.png
+- Assets/ThirdParty/MobileController/Resources/BasicEdge.png
+- Assets/ThirdParty/MobileController/Resources/cooldown.png
+- Assets/ThirdParty/MobileController/Resources/grassElementIcon.png
+- Assets/ThirdParty/MobileController/Resources/button.png
+- Assets/ThirdParty/MobileController/Resources/SkillMarkerArrow.png
+- Assets/ThirdParty/MobileController/Resources/SkillDirectionMaterial.mat
+- Assets/ThirdParty/MobileController/Resources/dragarea.png
+- Assets/ThirdParty/MobileController/Resources/fireElementIcon.png
+- Assets/ThirdParty/MobileController/Resources/SkillTargetMaterial.mat
+- Assets/ThirdParty/MobileController/Resources/firejoystick.png
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/75a16a0e8b0ba762318ba7718be348dc

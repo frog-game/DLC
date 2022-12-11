@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1975932969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 047917e41272b30faf4256b1f83d5fb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UIImage/ItemBag/ItemBg.png
+- Assets/Res/UIImage/ItemBag/PanelBg.png
+- Assets/Res/UIImage/ItemBag/ButtonBg.png
+- Assets/Res/UIImage/ItemBag/CloseBg.png
+Dependencies: []

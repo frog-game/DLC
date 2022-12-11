@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 3958162359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 276cc4b1cbfb10efb980d56bdc03e08c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_19.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_38.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_52.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_42.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_1.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_23.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_12.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_31.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_3.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_50.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_49.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_7.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_26.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_20.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_24.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_14.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_34.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_33.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_44.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_11.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_22.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_29.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_37.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_27.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_28.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_13.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_51.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_25.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_21.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_16.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_10.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_47.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_4.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_41.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_8.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_5.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_39.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_9.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_30.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_36.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_43.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_46.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_17.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_32.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_53.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_18.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_45.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_35.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_40.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_6.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_15.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_48.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_54.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/Lines&Dots/Lines&DotsMaterial_2.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/920f034fea105540c0aaedbc40443081

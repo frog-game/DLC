@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3237640949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b3e3f6d7ec573fc4c51644567d534df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UIImage/Common/lose_pattern.png
+- Assets/Res/UIImage/Common/button_red.png
+- Assets/Res/UIImage/Common/checkbox.png
+- Assets/Res/UIImage/Common/button_bg.png
+- "Assets/Res/UIImage/Common/\u9053\u5177\u62FE\u53D6\u5217\u8868\u5173\u95ED\u56FE\u6807.png"
+- Assets/Res/UIImage/Common/checkbox_check.png
+- "Assets/Res/UIImage/Common/\u9053\u5177\u7BB1\u56FE\u6807.png"
+- Assets/Res/UIImage/Common/button.png
+- Assets/Res/UIImage/Common/resultpanel_bg.png
+- Assets/Res/UIImage/Common/win_pattern.png
+- Assets/Res/UIImage/Common/lose_title.png
+- Assets/Res/UIImage/Common/win_title.png
+- Assets/Res/UIImage/Common/blackbg.png
+Dependencies: []

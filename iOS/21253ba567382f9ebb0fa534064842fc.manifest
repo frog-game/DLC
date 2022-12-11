@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4050286155
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f19f3e75fc816f44fb3df2ac833b23cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/SuperMobileController/Prefabs/Controller/Image/SkillMarkerTextures/UnitSelectedMarker.png
+- Assets/ThirdParty/SuperMobileController/Prefabs/Controller/Image/SkillMarkerTextures/SkillMarkerArrow.png
+- Assets/ThirdParty/SuperMobileController/Prefabs/Controller/Image/SkillMarkerTextures/SkillMarker.png
+- Assets/ThirdParty/SuperMobileController/Prefabs/Controller/Image/SkillMarkerTextures/SkillArea.png
+Dependencies: []

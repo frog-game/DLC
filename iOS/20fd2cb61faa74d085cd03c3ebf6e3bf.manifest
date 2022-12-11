@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 458587761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77957842edaa3f1d0ff1f393fd776e2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Nokdef_VFXPack/Shaders/Functions/Channel Picker Alpha.asset
+- Assets/ThirdParty/Nokdef_VFXPack/Shaders/Functions/Channel Picker.asset
+Dependencies: []

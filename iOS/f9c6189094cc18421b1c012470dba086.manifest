@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 3877921570
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 098d971caacd7f483cd9d298e6c7b45a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_26.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_24.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_17.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_22.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_20.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_25.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_4.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_21.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_3.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_12.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_29.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_5.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_13.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_23.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_6.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_10.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_13Additive.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_9.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_16.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_19.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_7.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_15.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_30.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_11.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_18.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_8.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_14.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_1.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_27.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_28.mat
+- Assets/ThirdParty/GeometryFXParticles/Materials/IrregularShapes/ShapesMaterial_2.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/72f87332f427d1ebef76a7a77de444e5
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/db418805faa7eb22bdfaa808822afbfa

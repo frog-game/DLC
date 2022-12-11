@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 637520263
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbddebec1e27bdb801bafd6fc29d161f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc4e7ebd13842c60dc48a15992910583
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e6759a476ac916439cefa068df78bfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7ac0dd5de5eb5f45afd246e5609792b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13ca28cfa3a7be841b5c3d01ca3bfbba, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/BuffStatusBar/PassiveSlotHolder.prefab
+- Assets/Res/UI/BuffStatusBar/PassiveStatusBar.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5e0b0e2d09c5747c137637e4d896472c
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b37cb610a8362aae4dc9a4bf0baec280
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b765cf24a89ca09c5df7957ce61f4a2e

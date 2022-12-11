@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2666820335
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 186bc70721b5c09512a921107330904b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f1ebb72200b1f78dd7bc1ed693e7a3da
+HashAppended: 0
+ClassTypes:
+- Class: 72
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Demo/PostProcessing/Editor Resources/Monitors/HistogramCompute.compute
+- Assets/StylizedNatureBundle/Demo/PostProcessing/Editor Resources/Monitors/VectorscopeCompute.compute
+- Assets/StylizedNatureBundle/Demo/PostProcessing/Editor Resources/Monitors/WaveformCompute.compute
+Dependencies: []

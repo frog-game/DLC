@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2192370877
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ec41cfebdfc2fae1df71571b7065f2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedWater2/Materials/WaterTransparencyMask.mat
+- Assets/StylizedWater2/Materials/StylizedWater2_Desktop.mat
+- Assets/StylizedWater2/Materials/StylizedWater2_ToxicGoop.mat
+- Assets/StylizedWater2/Materials/StylizedWater2_Smooth.mat
+- Assets/StylizedWater2/Materials/StylizedWater2_Mobile.mat
+- Assets/StylizedWater2/Materials/StylizedWater2_Ocean.mat
+- Assets/StylizedWater2/Materials/StylizedWater2_Toon.mat
+- Assets/StylizedWater2/Materials/StylizedWater2_Lowpoly.mat
+- Assets/StylizedWater2/Materials/StylizedWater2_Clear.mat
+- Assets/StylizedWater2/Materials/StylizedWater2_River.mat
+- Assets/StylizedWater2/Materials/StylizedWater2_Lava.mat
+- Assets/StylizedWater2/Materials/StylizedWater2_Realistic.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/dcb45e6c8e0a753b06978c2d44f40b12

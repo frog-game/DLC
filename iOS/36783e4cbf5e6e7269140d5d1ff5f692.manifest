@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2018249301
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2ac5e2dc5def834bf74f7ca2acdcf5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8bfdbf3efafe3d8c5415a14d5d3bbf88
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6de0f608ad7ac964598b755110542173, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c21da6c994c8594d8545239d55ee034, type: 3}
+- Class: 114
+  Script: {fileID: 40306178, guid: 2227815d949dcd045b3f2b8d8dafb4c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13ca28cfa3a7be841b5c3d01ca3bfbba, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/BattleNumberPanel/BattleNumberPanel.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b765cf24a89ca09c5df7957ce61f4a2e

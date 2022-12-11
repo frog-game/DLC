@@ -1,0 +1,93 @@
+ManifestFileVersion: 0
+CRC: 2710221564
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a4ccf1561843631a3f01e6fa0321494
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8217c8368c414b8909ed481d83841351
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Money_Note_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Sphere_Spikes_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/SunShafts.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Ammo_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Healthcube_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Star.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Sphere_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Shard_Rock_02.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Crystal_03.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Star_Pivot.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Crystal_04.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_WoodChip_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_CrystalShard_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Sphere_Pivot_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Bullet_Trail.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/SM_Particle_Smoke_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Vine_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Sphere_Spikes_02.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Cylinder_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Cone_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Cloud_Placement_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Grenade_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Grenade_02.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Sphere.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Arrow_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Cone_02.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Cylinder_02.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/SM_LightRayRound 1.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Arrow_02.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Crystal_02.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Shard_Rock_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Vine_03.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Vine_02.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Skull_02.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Bullet_Trail_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Heart_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/SM_GoreChunk_03.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Tower_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Sphere_03.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/SM_Rock_04.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Shard_Rock_04.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Spark_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Crystal_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/SM_Flame_FX.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/SM_GoreChunk_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Sphere_02.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Ring_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/SM_GoreChunk_04.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/SM_Rock_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Shard_Rock_Small_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/SM_GoreChunk_02.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Shard_Rock_03.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/SM_Wep_Ammo_BulletLarge_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/SM_LightRayCube 1.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Grenade_03.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Sphere_Puff_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Money_Coin_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Question_01.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/eb4b1b7382e86e853e447bebfef24b8f

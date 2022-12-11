@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3432816815
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2b909ec1fbbf7590aa5f9b36242214a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 04ab278285251c5f25932d1e0d08ca88
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a895231490da6545890b1e1794f8704, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14fe9984834882c43b827e4197192a74, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6437ea5fd3459a4428d0c7ef53fa5fb0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/packs/StylizedExplosionPack2/prefab/IceBlue/IceBlue_Heavy_Explosion.prefab
+- Assets/ThirdParty/EffectCore/packs/StylizedExplosionPack2/prefab/IceBlue/IceBlue_Small_Explosion.prefab
+- Assets/ThirdParty/EffectCore/packs/StylizedExplosionPack2/prefab/IceBlue/IceBlue_Medium_Explosion.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5d9310bbabe87423cc456343571d37fc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/8f7f7da5cecc322998ef4c3da67d54b6
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e3249e85a63ae11d8f984c90acf599b6
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e9d26ccb184b3ba3afc69aa288552257

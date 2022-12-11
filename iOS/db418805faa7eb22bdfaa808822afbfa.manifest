@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1092964785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07b218daaf6c22ab3a8a648c27926278
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_7.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_8.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_20.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_19.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_26.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_15.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_23.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_25.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_9.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_24.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_12.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_13.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_14.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_2.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_30.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_28.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_16.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_10.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_27.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_11.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_3.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_5.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_29.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_17.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_1.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_21.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_22.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_4.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_18.png
+- Assets/ThirdParty/GeometryFXParticles/Sprites/IrregularShapes/ShapesSprite_6.png
+Dependencies: []

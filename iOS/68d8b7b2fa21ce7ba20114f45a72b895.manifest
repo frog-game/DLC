@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2038907352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0dfb4212f57692098771d94b5a2764e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b1d502ac223343c95094425f377451e
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars Square.png
+Dependencies: []

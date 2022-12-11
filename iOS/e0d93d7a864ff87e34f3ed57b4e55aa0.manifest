@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1114495757
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c8f8680b293e9caf0d87854c2efc9da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6358c121956a951ba16485d73aa53eb3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Terrain/layer_Ground_05Ground_05_nmpb956af97c33fc3d7.terrainlayer
+- Assets/_Terrain/layer_Ground_06Ground_06_nmp8c44e42493390d78.terrainlayer
+- Assets/_Terrain/Island.asset
+- Assets/_Terrain/layer_Ground_013d1cca0d6d0e9938.terrainlayer
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0f727ed91e2c84c9f909e21a7aef9955
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/623546ce2cfe7ec0c1289eb2121748cc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/79c9fbc2e573e66edd84823d37d9921c

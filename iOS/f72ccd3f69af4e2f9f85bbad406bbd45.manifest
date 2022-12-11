@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1380179133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ca10091b7aa8120fc7b44a1219d261d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Demo/PostProcessing/Utilities/CustomMotionTexture/Textures/WheelMotionVectors.png
+- Assets/StylizedNatureBundle/Demo/PostProcessing/Utilities/CustomMotionTexture/Textures/DebugMotionVectors.png
+- Assets/StylizedNatureBundle/Demo/PostProcessing/Utilities/CustomMotionTexture/Textures/UVChecker.png
+Dependencies: []

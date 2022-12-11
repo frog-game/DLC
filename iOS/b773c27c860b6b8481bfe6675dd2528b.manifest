@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 752005094
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9d3cb343fd82d680733de33c0339655
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StompyRobot/SRDebugger/Editor/Icons/Light/profiler-25.png
+- Assets/StompyRobot/SRDebugger/Editor/Icons/Light/console-25.png
+- Assets/StompyRobot/SRDebugger/Editor/Icons/Light/options-25.png
+Dependencies: []

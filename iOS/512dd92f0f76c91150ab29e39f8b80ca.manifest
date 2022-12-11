@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3668410720
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9bcab9b7f2bf72e8296b1f05f59f621
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UIImage/PassiveIcon/DeflateRateUp.png
+- Assets/Res/UIImage/PassiveIcon/MaxGPUp.png
+- Assets/Res/UIImage/PassiveIcon/Ice_IceWall.png
+- Assets/Res/UIImage/PassiveIcon/passvieIcon_two_mask.png
+- Assets/Res/UIImage/PassiveIcon/passvieIcon_three_mask.png
+- Assets/Res/UIImage/PassiveIcon/passvieIcon_one_mask.png
+- Assets/Res/UIImage/PassiveIcon/Grass_SlowPool.png
+- Assets/Res/UIImage/PassiveIcon/AttackUp.png
+- Assets/Res/UIImage/PassiveIcon/InflateRateUp.png
+- Assets/Res/UIImage/PassiveIcon/Fire_FireTrail.png
+- Assets/Res/UIImage/PassiveIcon/passvieIcon_one.png
+- Assets/Res/UIImage/PassiveIcon/passvieIcon_two.png
+- Assets/Res/UIImage/PassiveIcon/passvieIcon_three.png
+- Assets/Res/UIImage/PassiveIcon/MaxHpUp.png
+Dependencies: []

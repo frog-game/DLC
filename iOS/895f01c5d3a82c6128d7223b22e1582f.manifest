@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1703458625
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5d5610992cb8de59744101e10dd3a21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 11dbca4d85bfecd2c6028d9ee4651107
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Standard Assets/Environment/Water/Water4/Models/OceanPlane.FBX
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e3231b2cfa9ae3e03ef5f513d63f18c1

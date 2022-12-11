@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2034050207
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98f5bb36b1b3bbf6093212c283335455
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Textures/TFF_Atlas_Lights_1A_D.psd
+- Assets/Toon Fantasy Nature/Textures/TFF_Gradient_Mask_1.psd
+- Assets/Toon Fantasy Nature/Textures/TFF_Flower_Patch_01C.tif
+- Assets/Toon Fantasy Nature/Textures/TFF_Atlas_Vegetation_1A_D.psd
+- Assets/Toon Fantasy Nature/Textures/TFF_Grass_Patch_01A.tif
+- Assets/Toon Fantasy Nature/Textures/TFF_Noise_2.tga
+- Assets/Toon Fantasy Nature/Textures/TFF_Toon_Ramp_1B.psd
+- Assets/Toon Fantasy Nature/Textures/TFF_Atlas_Billboards_1A_D.psd
+- Assets/Toon Fantasy Nature/Textures/TFF_Grass_Patch_02A.tif
+- Assets/Toon Fantasy Nature/Textures/TFF_Toon_Ramp_1A.psd
+- Assets/Toon Fantasy Nature/Textures/TFF_Atlas_1A_D.psd
+- Assets/Toon Fantasy Nature/Textures/TFF_Noise_1.psd
+- Assets/Toon Fantasy Nature/Textures/TFF_Flower_Patch_01B.tif
+- Assets/Toon Fantasy Nature/Textures/TFF_Water_Normal_1.png
+- Assets/Toon Fantasy Nature/Textures/TFF_Flower_Patch_02A.tif
+- Assets/Toon Fantasy Nature/Textures/TFF_Grass_Patch_02C.tif
+- Assets/Toon Fantasy Nature/Textures/TFF_Noise_3.psd
+- Assets/Toon Fantasy Nature/Textures/TFF_Glass_Gradient_1A.psd
+- Assets/Toon Fantasy Nature/Textures/TFF_Toon_Ramp_1C.psd
+- Assets/Toon Fantasy Nature/Textures/TFF_Flower_Patch_01A.tif
+Dependencies: []

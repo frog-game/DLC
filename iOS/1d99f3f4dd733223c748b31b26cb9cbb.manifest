@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3417445027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c46e479373ef959c81c5163f5cf94901
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Lightning_02.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Circle_01.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Portal_Single_Chipped.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_SemiCircle.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Circle_02.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_HalfCircle.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Ring_02.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Wind.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Bubble.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_BulletTrail.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_RainbowCircle.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Hexagon.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Bubble_02.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Soft_Spot.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Shell_01.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Fumes_04.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Circle_Dark_01.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Swipe_02.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Smoke_01.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Wings_Grid.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Sparkle.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Texture_01_A.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_RitualCircle_01.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_GroundBreak.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Soft_Spot_Dark.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Swipe_01.png
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Fumes_02.png
+Dependencies: []

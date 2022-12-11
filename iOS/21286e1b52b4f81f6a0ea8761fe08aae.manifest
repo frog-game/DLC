@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 396502694
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22e0a8da918950f1406915a3385863e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767a59f8de390d2354823e760c737a44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Prefabs_Particles/Muzzle/Fx1_2.fbx
+- Assets/MOBA and Tower Defense/Prefabs_Particles/Muzzle/Fx1_1.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/cc939defb86536e1d47a82d688371770

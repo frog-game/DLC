@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1738387759
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5464f4f2df35342ac743ab851e0b2ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 37db23baa65ba9561307366b51cc3953
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/LWRP and HDRP support/How to
+  change Pipeline for VFX.PNG
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/LWRP and HDRP support/LWRP_Blood.shadergraph
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/LWRP and HDRP support/LWRP_Add_CG.shadergraph
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/LWRP and HDRP support/LWRP_Tornado.shadergraph
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/LWRP and HDRP support/LWRP_Blend_CG.shadergraph
+Dependencies: []

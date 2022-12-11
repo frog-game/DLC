@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 863615761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb5f8cc5954a18ebde0c66bfe1b3481f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Primitive Shapes/Materials/Mat_Shapes.mat
+- Assets/Environment Pack/Primitive Shapes/Materials/Mat_Plane.mat
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 586353913
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee588d43f99b0f95befb09ba4a1e24c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9da25994155c7196f4f8caef47cf8b6d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 12001, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/GUISkins/MainSkin.guiskin
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/2f65331be9e404532e2fbdd43f8c343d
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/6597e6ef13d8d0252438b9acfdd06b23
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/90aa238e4c5b142cdade68974dff5d7c
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/9f0e4287448ef54f22840c87056eb22b

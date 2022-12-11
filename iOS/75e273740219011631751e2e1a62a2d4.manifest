@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2794444320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a601491124c27f2e10ccdf54f7c181c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6358c121956a951ba16485d73aa53eb3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Grass_1A_D.terrainlayer
+- Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Dirt_1A_D 1.tif
+- Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Grass_2A_D.tif
+- Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Dirt_Road_1A_D.terrainlayer
+- Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Earth_3A_D.terrainlayer
+- Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Earth_1A_D.terrainlayer
+- Assets/Toon Fantasy Nature/Terrain/New Terrain.asset
+- Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Dirt_1A_D.tif
+- Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Earth_2A_D.tif
+- Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Sand_1A_D.terrainlayer
+- Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Dirt_1A_D.terrainlayer
+- Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Earth_2A_D.terrainlayer
+- Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Dirt_Road_1A_D 1.tif
+- Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Dirt_Road_1A_D.tif
+- Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Grass_2A_D.terrainlayer
+- Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Grass_1A_D.tif
+- Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Sand_1A_D.tif
+- Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Earth_1A_D.tif
+- Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Earth_3A_D.tif
+Dependencies: []

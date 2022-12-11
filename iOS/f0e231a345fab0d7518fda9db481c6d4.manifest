@@ -1,0 +1,133 @@
+ManifestFileVersion: 0
+CRC: 3602943712
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be62c17407f3849d7864a80fc65d861d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 412e761bd2682800951cc24fe1c7d6c8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac9a0ff1109d2224ebf29308a70d8f60, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2eefe93fdcd52646b1c33c122914d54, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c84e86d55cafaf240b588d0d5fa169db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ffe249613c6d3d45bcfa646bfbab884, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3157796be482dc46b40e3aeb9cfa7de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fab4f9fb6e00aa64bb307572966d9fe6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5e4692de73fced4e8e100ca4e5cf3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a897989ed3171064fb9c486738bd1ff2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30701e2ffa585a741ba1278832540009, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ff1ed5f4d9f78941be072982e3ccabf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2072759fe824a9040b70c6a09266a4ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03118221f4bfcd74ba0ad8075da02411, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 625e9c3b94e3dc64ea82f6e29062b3d6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/SuperMobileController/Scenes/Gamepad Sample.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/21253ba567382f9ebb0fa534064842fc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/50649ee294a9ff5fa0c6c0f7c12035dc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/697af92f0bbf1c36fea8cdb502ff7aab
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/8489cb114991f5f27f3bdcac4bf0de63
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d0f64e2fef1ecc05b1e8aa3258ccd251
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e85707f93da74f799f75358ffad87196

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 397028244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f706a471c906ee038f02d4a97197fb6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7a023efbeaba062b2bb738b50f1593b8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 12001, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/PWBData.txt
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/PWBSkin.guiskin
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f535f217b7d7849f1542e4313c87897b
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f75daf8005faeddd9c16d2773922b58f

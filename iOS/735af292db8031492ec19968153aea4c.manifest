@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3345995927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c42ce7386a991e3b531fa88183b5fbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8132b68674a3106a14102bd2d8db5e59
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Emission/B1x1Mesa04RampSideL00E.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Emission/B1x1Mesa04H00E.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Emission/B1x1Mesa04Ground00E.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Emission/B1x1Mesa04C01E.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Emission/B1x1Mesa04U00E.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Emission/B1x1Mesa04H01E.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Emission/B1x1Mesa04Ramp00E.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Emission/B1x1Mesa04RampSideR00E.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Emission/B1x1Mesa04Ramp01E.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Emission/B1x1Mesa04C00E.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Emission/B1x1Mesa04I00E.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Emission/B1x1Mesa04Slope00E.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Slope/Emission/B1x1Mesa04Single00E.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0f2aa2cd56fbe3fbf7d78fd6d1401ba9
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c840d5004ac47bcebbdd43dde80286c8

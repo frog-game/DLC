@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1974699400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23b9cf35617d16fcdc6855967869e929
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 71dae31b848e6e4f59591adf30439fe1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/GameState/GameState.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b765cf24a89ca09c5df7957ce61f4a2e
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f03c050f042bbc44e6543c6f8988ed24

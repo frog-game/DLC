@@ -1,0 +1,177 @@
+ManifestFileVersion: 0
+CRC: 2260149349
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ac1d42fa0582f0c5bb598c7cf6c43fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 19b4c9eb706b7647f841f7b11aa2a311
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Back Garden/Models/Apple_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Blueberry_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Pumpkin_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Coconut_08.fbx
+- Assets/Environment Pack/Back Garden/Models/Limecut_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Pear_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Potato_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Bananacomb_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Garlic_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Orange_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Pineapple_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Broccoli_04.fbx
+- Assets/Environment Pack/Back Garden/Models/Pumpkin_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Lemon_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Cucumber_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Peas_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Leek_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Chilli_05.fbx
+- Assets/Environment Pack/Back Garden/Models/Cauliflower_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Coconut_04.fbx
+- Assets/Environment Pack/Back Garden/Models/Chilli_06.fbx
+- Assets/Environment Pack/Back Garden/Models/Banana_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Cornsimple_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Cauliflower_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Kiwi_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Pomegranate_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Mango_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Orange_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Broccoli_06.fbx
+- Assets/Environment Pack/Back Garden/Models/Starfruit_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Artichoke_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Mangosteen_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Broccoli_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Lime_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Guava_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Capsicum_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Chilli_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Lemon_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Onion_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Artichoke_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Coconut_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Avocado_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Tomato_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Apple_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Chilli_04.fbx
+- Assets/Environment Pack/Back Garden/Models/Pea_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Grape_04.fbx
+- Assets/Environment Pack/Back Garden/Models/Onion_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Garlic_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Avocado_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Starfruit_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Grape_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Blueberry_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Cherry_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Cherry_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Banana_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Coconut_06.fbx
+- Assets/Environment Pack/Back Garden/Models/Turnip_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Bush_Berry_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Pear_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Garlicclove_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Aubergine_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Cornsimple_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Lime_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Capsicum_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Orange_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Blueberry_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Pea_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Mango_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Garlic_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Bananacomb_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Cauliflower_06.fbx
+- Assets/Environment Pack/Back Garden/Models/Kiwi_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Capsicum_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Cherry_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Leek_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Watermelon_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Pineapple_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Cauliflower_04.fbx
+- Assets/Environment Pack/Back Garden/Models/Mango_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Pea_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Carrot_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Plum_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Chilli_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Broccoli_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Carrot_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Coconut_07.fbx
+- Assets/Environment Pack/Back Garden/Models/Cucumber_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Pomegranate_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Kiwicut_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Bush_Berry_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Corn_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Coconut_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Chilli_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Watermelon_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Pineapple_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Leek_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Pomegranate_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Strawberry_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Turnip_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Grape_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Aubergine_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Grape_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Broccoli_05.fbx
+- Assets/Environment Pack/Back Garden/Models/Plum_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Banana_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Corn_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Lemoncut_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Coconut_05.fbx
+- Assets/Environment Pack/Back Garden/Models/Garlicclove_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Tomato_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Strawberry_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Flowerpistil_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Starfruit_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Coconut_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Corn_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Avocado_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Turnip_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Cornsimple_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Grape_06.fbx
+- Assets/Environment Pack/Back Garden/Models/Broccoli_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Pear_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Potato_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Plum_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Guava_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Watermelon_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Aubergine_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Garlicclove_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Mangosteen_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Cauliflower_05.fbx
+- Assets/Environment Pack/Back Garden/Models/Pumpkin_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Tomato_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Bananacomb_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Coconut_09.fbx
+- Assets/Environment Pack/Back Garden/Models/Grape_05.fbx
+- Assets/Environment Pack/Back Garden/Models/Artichoke_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Carrot_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Straw_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Cauliflower_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Mangosteen_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Apple_01.fbx
+- Assets/Environment Pack/Back Garden/Models/Guava_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Bush_Berry_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Strawberry_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Onion_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Peas_02.fbx
+- Assets/Environment Pack/Back Garden/Models/Cucumber_03.fbx
+- Assets/Environment Pack/Back Garden/Models/Potato_01.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a8909a025b0f328e62996e1e47f54d66

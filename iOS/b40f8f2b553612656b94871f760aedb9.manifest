@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3789334811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e68f73d3ee94887114e2418d3d7c9033
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/textures/generic/fullcircle.psd
+- Assets/ThirdParty/EffectCore/textures/generic/fullCircleFaded.psd
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1850194303
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f14df8c7d36d7991fc01eaeaf95c8cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/DemiLib/Core/Editor/DemiEditor.xml
+Dependencies: []

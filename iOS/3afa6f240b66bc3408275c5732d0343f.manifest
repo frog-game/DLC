@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 736529945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 392f18817b4f0fd5d6fa98eb1acf24bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bee65f09828abaabe1c228ce4f93e74b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9f095b76047e2f499f4ca327a06e378, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e1792e9dd080e64aa5689b85e6a85df, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/TipPanel/TipPanel.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/30677cfd7f422f0960c4f87b24b42e05
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/3f5a557ed5fa888e20b979850468e60f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/53bd263edb66574d866ce5053d9fd951
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/82aa2589b59f9938bd29ab117ba6b07f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b765cf24a89ca09c5df7957ce61f4a2e

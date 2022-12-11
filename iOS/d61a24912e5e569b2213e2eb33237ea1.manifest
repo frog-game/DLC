@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2197797982
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c23a815dc3fe01ee7a94411f7008bb05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UIImage/SkillIcon/cancelBtn_notActive.png
+- Assets/Res/UIImage/SkillIcon/bomb.png
+- Assets/Res/UIImage/SkillIcon/StickyBomb.png
+- Assets/Res/UIImage/SkillIcon/dart.png
+- "Assets/Res/UIImage/SkillIcon/\u836F\u74F6\u56FE\u6807.png"
+- Assets/Res/UIImage/SkillIcon/cancelBtn.png
+- Assets/Res/UIImage/SkillIcon/plunger.png
+Dependencies: []

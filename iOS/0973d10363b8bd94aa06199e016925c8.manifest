@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 676352241
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 939365ab39904d24dbe3bf547ccfdb3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a134fc0199c87bc7b85b13011019a1bb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/ReadMe.txt
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_ArticZap.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_PurpleVortex.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_DragonBreath_Blue.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_BloodBlast.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_AreaPoisonPool.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_BlueBlast_Red.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_WindBladeWhirlwind.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_PoisonBreath.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_ShockBeam_Blue.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_PurpleVortex_Orange.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_OrangeBuff.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_AreaHeal_Blue.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_FireRingPulse.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_DruidMark.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_AreaHeal.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_AreaHeal_Pink.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_PoisonPool_Looping.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_WindBladeWhirlwind_Red.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_ShockBeam.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_ArticZap_Yellow.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_BlueBlast.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_DragonBreath.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_SandWhirlwind.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_BloodBlast_Black.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_UniverseOrb_Exploding.prefab
+- Assets/ThirdParty/Nokdef_VFXPack/SpellsPack1/Spell_PoisonBreath_Purple.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/47d39931b1a459ebca085ca3e0616300
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/484de200f61e14c54a352f8b8392416e
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5701670b2ca44e7439843ce3cb260d12
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/9ac9199726893a8510fd2992a940eadf
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a7b6beb457ea6937dc273436b2f13b5e
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c1ec45648a2b90e856e8aa1bf94b4772
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c4de4021a191499aa6d0c7e66727edd3
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/ceccf16136ba5d7735a2eb65c50b1dea
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f911d036c7d1c037981ae3ce23d6d630

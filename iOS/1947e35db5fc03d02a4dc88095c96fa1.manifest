@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2073050808
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31c608a9bb0c7443a645a5a73b65ba09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66f946aea8d7445bd523659595b2e08d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_8.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_5.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_11.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_12.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_10.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_9.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_15.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_3.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_2.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_6.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_13.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_7.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_4.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_14.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/SimpleParticles/Triangles/TrianglePrefab_1.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d62581754429714db0fe50263dc1b9d4

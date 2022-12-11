@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 295163390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 388f62bff29baa8d4858147391e75c4d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ebfb0f3ce4a16dc5c3e189b97d8e619
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_VertexLitBlended_Dark.mat
+- Assets/ThirdParty/PolygonParticleFX/Models/SM_Particle_Smoke_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Sparkle 1.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Cutout_Round 1.mat
+- Assets/ThirdParty/OpenBox/airdrop.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e6ee53a6acd77b41059212a63505a2a8

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2003052886
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b65dd8fc0ee2b9109d6ac14b0ce7b54b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8b8448c7b696490ac5d512ac9b401452
+HashAppended: 0
+ClassTypes:
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Battle/Controller/BattleController.controller
+Dependencies: []

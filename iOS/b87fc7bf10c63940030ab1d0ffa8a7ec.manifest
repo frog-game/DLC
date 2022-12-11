@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1779337147
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 771a1233224751d72bddc7c5e0620f3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b1d502ac223343c95094425f377451e
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars Rhombus.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars 5Corners.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars 8Corners.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars Square.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars Disk.png
+Dependencies: []

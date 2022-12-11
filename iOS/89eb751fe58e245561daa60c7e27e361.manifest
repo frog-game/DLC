@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 629999924
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 115eb34d0534005a54cb9f98047923e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PluginMaster/DesignTools/Editor/PrefabWorldBuilder/Resources/Materials/GravityLines.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f75daf8005faeddd9c16d2773922b58f

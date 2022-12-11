@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 249367667
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b5322c1b895a67700affcb7de983667
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/packs/StylizedExplosionPack2/WebBuildStylizedExplosionPack2/texture/icon.png
+Dependencies: []

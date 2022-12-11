@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 852556453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c990e87498bf8725f04f018817f24529
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad06958797749336e5782b9470fdf713
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalGround00I00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalLava00C00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalSnow00L00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalPuddle00W00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalGrass00I.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalSnow00C00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalMagma00I00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalGround00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalMagma00C00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalSnow00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalPuddle00I00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalLava00L00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalLava00W00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalGround00C00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalGrass00C.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalLava00I00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalGrass00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalMagma00L00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalMagma00W00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalGrass00L.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalPuddle00L00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalGround00L00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalSnow00I00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Decal/Bg_DecalPuddle00C00.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0f2aa2cd56fbe3fbf7d78fd6d1401ba9
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c840d5004ac47bcebbdd43dde80286c8

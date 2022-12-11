@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2261336594
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2893d34dc467058f88f62dc292f061f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767a59f8de390d2354823e760c737a44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Fallen_Leaves_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Board_Aspen_Tree_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Board_Pine_Tree_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Decal_Debris_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Board_Birch_Tree_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Board_Pine_Tree_04A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Decal_Debris_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Board_Birch_Tree_04A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Board_Oak_Tree_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Board_Aspen_Tree_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Board_Birch_Tree_03A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Fallen_Leaves_01B.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Board_Pine_Tree_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Board_Dead_Tree_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Fallen_Leaves_01C.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Board_Pine_Tree_05A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Board_Pine_Tree_03A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Decals/TFF_Board_Birch_Tree_02A.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5f142df1cab711ba9704a59ccdc48159
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/69e3dc1d3a9b4e9099bba0058bd863e1

@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3727790015
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bd1d13e8b8397b8ebb3172bb03c6ad8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cebd26c401dfcf68672d11935d8a1fff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Healthcube_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_SemiCircle.png
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Cutout_Round_VertexLit.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_SemiCircle.mat
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Bubble.png
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Cylinder_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Cone_01.fbx
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Bubble_02.png
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Fumes_01.mat
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Fumes_04.png
+- Assets/ThirdParty/PolygonParticleFX/Models/FX_Arrow_02.fbx
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Bubble_01.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Bubble.mat
+- Assets/ThirdParty/PolygonParticleFX/Textures/PolygonParticles_Smoke_01.png
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Smoke_Mat_05.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e6ee53a6acd77b41059212a63505a2a8

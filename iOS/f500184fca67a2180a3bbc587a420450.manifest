@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1796733660
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8afe605c25b2a2b2033faa76dc0ab89b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fa67b13594c94801839bd0d5060bbb09
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: d631692ab5174474eaaf2b43947b0b9f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StompyRobot/SRDebugger/UI/Styles/DefaultTabActive.asset
+- Assets/StompyRobot/SRDebugger/UI/Styles/DefaultConsoleAltRow.asset
+- Assets/StompyRobot/SRDebugger/UI/Styles/DefaultConsoleSelectedRow.asset
+- Assets/StompyRobot/SRDebugger/UI/Styles/Default.asset
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/59e3f424e670f17a57b55a8a3bd8ea91
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/63481f7868a6d2f8eff81b7e2dfad983
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/7bb2e384f9d2a8b8122ee6759f4879bd
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c162df5a40c6ba32af28cfecb797cf3e

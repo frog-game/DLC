@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2158283403
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd258bdb843693fc78a0c482f9ccc112
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Animations/Demo/DemoCloud.controller
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Animations/Demo/DemoCloud_Demo.anim
+Dependencies: []

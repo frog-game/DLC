@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2560281944
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5977c1a467662ddf1a13d38336afd3ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f0ef3a5e775b5ba3d1a3c71d340b5dd8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Large_03A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Medium_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Medium_04A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Medium_07A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Small_05A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Large_06A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Medium_06A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Large_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Small_04A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Stone_Slab_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Small_03A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Stone_Slab_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Large_04A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Small_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Large_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Medium_01A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Large_05A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Small_02A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Medium_05A.prefab
+- Assets/Toon Fantasy Nature/Prefabs/Rocks/TFF_Rock_Medium_03A.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/3986ca974a51bcc12e5ed184f38ca9d1
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5f142df1cab711ba9704a59ccdc48159
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/69e3dc1d3a9b4e9099bba0058bd863e1

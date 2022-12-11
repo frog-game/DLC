@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2043880182
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12a3fe209426791031c5e0dac19ec913
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Point1.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Noise43.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Noise34.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Smoke16.png
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Textures/Smoke3.png
+Dependencies: []

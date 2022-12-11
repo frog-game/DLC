@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3815570185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 922e689c259f9f31700fba887f1496a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03a9ba7de7ec8f7142347b1f354bde09
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Radars_glow.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Plasma.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Rockets1.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Plasma_glow.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Tesla.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/reflection.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_fire_acid.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_gaussguns_glow.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_gaussguns.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_fire_acid_glow.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Crystals.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Crystals_reflect.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Hammers.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Rockets2.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Rockets2_glow.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Mortars.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Gatlings.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_machinegun.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Laserguns_glow.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Hammers_glow.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Laserguns.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Radars.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_crossbow.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Tesla_glow.tif
+- Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_cannon1.tif
+Dependencies: []

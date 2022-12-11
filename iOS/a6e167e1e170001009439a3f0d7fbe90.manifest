@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2600246806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 560834f00b986caea1cc6d009dd19642
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 35184ccb0b8637394cc2beecc909dc41
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 171ba169ff2cea04e89c0c113485a5df, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/DefeatPanel/DefeatPanel.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b765cf24a89ca09c5df7957ce61f4a2e
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f006e5f38099408b8ff45ee9f1b62031

@@ -1,0 +1,187 @@
+ManifestFileVersion: 0
+CRC: 2686332410
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f228cd71244a50ab46bf047787f640d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 19b4c9eb706b7647f841f7b11aa2a311
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Btm_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Top_C_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Flora_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_E_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Stump_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Log_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Grass_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/DeadTrunk_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_C_06.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_B_06.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Btm_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_C_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Flower_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Grass_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_F_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Top_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Btm_C_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Btm_C_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_F_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Stump_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Btm_C_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Plant_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Pine_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Btm_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Top_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Flora_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Plant_C_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_D_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_E_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Buds_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Stump_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Pine_06.fbx
+- Assets/Environment Pack/Nature Forest/Models/Herb_C_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Top_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Conifer_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_D_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/DeadTrunk_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Plant_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Stump_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/TreeGiant_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/TreeSimple_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Top_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Grass_A_04.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Top_D_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Btm_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Fungus_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Root_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Fungus_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Plant_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Pine_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Top_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_F_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_E_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_C_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Btm_D_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Top_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Btm_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Conifer_05.fbx
+- Assets/Environment Pack/Nature Forest/Models/Plant_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_C_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Conifer_06.fbx
+- Assets/Environment Pack/Nature Forest/Models/Grass_B_06.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_B_04.fbx
+- Assets/Environment Pack/Nature Forest/Models/Fungus_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Plant_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_F_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Grass_A_06.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_A_05.fbx
+- Assets/Environment Pack/Nature Forest/Models/TreeGiant_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_A_06.fbx
+- Assets/Environment Pack/Nature Forest/Models/Grass_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_D_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Top_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Flower_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Grass_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_A_04.fbx
+- Assets/Environment Pack/Nature Forest/Models/Plant_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Top_C_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Stump_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Log_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Btm_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/TreeSimple_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Root_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_E_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Pine_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Btm_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Herb_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Log_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Btm_D_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Flora_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Herb_C_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Btm_D_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Plant_C_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_F_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Flora_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Conifer_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Top_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Top_D_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/DeadTrunk_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Grass_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Herb_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/FlowerBush_A_0.fbx
+- Assets/Environment Pack/Nature Forest/Models/TreeGiant_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Herb_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Plant_C_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Flora_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Grass_B_05.fbx
+- Assets/Environment Pack/Nature Forest/Models/Pine_04.fbx
+- Assets/Environment Pack/Nature Forest/Models/Conifer_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_B_05.fbx
+- Assets/Environment Pack/Nature Forest/Models/Flora_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Btm_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Buds_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Top_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Root_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Flower_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_C_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Herb_B_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/FlowerBush_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Bush_C_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/TreeSimple_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Pine_05.fbx
+- Assets/Environment Pack/Nature Forest/Models/Herb_C_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_C_05.fbx
+- Assets/Environment Pack/Nature Forest/Models/Herb_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Stump_B_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Grass_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_E_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Top_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Grass_A_05.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Btm_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Grass_B_04.fbx
+- Assets/Environment Pack/Nature Forest/Models/FlowerBush_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Herb_B_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Top_C_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Top_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Conifer_04.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Top_D_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Btm_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_E_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_Btm_A_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Btm_A_01.fbx
+- Assets/Environment Pack/Nature Forest/Models/Shrub_Top_A_03.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_C_04.fbx
+- Assets/Environment Pack/Nature Forest/Models/Rock_C_02.fbx
+- Assets/Environment Pack/Nature Forest/Models/Tree_F_01.fbx
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/28b4de9db7bc7b4cbc1a7ef3452951b9

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 83899608
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7bf11f4c4aa6efbfc72ab03087d4518
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/DOTweenPro/readme.txt
+- Assets/ThirdParty/DOTweenPro/DOTweenPro.XML
+Dependencies: []

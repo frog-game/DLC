@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1076772239
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fefae3508b8264d8ffb0efb8d3aa5f5a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_cross.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_terrains.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_particles.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_fonts.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_scripts.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_shaders.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_textures.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_star.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_materials.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_cog.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_audio.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_skull.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_demigiant.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_atlas.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_prefab.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_folder.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_models.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_bundle.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_play.png
+- Assets/ThirdParty/DemiLib/Core/Editor/Imgs/project/ico_heart.png
+Dependencies: []

@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2057414918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 135b040d3212fdd12035007c79a77cf5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/CommentaryResizeIconInv.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/FlatBackground.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/GraphPopup.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/PopupPicker.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/PropertyPicker.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/SliderButton.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/NodeSelected.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/BlueNormalBaseSquare.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/ObjectPickerBackgroundOutline.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/CommentNodeBase.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/GraphButton.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/GrayNormalHeader.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/WhitePortOutline.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/NoPreview.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/ButtonBackground.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/GrayNormalHeaderSquare.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/BlueNormalBaseLeft.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/GraphButtonActive.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/PreviewOff.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/PreviewOn.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/CommentaryResizeIcon.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/BlueNormalHeader.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/WireNodeSelection.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/NodeSelectedSquare.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/WhitePortSolid.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Nodes/BlueNormalBase.png
+Dependencies: []

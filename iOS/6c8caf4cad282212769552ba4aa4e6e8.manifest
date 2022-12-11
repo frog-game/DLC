@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1711103316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c00b7e07cd4d4cc07ebbd3d3f88710fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b1d502ac223343c95094425f377451e
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 03 B.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 05 B.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 01 A.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 04 B.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 04 A.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 02 A.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 02 B.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 01 B.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 03 A.png
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 05 A.png
+Dependencies: []

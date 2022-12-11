@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1738130746
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f2dec5d5c47039a774c50e4b10e302b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae2cf77de671e115b4e55d2b65767202
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Models/Vortex.fbx
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Models/CylinderFromGround.fbx
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Models/Tornado3.fbx
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Models/Cell.fbx
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Models/TornadoLow.fbx
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Models/TornadoGround.fbx
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Models/ConusSmoth.fbx
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Models/SharpStone5.fbx
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Models/TornadoHigh.fbx
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Models/SwordTrail2.fbx
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Models/Path1.fbx
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/Models/Shield.fbx
+Dependencies: []

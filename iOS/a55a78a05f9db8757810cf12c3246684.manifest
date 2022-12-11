@@ -1,0 +1,97 @@
+ManifestFileVersion: 0
+CRC: 3303490557
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e1f7dc34c928414189cd905e91d1c72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae2cf77de671e115b4e55d2b65767202
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_04_a.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_01_a.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Grass_02.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Grass_01.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_06_b.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Bush_02_e.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Plant_04_d.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_01_h.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_05_a.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_10.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Bush_01_d.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_03_a.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_09_b.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Bush_01_c.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_01_d.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_14_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_17_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_08_a.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_01_b.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_12_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_01_e.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_07_c.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Plant_04_c.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_14_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_02_b.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Plant_01.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_03_b.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_07_a.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_13_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Bush_02_b.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_13_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Bush_01_a.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Plant_02_c.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_04_b.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_05_b.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_01_g.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Plant_04_b.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Bush_01_f.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Plant_02_a.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_16_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_08_b.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_15_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_01_c.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Plant_02_b.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_09_d.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_09_a.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_16_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_06_a.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_17_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Bush_02_c.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Plant_03.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_15_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_01_f.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_11_LOD0.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_09_c.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Grass_03.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Bush_01_b.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_02_a.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_11_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Plant_04_a.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Bush_02_a.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Grass_04.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Bush_02_d.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_07_b.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Bush_02_f.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Bush_01_e.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Flower_12_LOD1.FBX
+- Assets/StylizedNatureBundle/Models/Vegetation/Plant_04_e.FBX
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/84928ce021bb4a4d1e6c49c2f3854633

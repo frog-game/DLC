@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 134709836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29d75b11fedf671865940061eb01f574
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 358a7ecdcf713dbea3882cf02bb1b7b5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/AmplifyShaderEditor/Examples/URP/Terrain/SRP Universal Terrain.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/47e873c3f10fcaa55008746103abfb95
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e2ac73c08516c0fc7dae6f4dab4bc6be

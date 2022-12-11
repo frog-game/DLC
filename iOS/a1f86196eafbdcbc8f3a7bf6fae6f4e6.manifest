@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1099665859
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7fa9f405d9a8c702662b5f1aacaeb853
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b93cc633ef6f3fc39ff93ba7ad78ac5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a895231490da6545890b1e1794f8704, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14fe9984834882c43b827e4197192a74, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/prefab/RedGreen/hitFX_redgreen/hitFX_weak_redgreen.prefab
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/prefab/RedGreen/hitFX_redgreen/hitFX_medium_redgreen.prefab
+- Assets/ThirdParty/EffectCore/packs/StylizedMeleeCombatPack1/prefab/RedGreen/hitFX_redgreen/hitFX_heavy_redgreen.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5d9310bbabe87423cc456343571d37fc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/8f7f7da5cecc322998ef4c3da67d54b6

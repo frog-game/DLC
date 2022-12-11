@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 546174075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e14ab210f62a92ee21ab171b81a7a606
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/LivePending.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/CleanupOFFNew.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/CustomExpAddIconActive.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/UpdateOFF.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/FocusNode.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/MiniBotLeftOff.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/ItemCleanupON.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/MinimizeWindow.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/OpenSourceCodeON.PNG
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/MiniBotRightOff.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/CustomExpRemoveIconNormal.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/OpenListedShader.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/LiveOFF.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/Help2.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/Help.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/SaveOFF.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/MiniBotRightOffHover.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/MiniBotLeftOnHover.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/MiniBotRightOn.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/Options.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/CustomExpRemoveIconActive.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/MiniBotMidOff.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/MiniBotLeftOn.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/MaximizeWindow.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/ItemCleanupOFF.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/RemoveFromList.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/MiniBotMidOnHover.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/CircularToggle_ON_Dark.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/SliderHoriz.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/ResetInspectorIcon.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/LiveON.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/CleanupON.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/New.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/MiniBotMidOffHover.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/ShareOFF.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/SelectionAsTemplate.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/Open.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/SaveON.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/CleanupOFF.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/AddToList.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/ShaderSelectOFF.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/OpenSourceCodeOFF.PNG
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/TransparentPixel.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/CircularToggle_OFF_Dark.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/CleanupONNew.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/MiniBotRightOnHover.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/CustomExpAddIconNormal.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/Checkmark.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/TakeScreenshotOFF.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/UpdateOutdated.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/MiniBotMidOn.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/FitView.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/UpdateUpToDated.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/MiniBotLeftOffHover.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/ShaderSelectON.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Buttons/Library.png
+Dependencies: []

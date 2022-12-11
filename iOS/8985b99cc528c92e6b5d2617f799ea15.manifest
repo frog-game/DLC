@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3446064102
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e0f11628e88a1fc39cfb1643f7e9d92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/LWRP and HDRP support/LWRP_Add_CG.shadergraph
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/LWRP and HDRP support/LWRP_Tornado.shadergraph
+- Assets/ThirdParty/Hovl Studio/Fantastic cartoon VFX/LWRP and HDRP support/LWRP_Blend_CG.shadergraph
+Dependencies: []

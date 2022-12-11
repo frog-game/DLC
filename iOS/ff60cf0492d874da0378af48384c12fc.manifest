@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1021018257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c60a38cfc1dc5c576a1266dc015a8a35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c52c953aa327f9373bb819a55838f154
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20c614cac2d801848a40e14474157be5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Eff/Eff_GroundDust00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Eff/Eff_Explosion.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Eff/Eff_Tumbleweed00.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Eff/Eff_Tail.prefab
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Prefabs/Eff/Eff_Ripple00.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/4f0b48e187ed4a0dfc625f7b75ee9be5
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c840d5004ac47bcebbdd43dde80286c8

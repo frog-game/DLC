@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3380272536
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f24afb66ec5eeacae19ad26561802c61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/chk_light.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/preset_particleadditive_light.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/inst_vert_tex.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/inst_frag_tex.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/chk.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/preset_custom.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/screenshot_icon_light.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/preset_particlealphablended_light.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/preset_posteffect.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/handle_drag.tga
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/logo.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/logo_light.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/preset_particleadditive.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/preset_litpbr.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/preset_particlemultiplicative.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/icon_normal.tga
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/inst_vert_tex_light.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/preset_sprite.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/preset_particlemultiplicative_light.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/icon_light.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/inst_frag.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/preset_particlealphablended.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/inst_frag_tex_light.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/inst_vert.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/preset_litbasic.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/preset_unlit.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/inst_frag_light.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/preset_highlight.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/preset_sky.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/screenshot_icon.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/icon.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/inst_vert_light.png
+Dependencies: []

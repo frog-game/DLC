@@ -1,0 +1,90 @@
+ManifestFileVersion: 0
+CRC: 1638895698
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f45bc9ec44943f3bb6863a197adc6e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0be75386e27e702cfeb4cbcc1b61225d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b2db86121404754db890f4c8dfe81b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdfbdbb87d3286943a057f7791b43141, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66f335fb1ffd8684294ad653bf1c7564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a3bdb2cd68f901469e7cc149151eb49, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5485954d14dfb9a4c8ead8edb0ded5b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c01700fd266d6914ababb731e09af2eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 899c54efeace73346a0a16faa3afe726, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Demo/Scenes/DemoScene_03.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0e57a8e4d1a3bb650d5c635997f6f54a
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/37ca90db6b8e7a639fd07ca0204c68f5
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/39ce32caa1d5b8aad4e266e132ce6c16
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/5fe5fce8670f9fb40c69c5cb58b87b53
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/84928ce021bb4a4d1e6c49c2f3854633
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/988c721addf367c790814356e452fa73
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/aeeafd64f3f2474791282769d464ddcc
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b5b5ef45a911769f3f0eb4226a577a00
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c1bb7514eb36bf55200b48e691dd5bbf
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/cb63c59ef24bad2313fd166296e8f016
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f14974f644886b309692a879cb47ca75

@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 929275289
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c7d8456b979e12ab9092d273098c046
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 255d54eccb7285dac139a631449d30f5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2e81b40d04e8e440bb9659057db98c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ed84aa42fb48c9458d3942c1d059055, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b9e7555976318b846887116c61e2ecf6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d631692ab5174474eaaf2b43947b0b9f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2415a15c0c9eea041863fc6c1a434ede, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d1bf029da478aff42a6d6e0ed8e21203, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73ae1b6eac706814a9cd427288a3c5c9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StompyRobot/SRDebugger/UI/Prefabs/SideBar/Tab.prefab
+- Assets/StompyRobot/SRDebugger/UI/Prefabs/SideBar/ConsoleTabButtonContent.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/59e3f424e670f17a57b55a8a3bd8ea91
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/7bb2e384f9d2a8b8122ee6759f4879bd
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/de2519a7a7b0960460b33c27bccccc3d
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f500184fca67a2180a3bbc587a420450

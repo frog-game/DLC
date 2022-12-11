@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4103126951
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6f53787281898a1dcc9dd4e8126ef2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767a59f8de390d2354823e760c737a44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Scenes/LobbyScene/Clouds/Cloud.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/367b96ccc0ab711c4b8e9394f9f05c03

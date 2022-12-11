@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2660608051
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5736d57aa610559f08cee79e71beed75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedWater2/Materials/Effects/Textures/WaterSplashUp_6x6_normals.png
+- Assets/StylizedWater2/Materials/Effects/Textures/WaterfallSplash_5x5_normals.png
+- Assets/StylizedWater2/Materials/Effects/Textures/WaterSplash_6x6_normals.png
+- Assets/StylizedWater2/Materials/Effects/Textures/WaterMist_5x5_normals.png
+- Assets/StylizedWater2/Materials/Effects/Textures/WaterSplash_6x6.png
+- Assets/StylizedWater2/Materials/Effects/Textures/WaterSplashUp_6x6.png
+- Assets/StylizedWater2/Materials/Effects/Textures/WaterRipple.png
+- Assets/StylizedWater2/Materials/Effects/Textures/WaterRipple_normal.png
+- Assets/StylizedWater2/Materials/Effects/Textures/WaterMist_5x5.png
+- Assets/StylizedWater2/Materials/Effects/Textures/WaterSplashCircle_5x5.png
+- Assets/StylizedWater2/Materials/Effects/Textures/WaterSplashCircle_5x5_normals.png
+- Assets/StylizedWater2/Materials/Effects/Textures/WaterfallSplash_5x5.png
+Dependencies: []

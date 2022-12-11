@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3404676285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a56d2e465b833d62642afcde4f6ac72b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a52bd08446d567216292295f6d2bdd7a
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 16d00b7005a47ef47802a8421dc6baf6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StompyRobot/SRDebugger/usr/Resources/SRDebugger/Settings.asset
+Dependencies: []

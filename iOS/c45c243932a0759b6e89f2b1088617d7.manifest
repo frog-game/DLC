@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 390596836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 163961abb82fab806696f13ae901e17a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UIImage/Logo.png
+- Assets/UIImage/icon.jpg
+Dependencies: []

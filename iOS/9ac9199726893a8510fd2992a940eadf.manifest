@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 744994762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83570d9152389d7528937c8a4c9693a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc27a7c2b7aeda57fe404097db2213c0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shock/ElectricityFlipbook.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shock/Electric_FlipVerticalBlue.mat
+- Assets/ThirdParty/Nokdef_VFXPack/Materials/Shock/Electric_FlipVertical.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d1f38b887103152ffddb41c266ae3831

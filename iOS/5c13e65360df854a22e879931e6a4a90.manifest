@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3689406887
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2915c5cd55f3b6910b67335fdabeda09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Environment Pack/Back Garden/Textures/Garden-Palette.png
+Dependencies: []

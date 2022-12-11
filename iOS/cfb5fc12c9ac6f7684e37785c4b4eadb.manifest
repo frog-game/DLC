@@ -1,0 +1,87 @@
+ManifestFileVersion: 0
+CRC: 3803949855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9624826feae844a7a1fabc968a45d13e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e34a8fe74bfd4de177350ed38bac6d0f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8fdf5921ba9788546a0a1fb47a5f6f44, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ffbf4592fc2f6294494f6778ae9ee3a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d407215be3ee194a84a8c32a622370c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe0ea2f634e951945bc5d89f195ad8d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 119
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Prefab/Lowpoly Sky.prefab
+- Assets/Res/Prefab/Baloon.prefab
+- Assets/Res/Prefab/NewBaloonEyes.mat
+- Assets/Res/Prefab/ChargeBar.png
+- Assets/Res/Prefab/DirectionIndicatorMaterial.mat
+- Assets/Res/Prefab/NewBaloonBody.mat
+- Assets/Res/Prefab/Baloon(1).fbx
+- Assets/Res/Prefab/PlayerRingMaterial.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/0b6bc217e3dbb2d368fcfa5ed7a23534
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/457d2f43e0c30002e57a8f66c73c5772
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/4d8b9c4f03eb7c3b5da64f60ea5b6dfd
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/994f3690453b50b063da257eb82ea874
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/b765cf24a89ca09c5df7957ce61f4a2e
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/children_cfb5fc12c9ac6f7684e37785c4b4eadb
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/f76798ea0001f30e7c83d7a4ce5d2c35
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/faec58d3ea88b1ffe63a03feb622be6d

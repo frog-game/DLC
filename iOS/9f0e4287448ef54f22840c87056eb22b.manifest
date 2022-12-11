@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4139180291
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f673d3642f6875a79f13cb1d3e84b82f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/Nodes/GPUInstancingIconON.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/Nodes/GPUInstancingIconOFF.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/Nodes/Bezier1X2AA.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/Nodes/MasterNodeIconOFF.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/Nodes/TextureReferenceBg.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/Nodes/LinkIcon.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/Nodes/MasterNodeIconON.png
+Dependencies: []

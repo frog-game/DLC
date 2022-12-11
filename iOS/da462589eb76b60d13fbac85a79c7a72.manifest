@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2292246333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e5f8e355f80978edb0ea15c319d7e4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a5ebd803bb7b5ea64347c001aea050fa
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b2db86121404754db890f4c8dfe81b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81180773991d8724ab7f2d216912b564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e021b4c809a781e468c2988c016ebbea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66f335fb1ffd8684294ad653bf1c7564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 899c54efeace73346a0a16faa3afe726, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Post Processing/TFF_Day_3.asset
+- Assets/Toon Fantasy Nature/Post Processing/TFF_Dusk_1.asset
+- Assets/Toon Fantasy Nature/Post Processing/TFF_Day_4.asset
+- Assets/Toon Fantasy Nature/Post Processing/TFF_Day_1.asset
+- Assets/Toon Fantasy Nature/Post Processing/TFF_Day_2.asset
+- Assets/Toon Fantasy Nature/Post Processing/TFF_Night_1.asset
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/cbbc8120ce429af6ebd9fb5cd04d92e9

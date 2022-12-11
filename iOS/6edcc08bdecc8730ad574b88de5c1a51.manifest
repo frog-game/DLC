@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 650316678
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ffcdf32068366566fa4085b589d71d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27685bed0d7f56f17d04c42e6e8b3d38
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9be8aeadd554b3c488c79555c2c46709, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b5acb73755bceb4d8263fff5b60c004, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da65cc640ca49214eaaf69531b38de16, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aba2bd1d74124a54d8737ba971cd7633, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6a04edb346a8b34c84035bf9a24b795, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a1a3589e24589e4fb6840b44d1b21c5, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_TerrainData/TerrainData_522465994439700836.asset
+- Assets/_TerrainData/TerrainMaterial_522465994439700836.mat
+Dependencies: []

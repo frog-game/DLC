@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3465517638
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b82c25b8bef4c8f60ce3ecd30529e16d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Prefab/Images/hp_foreground2.png
+- Assets/Res/Prefab/Images/hp_background_1.png
+- Assets/Res/Prefab/Images/BaloonRing.png
+- Assets/Res/Prefab/Images/hp_foreground.png
+- Assets/Res/Prefab/Images/gp_foreground.png
+Dependencies: []

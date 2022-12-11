@@ -1,0 +1,87 @@
+ManifestFileVersion: 0
+CRC: 872861272
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c2b18b1f693bbae654153eecec7512e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8180ca0201dc4aa0078e31d02b39cff0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8dfe2004a492904fb009707fbbb7cc2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8945a06b745019488038c3312083531, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e286838775efa6429f9525133f1717b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20c614cac2d801848a40e14474157be5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3035519c475f2354e97ee1725eff3681, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Scenes/Demo_Mesa_Stream.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1db3e3cf68a9aacd9df8ee95e425d9aa
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/2ed177f48d3fdf37f1bd6f419a3a4e71
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/3b66308077e9bccbbb96714da6700921
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/408070f0458e80159e6a2132b9299c40
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/41cff8b3f5b83d07e7825bf4d2c2ad5f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/4f0b48e187ed4a0dfc625f7b75ee9be5
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/97a9077f09b4c0ecdee06123280ac5d3
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/cfdcb4dac2b7d2a2bf08274b07ab68f2

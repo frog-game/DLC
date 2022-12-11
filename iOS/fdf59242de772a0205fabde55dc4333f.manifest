@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2648309727
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e6c094af85979e8405463370d47d53a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toon Fantasy Nature/Skyboxes/Textures/Night_1/pz.png
+- Assets/Toon Fantasy Nature/Skyboxes/Textures/Night_1/ny.png
+- Assets/Toon Fantasy Nature/Skyboxes/Textures/Night_1/nz.png
+- Assets/Toon Fantasy Nature/Skyboxes/Textures/Night_1/px.png
+- Assets/Toon Fantasy Nature/Skyboxes/Textures/Night_1/nx.png
+- Assets/Toon Fantasy Nature/Skyboxes/Textures/Night_1/py.png
+Dependencies: []

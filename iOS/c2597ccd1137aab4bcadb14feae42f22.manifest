@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1147977200
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a38b9cb46609d4e3c6d62ce9ef606351
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 956f9ec2ffe1a5fcee2872cbf8abd9b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81180773991d8724ab7f2d216912b564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 117
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Scenes/LobbyScene/CloudSphereMat_lightning.exr
+- Assets/Res/Scenes/LobbyScene/CloudSphereMat_density.asset
+- Assets/Res/Scenes/LobbyScene/CloudSphereMat_density.exr
+- Assets/Res/Scenes/LobbyScene/CloudSphereMat_sdf.exr
+- Assets/Res/Scenes/LobbyScene/ReflectionProbe-0.exr
+- Assets/Res/Scenes/LobbyScene/CloudSphereMat_sdf.asset
+- Assets/Res/Scenes/LobbyScene/CloudSphereMat.mat
+- Assets/Res/Scenes/LobbyScene/Global Volume Profile.asset
+- Assets/Res/Scenes/LobbyScene/CloudCircle_lightning_output.exr
+- Assets/Res/Scenes/LobbyScene/CloudSphereMat_lightning.asset
+Dependencies: []

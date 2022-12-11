@@ -1,0 +1,105 @@
+ManifestFileVersion: 0
+CRC: 2919627639
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 727daff8fe3fe0667a5ed4b4dd3557c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Code/Unity.RenderPipeline.Universal.ShaderLibrary.dll.bytes
+- Assets/Res/Code/System.Memory.dll.bytes
+- Assets/Res/Code/sc.stylizedwater2.runtime.dll.bytes
+- Assets/Res/Code/Unity.Model.dll.bytes
+- Assets/Res/Code/UnityEngine.PhysicsModule.dll.bytes
+- Assets/Res/Code/UnityEngine.AIModule.dll.bytes
+- Assets/Res/Code/UnityEngine.TerrainModule.dll.bytes
+- Assets/Res/Code/XAsset.Runtime.dll.bytes
+- Assets/Res/Code/DOTween.dll.bytes
+- Assets/Res/Code/UnityEngine.UIModule.dll.bytes
+- Assets/Res/Code/UnityEngine.SubsystemsModule.dll.bytes
+- Assets/Res/Code/UnityEngine.TextCoreModule.dll.bytes
+- Assets/Res/Code/UnityEngine.UNETModule.dll.bytes
+- Assets/Res/Code/Unity.Postprocessing.Runtime.dll.bytes
+- Assets/Res/Code/netstandard.dll.bytes
+- Assets/Res/Code/HybridCLR.Runtime.dll.bytes
+- Assets/Res/Code/Assembly-CSharp.dll.bytes
+- Assets/Res/Code/UnityEngine.SharedInternalsModule.dll.bytes
+- Assets/Res/Code/StompyRobot.SRF.dll.bytes
+- Assets/Res/Code/Cinemachine.dll.bytes
+- Assets/Res/Code/ShapedVolumetricCloud.Runtime.dll.bytes
+- Assets/Res/Code/BehaviorDesigner.Runtime.dll.bytes
+- Assets/Res/Code/UnityEngine.IMGUIModule.dll.bytes
+- Assets/Res/Code/Hotfix.pdb.bytes
+- Assets/Res/Code/DOTweenPro.dll.bytes
+- Assets/Res/Code/Boxophobic.Utils.Scripts.dll.bytes
+- Assets/Res/Code/UnityEngine.ParticleSystemModule.dll.bytes
+- Assets/Res/Code/Unity.Hotfix.dll.bytes
+- Assets/Res/Code/UnityEngine.UnityAnalyticsModule.dll.bytes
+- Assets/Res/Code/mscorlib.dll.bytes
+- Assets/Res/Code/com.unity.multiplayer-hlapi.Runtime.dll.bytes
+- Assets/Res/Code/UnityEngine.SpriteMaskModule.dll.bytes
+- Assets/Res/Code/UnityEngine.UnityWebRequestTextureModule.dll.bytes
+- Assets/Res/Code/Unity.RenderPipelines.Core.Runtime.dll.bytes
+- Assets/Res/Code/Mono.Security.dll.bytes
+- Assets/Res/Code/UnityEngine.XRModule.dll.bytes
+- Assets/Res/Code/UnityEngine.CoreModule.dll.bytes
+- Assets/Res/Code/Boxophobic.PolyverseSkies.Runtime.dll.bytes
+- Assets/Res/Code/System.Globalization.Extensions.dll.bytes
+- Assets/Res/Code/UnityEngine.AnimationModule.dll.bytes
+- Assets/Res/Code/UnityEngine.VRModule.dll.bytes
+- Assets/Res/Code/PEPhysx.dll.bytes
+- Assets/Res/Code/UnityEngine.AndroidJNIModule.dll.bytes
+- Assets/Res/Code/System.Diagnostics.StackTrace.dll.bytes
+- Assets/Res/Code/UnityEngine.VFXModule.dll.bytes
+- Assets/Res/Code/Pathfinding.Ionic.Zip.Reduced.dll.bytes
+- Assets/Res/Code/UnityEngine.TilemapModule.dll.bytes
+- Assets/Res/Code/UnityEngine.InputLegacyModule.dll.bytes
+- Assets/Res/Code/System.Buffers.dll.bytes
+- Assets/Res/Code/UnityEngine.dll.bytes
+- Assets/Res/Code/Hotfix.dll.bytes
+- Assets/Res/Code/UnityEngine.UIWidgetsModule.dll.bytes
+- Assets/Res/Code/Unity.Timeline.dll.bytes
+- Assets/Res/Code/System.dll.bytes
+- Assets/Res/Code/HoudiniEngineUnity.dll.bytes
+- Assets/Res/Code/UnityEngine.TerrainPhysicsModule.dll.bytes
+- Assets/Res/Code/UnityEngine.JSONSerializeModule.dll.bytes
+- Assets/Res/Code/UnityEngine.VideoModule.dll.bytes
+- Assets/Res/Code/UnityEngine.TextRenderingModule.dll.bytes
+- Assets/Res/Code/UnityEngine.UnityWebRequestAudioModule.dll.bytes
+- Assets/Res/Code/PEMath.dll.bytes
+- Assets/Res/Code/System.Runtime.dll.bytes
+- Assets/Res/Code/System.Core.dll.bytes
+- Assets/Res/Code/UnityEngine.GameCenterModule.dll.bytes
+- Assets/Res/Code/Unity.RenderPipelines.Universal.Runtime.dll.bytes
+- Assets/Res/Code/System.Numerics.Vectors.dll.bytes
+- Assets/Res/Code/UnityEngine.InputModule.dll.bytes
+- Assets/Res/Code/UnityEngine.UnityWebRequestAssetBundleModule.dll.bytes
+- Assets/Res/Code/System.Numerics.dll.bytes
+- Assets/Res/Code/Unity.TextMeshPro.dll.bytes
+- Assets/Res/Code/StompyRobot.SRDebugger.dll.bytes
+- Assets/Res/Code/System.Xml.dll.bytes
+- Assets/Res/Code/UnityEngine.Physics2DModule.dll.bytes
+- Assets/Res/Code/Unity.ThirdParty.dll.bytes
+- Assets/Res/Code/System.Runtime.CompilerServices.Unsafe.dll.bytes
+- Assets/Res/Code/PETimer.dll.bytes
+- Assets/Res/Code/UnityEngine.UIElementsModule.dll.bytes
+- Assets/Res/Code/Boxophobic.PolyverseSkies.Scripts.dll.bytes
+- Assets/Res/Code/Unity.Hotfix.pdb.bytes
+- Assets/Res/Code/UnityEngine.AudioModule.dll.bytes
+- Assets/Res/Code/UnityEngine.UI.dll.bytes
+- Assets/Res/Code/UnityEngine.DirectorModule.dll.bytes
+- Assets/Res/Code/UnityEngine.UnityWebRequestModule.dll.bytes
+- Assets/Res/Code/System.Configuration.dll.bytes
+- Assets/Res/Code/UnityEngine.GridModule.dll.bytes
+- Assets/Res/Code/UnityEngine.AssetBundleModule.dll.bytes
+- Assets/Res/Code/System.IO.Compression.dll.bytes
+- Assets/Res/Code/ICSharpCode.SharpZipLib.dll.bytes
+- Assets/Res/Code/UnityEngine.ImageConversionModule.dll.bytes
+Dependencies: []

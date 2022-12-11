@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1306484504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c90dc3206f08501d5f9b9b3dfdc242c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66f946aea8d7445bd523659595b2e08d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Triangle/TriangleExplosion_2.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Triangle/TriangleTornado_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Triangle/TriangleBounce_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Triangle/TriangleExplosion_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Triangle/TriangleStrike_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Triangle/TriangleRotate_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Triangle/TriangleRain_2.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Triangle/TriangleWindFloat_2.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Triangle/TriangleBlow.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Triangle/TriangleWindFloat_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Triangle/TriangleRain_1.prefab
+- Assets/ThirdParty/GeometryFXParticles/Prefabs/AdvancedParticles/Triangle/TriangleImpact_1.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d138d9ce3756c0b23312d4977fd47e72
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/d62581754429714db0fe50263dc1b9d4

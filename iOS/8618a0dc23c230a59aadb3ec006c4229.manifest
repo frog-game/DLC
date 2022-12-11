@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1997749363
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37d933ad5345cb2e1b0e1514613c5e4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3b8953812ccd1f71d964882f4a582367
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Battle/Items/Boom.prefab
+- Assets/Resources/Battle/Items/Sucker.prefab
+- Assets/Resources/Battle/Items/Passive_1.prefab
+- Assets/Resources/Battle/Items/Pin.prefab
+- Assets/Resources/Battle/Items/Passive_3.prefab
+- Assets/Resources/Battle/Items/Passive_2.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/457d2f43e0c30002e57a8f66c73c5772
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/fa9bcdc02a38d9af13c88e4197d70e29

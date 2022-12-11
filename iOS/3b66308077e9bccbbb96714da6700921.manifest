@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1748018820
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8e7bd0e7a0e7896af2c7a55bba23187
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 01304f128364ecd95dd3bc87c0f2685e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8945a06b745019488038c3312083531, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3035519c475f2354e97ee1725eff3681, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/LowPolyTerrain-Mesa/Man/Man2.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1db3e3cf68a9aacd9df8ee95e425d9aa
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/41cff8b3f5b83d07e7825bf4d2c2ad5f

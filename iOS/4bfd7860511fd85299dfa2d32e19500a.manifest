@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3268910676
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22515c3c3d18189e68270847755a1a68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_final.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_viewreflectionvector.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_objectscale.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_lightattenuation.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_screenpos_2.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_vertexcolor.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_time.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_viewvector.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_tau.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_screenpos.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_screenparameters.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_normalvector.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_depth.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_bitangent.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_fragmentposition.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_phi.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_viewposition.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_halfvector.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_ambientlight.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_tangent.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_pi.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_objectposition.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_fogcolor_2.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_screenpos_3.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_fogcolor.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_normalvector_2.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_lightposition.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_lightcolor.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_root2.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_projectionparameters.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_facesign_2.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_e.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_lightvector.png
+- Assets/Editor/ShaderForge/Editor/InternalResources/Interface/Nodes/sfn_facesign.png
+Dependencies: []

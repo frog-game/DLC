@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 508097809
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7101550e114ee33e15ff67c9538bde49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1ef38094c59133083adca03806491a8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d407215be3ee194a84a8c32a622370c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9f4a0ee674450044bf699fe8c7b5761, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/VertexAnimation/Demo.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/9b41e6b564c3b5340dbfc8b40952aaab

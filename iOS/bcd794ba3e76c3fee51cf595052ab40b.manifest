@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 566574981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42dd3bccdd2be33a0c59efc53cffb5d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/SuperMobileController/Scenes/SampleCharacter/License/UCL2.0/License
+  Logo/LUUL_LOGO_rules02.psd
+Dependencies: []

@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 703256856
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 251fd4e0cbd589c0f0f36d6dfcabd1df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad06958797749336e5782b9470fdf713
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/skull1.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Bone1.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Plank4.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Plank3.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Box.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Plank.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Pilar2.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Pilar4.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/skull2.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Rail2.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Gate.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Box02.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Fence03.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Mudwall02.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Mudwall01.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Mudwall03.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Fence02.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Bone2.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Entrance.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Rail1.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Barrel01.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Pilar1.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Barrel02.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Fence.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Pilar3.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Ladder.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Chariot.prefab
+- Assets/ThirdParty/Battle Arena - Cartoon Assets/Prefabs/Props/Plank2.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/4c9eb03703db079c45f31b6d4ba685fe
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/aa0cc71b48f7b3d9814e518fbbb2e06f

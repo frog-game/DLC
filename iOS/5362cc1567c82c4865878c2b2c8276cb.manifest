@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 3629363381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28c7856eb82e5045d5f12ec15a3d4a8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cebd26c401dfcf68672d11935d8a1fff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/PolygonParticleFX/Materials/FX_Plane_Particle.obj
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Leaves.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Shell.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Dust.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_VertexLitBlended_Dark.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Ice_01.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticles_Material_01_B.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Fumes.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Rainbow_FX.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticles_Material_01_C.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_LightRay_Cube.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Material.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Flies.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Smoke_Mat_03.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Fumes_02.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Cutout_Round_VertexLit.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Emissive_Fire.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_SemiCircle.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Rock_01.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Default_01.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Soft_Spot.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Swipe_02.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Dark.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Circle.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Default.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Sparkle 1.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Fumes_01.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Ring_01.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Cutout_Round_Dark.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Sparkle.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Cutout_Round_Multiply.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Sun_Beams.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Cutout_Round 1.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Texture.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_SunBeam_Particles.png
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Hexagon.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticles_Material_01_A.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Bubble_01.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Soft_Spot 1.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Blood.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_HalfCircle.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Bubble.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Additive_Soft.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_RitualCircle_01.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Portal_01.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Wings_Grid.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Ice_02.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Emission.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Smoke_Mat_05.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Cutout_Round.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Swipe_Grid.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Leave.png
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Empty.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_GroundBreaking.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_VertexLitBlended_Light.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Rock_02.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Lightning.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Wind.mat
+- Assets/ThirdParty/PolygonParticleFX/Materials/PolygonParticleFX_Cloud.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1d99f3f4dd733223c748b31b26cb9cbb
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/321b513a0e79d5632437d3fad9a64b6b

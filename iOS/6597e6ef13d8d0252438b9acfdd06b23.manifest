@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 618387996
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b007a81447d784f7b0a895c03f42fe66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/ShaderFunctionIcon.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/ShaderModeIconOFF.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/SelectionBox.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/Grid128.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/LineTex 4.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/ShaderModeMatIcon.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/LineTex 3.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/Material.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/ShaderFunctionModeIcon.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/MainCanvasTitleBg.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/Shader.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/CircleBackground.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/LineTex.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/ShaderFunctionModeIconOFF.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/LineTex 2.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/ShaderModeIcon.PNG
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/TransparentOverlay.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/ShaderFunction.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/MaterialModeIconOFF.png
+- Assets/Editor/AmplifyShaderEditor/Plugins/EditorResources/UI/Canvas/MaterialModeIcon.PNG
+Dependencies: []

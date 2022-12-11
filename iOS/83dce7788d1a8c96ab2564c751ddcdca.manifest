@@ -1,0 +1,93 @@
+ManifestFileVersion: 0
+CRC: 975690913
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f02cf90d6b2d530f9f16f81740b4716
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aaa5c573b10757e7316a2cea106152e0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd6d4281e5d7cd44d8c6e38bc2c1b8d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fd999d1b2cf94a45a5b0a47ce074bef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7fceaeb339b971b429c4cc600acabd13, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd70d448b18cfbc46af26466f752332c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0923359e9e352a4b9b11c7b7161ad67, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Demo/Demo2_towers.unity
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/67775eee8bb6e068dd8508607666e6ea
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/89ac77cbad68005902a98635df82ceff
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/9da4dc4f65ca2c48485202579f4d6408
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a075f2a8475210035e0721cbee8a1ab3
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a2eb783624164c219f6ffb1296b8b2a7
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/aeb11896d165311798fd32d1d1864898
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/c4f77ca6ae8ba739852f634c57a8ed07

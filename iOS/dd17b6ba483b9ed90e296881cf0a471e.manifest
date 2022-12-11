@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1974767225
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e6eaa6d222a24742e5e949052a0f2d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c52de6560d3e450e26e9a03297d9f7c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ceaccea769246b47b5fd8713ee65960, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/EffectCore/packs/StylizedExplosionPack2/WebBuildStylizedExplosionPack2/prefabBombs/DemonFire/DemonFire_medium_Bomb.prefab
+- Assets/ThirdParty/EffectCore/packs/StylizedExplosionPack2/WebBuildStylizedExplosionPack2/prefabBombs/DemonFire/DemonFire_small_Bomb.prefab
+- Assets/ThirdParty/EffectCore/packs/StylizedExplosionPack2/WebBuildStylizedExplosionPack2/prefabBombs/DemonFire/DemonFire_heavy_Bomb.prefab
+- Assets/ThirdParty/EffectCore/packs/StylizedExplosionPack2/WebBuildStylizedExplosionPack2/prefabBombs/DemonFire/demonFire_bomb.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/845db69c9565bbde39b6effe7c975bf1
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/a9ce733463e01f3974b2d52f8e8e9cb8

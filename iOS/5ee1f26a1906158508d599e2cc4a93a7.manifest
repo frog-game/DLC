@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2117272869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53d3618a98a999a698dae8b3cd3f0c8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6db7cd5e9790814479c8f1cd6c529630
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 9efe492012223b14b8060cacb0dc9fd5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16772546f83d396488575f7c7f1cc20e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9db2297d355d7964e8d19d435584ed32, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Items/ItemDataTable.asset
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/2d0e0211018dc58d61a26b4129d8b7c1
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/59bd0786e25a1b484557b64a2eddcb4c

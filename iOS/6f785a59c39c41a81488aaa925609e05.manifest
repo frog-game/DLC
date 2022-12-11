@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4286673582
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1593c8818f4fcb67bdc80115db115a1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6661e2dac358c09cfd28764eb27acd2f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3d3ef1a5bbfb4e0a910fbbe5830b1f9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MOBA and Tower Defense/Standard Assets/Environment/Water/Water/Prefabs/WaterProNighttime.prefab
+- Assets/MOBA and Tower Defense/Standard Assets/Environment/Water/Water/Prefabs/WaterProDaytime.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/149a7ed6fcadfeee96188005f148d35f
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/e33165df1612a5b3d0f59236f354cfc7

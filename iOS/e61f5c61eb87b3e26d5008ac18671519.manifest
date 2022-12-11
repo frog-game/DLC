@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1123606258
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 883da60595e2f21023c28b4f4b52324d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b1d502ac223343c95094425f377451e
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/BOXOPHOBIC/Polyverse Skies/Core/Textures/Patterns/Pattern 03.png
+Dependencies: []

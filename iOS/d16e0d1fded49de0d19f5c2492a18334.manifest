@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1490047612
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0999a709e6dee8af5c20be0a00675aa2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c01e904fb2e48cc3fc7e14dd03554547
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 183748dd497aa473a98ff0cd8cb67fc5, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/TargetReachedEffect.prefab
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/DynamicObstacle.prefab
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/SomeBox.prefab
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/25a69cb68e7031a6a8c71d963cea384d

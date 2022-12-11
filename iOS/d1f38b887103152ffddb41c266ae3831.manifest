@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 1126959938
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6e03d22c20e19fb390bb1b2c1fb5db3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/AnimeSlash.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/gradient_002.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/AnimeSlashFlipbook.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Flare_Cross.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Impact_LightraysBlurry.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Disolve_Twirly.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/WebbedNoise.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/SmokeHarsh_BlackSpots.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Flecks_Fluid.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Impact_Lightrays.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Flare_SoftCross.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Circle_Generic.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Spark_6.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Spark_3.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Ring_ShockwaveLiquidy.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/FireNoise.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Spark_1.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/WindBlades.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/LightFlash.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/RibbonTwirly.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/MaskPacked.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/GroundDecal_Tribal2.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Crater_Spiky.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/HealingCross.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Sparks_Atlas.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/BubblesWater.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/FireQuad_Stylized.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/SmokePuff_Twirly.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/ImpactSmoke_Flipbook.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/GroundCrack_RadialPostExplody.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/BokehDot_RGB_Strong.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Universe_Noise_Blockish.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/WindBlades_Animated.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/StarburstImpact.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Electricity.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/HalftoneCrescent.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Heart.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/ConstelationsPickbook.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/SwordSlash_Anime_Square.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/SmokeHarsh.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Glowdots_Speckles.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/WaterSplashFlipbook.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/PackedNoises_Generic.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/UniverseTile.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Flare_Glint.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Noise_SuperContrasted.tga
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/twirl_02.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Flare_Glowdot.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/AnimeSmoke_Flip2.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Flare_FatDot.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Fleks_AlphaClipped.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/LeafAtlas_Nature.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Electric_Pickbook2.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Spark_5.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/Hit_Spikes.png
+- Assets/ThirdParty/Nokdef_VFXPack/Textures/BloodRibbon.png
+Dependencies: []

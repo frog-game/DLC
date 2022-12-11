@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4206890014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b66ed99d14ca98b52de120ee0fc8fe97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a6f6348a6dc422101f55c39d02b4079
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StylizedNatureBundle/Demo/Materials/M_SNB_Skybox_Demo_01.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/34b4d3a3960d58bf15f1db4d255f4667

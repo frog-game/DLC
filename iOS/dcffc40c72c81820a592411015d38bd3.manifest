@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2362005662
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc25f796b8b86dd97cfbca355eb6925e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/Minimalist/MinimalistClipboard.asset
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1391111303
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85afa797b610721fadcaaf4553999c05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/GroundRTS.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/BlueGround.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/BlueCheckerGround.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/PathBlueArea.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/BlueBox.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/SomeBox.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/PathRedArea.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/OrangeGround.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/Wall.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/AI.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/Door.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/Ground.mat
+- Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Materials/PathGreyCube.mat
+Dependencies:
+- D:/github-work/wanmei-baboom/baboom/Unity/DLC/iOS/1aa355706e1767666124331a716c7890
